@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "sakamichi-blog-archive"
+  },
+  "targets": {
+    "sakamichi-blog-archive": {
+      "hosting": {
+        "default": [
+          "sba-contributions"
+        ]
+      }
+    }
+  }
+}
