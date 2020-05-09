@@ -1,6 +1,6 @@
 {
-    "year": 2020,
-    "count": 494,
+    "year": "2020",
+    "count": 495,
     "days": [
         {
             "date": "2020-01-01",
@@ -646,6 +646,11 @@
             "date": "2020-05-08",
             "dateFormatted": "5/8",
             "count": 2
+        },
+        {
+            "date": "2020-05-09",
+            "dateFormatted": "5/9",
+            "count": 1
         }
     ],
     "offset": 3,
