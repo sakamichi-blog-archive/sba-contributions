@@ -1,0 +1,680 @@
+{
+    "year": 2020,
+    "count": 494,
+    "days": [
+        {
+            "date": "2020-01-01",
+            "dateFormatted": "1/1",
+            "count": 2
+        },
+        {
+            "date": "2020-01-02",
+            "dateFormatted": "1/2",
+            "count": 4
+        },
+        {
+            "date": "2020-01-03",
+            "dateFormatted": "1/3",
+            "count": 1
+        },
+        {
+            "date": "2020-01-04",
+            "dateFormatted": "1/4",
+            "count": 2
+        },
+        {
+            "date": "2020-01-05",
+            "dateFormatted": "1/5",
+            "count": 3
+        },
+        {
+            "date": "2020-01-06",
+            "dateFormatted": "1/6",
+            "count": 5
+        },
+        {
+            "date": "2020-01-07",
+            "dateFormatted": "1/7",
+            "count": 4
+        },
+        {
+            "date": "2020-01-08",
+            "dateFormatted": "1/8",
+            "count": 2
+        },
+        {
+            "date": "2020-01-09",
+            "dateFormatted": "1/9",
+            "count": 3
+        },
+        {
+            "date": "2020-01-10",
+            "dateFormatted": "1/10",
+            "count": 5
+        },
+        {
+            "date": "2020-01-11",
+            "dateFormatted": "1/11",
+            "count": 2
+        },
+        {
+            "date": "2020-01-12",
+            "dateFormatted": "1/12",
+            "count": 4
+        },
+        {
+            "date": "2020-01-13",
+            "dateFormatted": "1/13",
+            "count": 3
+        },
+        {
+            "date": "2020-01-14",
+            "dateFormatted": "1/14",
+            "count": 3
+        },
+        {
+            "date": "2020-01-15",
+            "dateFormatted": "1/15",
+            "count": 3
+        },
+        {
+            "date": "2020-01-16",
+            "dateFormatted": "1/16",
+            "count": 2
+        },
+        {
+            "date": "2020-01-17",
+            "dateFormatted": "1/17",
+            "count": 2
+        },
+        {
+            "date": "2020-01-18",
+            "dateFormatted": "1/18",
+            "count": 5
+        },
+        {
+            "date": "2020-01-19",
+            "dateFormatted": "1/19",
+            "count": 2
+        },
+        {
+            "date": "2020-01-20",
+            "dateFormatted": "1/20",
+            "count": 5
+        },
+        {
+            "date": "2020-01-21",
+            "dateFormatted": "1/21",
+            "count": 1
+        },
+        {
+            "date": "2020-01-22",
+            "dateFormatted": "1/22",
+            "count": 5
+        },
+        {
+            "date": "2020-01-23",
+            "dateFormatted": "1/23",
+            "count": 3
+        },
+        {
+            "date": "2020-01-24",
+            "dateFormatted": "1/24",
+            "count": 3
+        },
+        {
+            "date": "2020-01-25",
+            "dateFormatted": "1/25",
+            "count": 6
+        },
+        {
+            "date": "2020-01-26",
+            "dateFormatted": "1/26",
+            "count": 3
+        },
+        {
+            "date": "2020-01-27",
+            "dateFormatted": "1/27",
+            "count": 3
+        },
+        {
+            "date": "2020-01-28",
+            "dateFormatted": "1/28",
+            "count": 5
+        },
+        {
+            "date": "2020-01-29",
+            "dateFormatted": "1/29",
+            "count": 4
+        },
+        {
+            "date": "2020-01-30",
+            "dateFormatted": "1/30",
+            "count": 4
+        },
+        {
+            "date": "2020-01-31",
+            "dateFormatted": "1/31",
+            "count": 6
+        },
+        {
+            "date": "2020-02-01",
+            "dateFormatted": "2/1",
+            "count": 2
+        },
+        {
+            "date": "2020-02-02",
+            "dateFormatted": "2/2",
+            "count": 4
+        },
+        {
+            "date": "2020-02-03",
+            "dateFormatted": "2/3",
+            "count": 6
+        },
+        {
+            "date": "2020-02-04",
+            "dateFormatted": "2/4",
+            "count": 5
+        },
+        {
+            "date": "2020-02-05",
+            "dateFormatted": "2/5",
+            "count": 4
+        },
+        {
+            "date": "2020-02-06",
+            "dateFormatted": "2/6",
+            "count": 2
+        },
+        {
+            "date": "2020-02-07",
+            "dateFormatted": "2/7",
+            "count": 2
+        },
+        {
+            "date": "2020-02-08",
+            "dateFormatted": "2/8",
+            "count": 3
+        },
+        {
+            "date": "2020-02-09",
+            "dateFormatted": "2/9",
+            "count": 2
+        },
+        {
+            "date": "2020-02-10",
+            "dateFormatted": "2/10",
+            "count": 4
+        },
+        {
+            "date": "2020-02-11",
+            "dateFormatted": "2/11",
+            "count": 1
+        },
+        {
+            "date": "2020-02-12",
+            "dateFormatted": "2/12",
+            "count": 3
+        },
+        {
+            "date": "2020-02-13",
+            "dateFormatted": "2/13",
+            "count": 7
+        },
+        {
+            "date": "2020-02-14",
+            "dateFormatted": "2/14",
+            "count": 2
+        },
+        {
+            "date": "2020-02-15",
+            "dateFormatted": "2/15",
+            "count": 2
+        },
+        {
+            "date": "2020-02-16",
+            "dateFormatted": "2/16",
+            "count": 1
+        },
+        {
+            "date": "2020-02-17",
+            "dateFormatted": "2/17",
+            "count": 1
+        },
+        {
+            "date": "2020-02-18",
+            "dateFormatted": "2/18",
+            "count": 2
+        },
+        {
+            "date": "2020-02-19",
+            "dateFormatted": "2/19",
+            "count": 2
+        },
+        {
+            "date": "2020-02-20",
+            "dateFormatted": "2/20",
+            "count": 7
+        },
+        {
+            "date": "2020-02-21",
+            "dateFormatted": "2/21",
+            "count": 1
+        },
+        {
+            "date": "2020-02-22",
+            "dateFormatted": "2/22",
+            "count": 2
+        },
+        {
+            "date": "2020-02-23",
+            "dateFormatted": "2/23",
+            "count": 2
+        },
+        {
+            "date": "2020-02-24",
+            "dateFormatted": "2/24",
+            "count": 2
+        },
+        {
+            "date": "2020-02-25",
+            "dateFormatted": "2/25",
+            "count": 3
+        },
+        {
+            "date": "2020-02-26",
+            "dateFormatted": "2/26",
+            "count": 3
+        },
+        {
+            "date": "2020-02-27",
+            "dateFormatted": "2/27",
+            "count": 3
+        },
+        {
+            "date": "2020-02-28",
+            "dateFormatted": "2/28",
+            "count": 3
+        },
+        {
+            "date": "2020-02-29",
+            "dateFormatted": "2/29",
+            "count": 4
+        },
+        {
+            "date": "2020-03-01",
+            "dateFormatted": "3/1",
+            "count": 5
+        },
+        {
+            "date": "2020-03-02",
+            "dateFormatted": "3/2",
+            "count": 5
+        },
+        {
+            "date": "2020-03-03",
+            "dateFormatted": "3/3",
+            "count": 4
+        },
+        {
+            "date": "2020-03-04",
+            "dateFormatted": "3/4",
+            "count": 5
+        },
+        {
+            "date": "2020-03-05",
+            "dateFormatted": "3/5",
+            "count": 4
+        },
+        {
+            "date": "2020-03-06",
+            "dateFormatted": "3/6",
+            "count": 5
+        },
+        {
+            "date": "2020-03-07",
+            "dateFormatted": "3/7",
+            "count": 4
+        },
+        {
+            "date": "2020-03-08",
+            "dateFormatted": "3/8",
+            "count": 4
+        },
+        {
+            "date": "2020-03-09",
+            "dateFormatted": "3/9",
+            "count": 3
+        },
+        {
+            "date": "2020-03-10",
+            "dateFormatted": "3/10",
+            "count": 3
+        },
+        {
+            "date": "2020-03-11",
+            "dateFormatted": "3/11",
+            "count": 5
+        },
+        {
+            "date": "2020-03-12",
+            "dateFormatted": "3/12",
+            "count": 2
+        },
+        {
+            "date": "2020-03-13",
+            "dateFormatted": "3/13",
+            "count": 4
+        },
+        {
+            "date": "2020-03-14",
+            "dateFormatted": "3/14",
+            "count": 2
+        },
+        {
+            "date": "2020-03-15",
+            "dateFormatted": "3/15",
+            "count": 4
+        },
+        {
+            "date": "2020-03-16",
+            "dateFormatted": "3/16",
+            "count": 2
+        },
+        {
+            "date": "2020-03-17",
+            "dateFormatted": "3/17",
+            "count": 1
+        },
+        {
+            "date": "2020-03-18",
+            "dateFormatted": "3/18",
+            "count": 1
+        },
+        {
+            "date": "2020-03-19",
+            "dateFormatted": "3/19",
+            "count": 6
+        },
+        {
+            "date": "2020-03-20",
+            "dateFormatted": "3/20",
+            "count": 2
+        },
+        {
+            "date": "2020-03-21",
+            "dateFormatted": "3/21",
+            "count": 4
+        },
+        {
+            "date": "2020-03-22",
+            "dateFormatted": "3/22",
+            "count": 6
+        },
+        {
+            "date": "2020-03-23",
+            "dateFormatted": "3/23",
+            "count": 6
+        },
+        {
+            "date": "2020-03-24",
+            "dateFormatted": "3/24",
+            "count": 4
+        },
+        {
+            "date": "2020-03-25",
+            "dateFormatted": "3/25",
+            "count": 5
+        },
+        {
+            "date": "2020-03-26",
+            "dateFormatted": "3/26",
+            "count": 1
+        },
+        {
+            "date": "2020-03-27",
+            "dateFormatted": "3/27",
+            "count": 4
+        },
+        {
+            "date": "2020-03-28",
+            "dateFormatted": "3/28",
+            "count": 4
+        },
+        {
+            "date": "2020-03-29",
+            "dateFormatted": "3/29",
+            "count": 6
+        },
+        {
+            "date": "2020-03-30",
+            "dateFormatted": "3/30",
+            "count": 4
+        },
+        {
+            "date": "2020-03-31",
+            "dateFormatted": "3/31",
+            "count": 5
+        },
+        {
+            "date": "2020-04-01",
+            "dateFormatted": "4/1",
+            "count": 7
+        },
+        {
+            "date": "2020-04-02",
+            "dateFormatted": "4/2",
+            "count": 5
+        },
+        {
+            "date": "2020-04-03",
+            "dateFormatted": "4/3",
+            "count": 4
+        },
+        {
+            "date": "2020-04-04",
+            "dateFormatted": "4/4",
+            "count": 5
+        },
+        {
+            "date": "2020-04-05",
+            "dateFormatted": "4/5",
+            "count": 5
+        },
+        {
+            "date": "2020-04-06",
+            "dateFormatted": "4/6",
+            "count": 5
+        },
+        {
+            "date": "2020-04-07",
+            "dateFormatted": "4/7",
+            "count": 5
+        },
+        {
+            "date": "2020-04-08",
+            "dateFormatted": "4/8",
+            "count": 8
+        },
+        {
+            "date": "2020-04-09",
+            "dateFormatted": "4/9",
+            "count": 5
+        },
+        {
+            "date": "2020-04-10",
+            "dateFormatted": "4/10",
+            "count": 6
+        },
+        {
+            "date": "2020-04-11",
+            "dateFormatted": "4/11",
+            "count": 4
+        },
+        {
+            "date": "2020-04-12",
+            "dateFormatted": "4/12",
+            "count": 3
+        },
+        {
+            "date": "2020-04-13",
+            "dateFormatted": "4/13",
+            "count": 3
+        },
+        {
+            "date": "2020-04-14",
+            "dateFormatted": "4/14",
+            "count": 6
+        },
+        {
+            "date": "2020-04-15",
+            "dateFormatted": "4/15",
+            "count": 8
+        },
+        {
+            "date": "2020-04-16",
+            "dateFormatted": "4/16",
+            "count": 2
+        },
+        {
+            "date": "2020-04-17",
+            "dateFormatted": "4/17",
+            "count": 3
+        },
+        {
+            "date": "2020-04-18",
+            "dateFormatted": "4/18",
+            "count": 2
+        },
+        {
+            "date": "2020-04-19",
+            "dateFormatted": "4/19",
+            "count": 5
+        },
+        {
+            "date": "2020-04-20",
+            "dateFormatted": "4/20",
+            "count": 7
+        },
+        {
+            "date": "2020-04-21",
+            "dateFormatted": "4/21",
+            "count": 3
+        },
+        {
+            "date": "2020-04-22",
+            "dateFormatted": "4/22",
+            "count": 4
+        },
+        {
+            "date": "2020-04-23",
+            "dateFormatted": "4/23",
+            "count": 3
+        },
+        {
+            "date": "2020-04-24",
+            "dateFormatted": "4/24",
+            "count": 3
+        },
+        {
+            "date": "2020-04-25",
+            "dateFormatted": "4/25",
+            "count": 2
+        },
+        {
+            "date": "2020-04-26",
+            "dateFormatted": "4/26",
+            "count": 2
+        },
+        {
+            "date": "2020-04-27",
+            "dateFormatted": "4/27",
+            "count": 13
+        },
+        {
+            "date": "2020-04-28",
+            "dateFormatted": "4/28",
+            "count": 6
+        },
+        {
+            "date": "2020-04-29",
+            "dateFormatted": "4/29",
+            "count": 4
+        },
+        {
+            "date": "2020-04-30",
+            "dateFormatted": "4/30",
+            "count": 3
+        },
+        {
+            "date": "2020-05-01",
+            "dateFormatted": "5/1",
+            "count": 6
+        },
+        {
+            "date": "2020-05-02",
+            "dateFormatted": "5/2",
+            "count": 5
+        },
+        {
+            "date": "2020-05-03",
+            "dateFormatted": "5/3",
+            "count": 6
+        },
+        {
+            "date": "2020-05-04",
+            "dateFormatted": "5/4",
+            "count": 4
+        },
+        {
+            "date": "2020-05-05",
+            "dateFormatted": "5/5",
+            "count": 5
+        },
+        {
+            "date": "2020-05-06",
+            "dateFormatted": "5/6",
+            "count": 8
+        },
+        {
+            "date": "2020-05-07",
+            "dateFormatted": "5/7",
+            "count": 7
+        },
+        {
+            "date": "2020-05-08",
+            "dateFormatted": "5/8",
+            "count": 2
+        }
+    ],
+    "offset": 3,
+    "weekCount": 19,
+    "months": [
+        {
+            "name": "Jan",
+            "width": 4,
+            "weekIndex": 0
+        },
+        {
+            "name": "Feb",
+            "width": 5,
+            "weekIndex": 4
+        },
+        {
+            "name": "Mar",
+            "width": 4,
+            "weekIndex": 9
+        },
+        {
+            "name": "Apr",
+            "width": 4,
+            "weekIndex": 13
+        },
+        {
+            "name": "May",
+            "width": 2,
+            "weekIndex": 17
+        }
+    ]
+}

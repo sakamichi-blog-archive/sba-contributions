@@ -1,0 +1,1900 @@
+{
+    "year": 2016,
+    "count": 4688,
+    "days": [
+        {
+            "date": "2016-01-01",
+            "dateFormatted": "1/1",
+            "count": 20
+        },
+        {
+            "date": "2016-01-02",
+            "dateFormatted": "1/2",
+            "count": 18
+        },
+        {
+            "date": "2016-01-03",
+            "dateFormatted": "1/3",
+            "count": 13
+        },
+        {
+            "date": "2016-01-04",
+            "dateFormatted": "1/4",
+            "count": 10
+        },
+        {
+            "date": "2016-01-05",
+            "dateFormatted": "1/5",
+            "count": 25
+        },
+        {
+            "date": "2016-01-06",
+            "dateFormatted": "1/6",
+            "count": 15
+        },
+        {
+            "date": "2016-01-07",
+            "dateFormatted": "1/7",
+            "count": 13
+        },
+        {
+            "date": "2016-01-08",
+            "dateFormatted": "1/8",
+            "count": 17
+        },
+        {
+            "date": "2016-01-09",
+            "dateFormatted": "1/9",
+            "count": 17
+        },
+        {
+            "date": "2016-01-10",
+            "dateFormatted": "1/10",
+            "count": 6
+        },
+        {
+            "date": "2016-01-11",
+            "dateFormatted": "1/11",
+            "count": 20
+        },
+        {
+            "date": "2016-01-12",
+            "dateFormatted": "1/12",
+            "count": 6
+        },
+        {
+            "date": "2016-01-13",
+            "dateFormatted": "1/13",
+            "count": 25
+        },
+        {
+            "date": "2016-01-14",
+            "dateFormatted": "1/14",
+            "count": 11
+        },
+        {
+            "date": "2016-01-15",
+            "dateFormatted": "1/15",
+            "count": 1
+        },
+        {
+            "date": "2016-01-16",
+            "dateFormatted": "1/16",
+            "count": 30
+        },
+        {
+            "date": "2016-01-17",
+            "dateFormatted": "1/17",
+            "count": 13
+        },
+        {
+            "date": "2016-01-18",
+            "dateFormatted": "1/18",
+            "count": 21
+        },
+        {
+            "date": "2016-01-19",
+            "dateFormatted": "1/19",
+            "count": 6
+        },
+        {
+            "date": "2016-01-20",
+            "dateFormatted": "1/20",
+            "count": 3
+        },
+        {
+            "date": "2016-01-21",
+            "dateFormatted": "1/21",
+            "count": 23
+        },
+        {
+            "date": "2016-01-22",
+            "dateFormatted": "1/22",
+            "count": 22
+        },
+        {
+            "date": "2016-01-23",
+            "dateFormatted": "1/23",
+            "count": 6
+        },
+        {
+            "date": "2016-01-24",
+            "dateFormatted": "1/24",
+            "count": 19
+        },
+        {
+            "date": "2016-01-25",
+            "dateFormatted": "1/25",
+            "count": 4
+        },
+        {
+            "date": "2016-01-26",
+            "dateFormatted": "1/26",
+            "count": 24
+        },
+        {
+            "date": "2016-01-27",
+            "dateFormatted": "1/27",
+            "count": 15
+        },
+        {
+            "date": "2016-01-28",
+            "dateFormatted": "1/28",
+            "count": 14
+        },
+        {
+            "date": "2016-01-29",
+            "dateFormatted": "1/29",
+            "count": 5
+        },
+        {
+            "date": "2016-01-30",
+            "dateFormatted": "1/30",
+            "count": 15
+        },
+        {
+            "date": "2016-01-31",
+            "dateFormatted": "1/31",
+            "count": 35
+        },
+        {
+            "date": "2016-02-01",
+            "dateFormatted": "2/1",
+            "count": 10
+        },
+        {
+            "date": "2016-02-02",
+            "dateFormatted": "2/2",
+            "count": 15
+        },
+        {
+            "date": "2016-02-03",
+            "dateFormatted": "2/3",
+            "count": 22
+        },
+        {
+            "date": "2016-02-04",
+            "dateFormatted": "2/4",
+            "count": 14
+        },
+        {
+            "date": "2016-02-05",
+            "dateFormatted": "2/5",
+            "count": 17
+        },
+        {
+            "date": "2016-02-06",
+            "dateFormatted": "2/6",
+            "count": 13
+        },
+        {
+            "date": "2016-02-07",
+            "dateFormatted": "2/7",
+            "count": 5
+        },
+        {
+            "date": "2016-02-08",
+            "dateFormatted": "2/8",
+            "count": 9
+        },
+        {
+            "date": "2016-02-09",
+            "dateFormatted": "2/9",
+            "count": 23
+        },
+        {
+            "date": "2016-02-10",
+            "dateFormatted": "2/10",
+            "count": 20
+        },
+        {
+            "date": "2016-02-11",
+            "dateFormatted": "2/11",
+            "count": 12
+        },
+        {
+            "date": "2016-02-12",
+            "dateFormatted": "2/12",
+            "count": 18
+        },
+        {
+            "date": "2016-02-13",
+            "dateFormatted": "2/13",
+            "count": 18
+        },
+        {
+            "date": "2016-02-14",
+            "dateFormatted": "2/14",
+            "count": 16
+        },
+        {
+            "date": "2016-02-15",
+            "dateFormatted": "2/15",
+            "count": 9
+        },
+        {
+            "date": "2016-02-16",
+            "dateFormatted": "2/16",
+            "count": 13
+        },
+        {
+            "date": "2016-02-17",
+            "dateFormatted": "2/17",
+            "count": 8
+        },
+        {
+            "date": "2016-02-18",
+            "dateFormatted": "2/18",
+            "count": 18
+        },
+        {
+            "date": "2016-02-19",
+            "dateFormatted": "2/19",
+            "count": 15
+        },
+        {
+            "date": "2016-02-20",
+            "dateFormatted": "2/20",
+            "count": 18
+        },
+        {
+            "date": "2016-02-21",
+            "dateFormatted": "2/21",
+            "count": 6
+        },
+        {
+            "date": "2016-02-22",
+            "dateFormatted": "2/22",
+            "count": 12
+        },
+        {
+            "date": "2016-02-23",
+            "dateFormatted": "2/23",
+            "count": 10
+        },
+        {
+            "date": "2016-02-24",
+            "dateFormatted": "2/24",
+            "count": 13
+        },
+        {
+            "date": "2016-02-25",
+            "dateFormatted": "2/25",
+            "count": 9
+        },
+        {
+            "date": "2016-02-26",
+            "dateFormatted": "2/26",
+            "count": 24
+        },
+        {
+            "date": "2016-02-27",
+            "dateFormatted": "2/27",
+            "count": 6
+        },
+        {
+            "date": "2016-02-28",
+            "dateFormatted": "2/28",
+            "count": 29
+        },
+        {
+            "date": "2016-02-29",
+            "dateFormatted": "2/29",
+            "count": 17
+        },
+        {
+            "date": "2016-03-01",
+            "dateFormatted": "3/1",
+            "count": 3
+        },
+        {
+            "date": "2016-03-02",
+            "dateFormatted": "3/2",
+            "count": 17
+        },
+        {
+            "date": "2016-03-03",
+            "dateFormatted": "3/3",
+            "count": 19
+        },
+        {
+            "date": "2016-03-04",
+            "dateFormatted": "3/4",
+            "count": 12
+        },
+        {
+            "date": "2016-03-05",
+            "dateFormatted": "3/5",
+            "count": 22
+        },
+        {
+            "date": "2016-03-06",
+            "dateFormatted": "3/6",
+            "count": 2
+        },
+        {
+            "date": "2016-03-07",
+            "dateFormatted": "3/7",
+            "count": 13
+        },
+        {
+            "date": "2016-03-08",
+            "dateFormatted": "3/8",
+            "count": 8
+        },
+        {
+            "date": "2016-03-09",
+            "dateFormatted": "3/9",
+            "count": 11
+        },
+        {
+            "date": "2016-03-10",
+            "dateFormatted": "3/10",
+            "count": 18
+        },
+        {
+            "date": "2016-03-11",
+            "dateFormatted": "3/11",
+            "count": 7
+        },
+        {
+            "date": "2016-03-12",
+            "dateFormatted": "3/12",
+            "count": 24
+        },
+        {
+            "date": "2016-03-13",
+            "dateFormatted": "3/13",
+            "count": 2
+        },
+        {
+            "date": "2016-03-14",
+            "dateFormatted": "3/14",
+            "count": 13
+        },
+        {
+            "date": "2016-03-15",
+            "dateFormatted": "3/15",
+            "count": 7
+        },
+        {
+            "date": "2016-03-16",
+            "dateFormatted": "3/16",
+            "count": 18
+        },
+        {
+            "date": "2016-03-17",
+            "dateFormatted": "3/17",
+            "count": 13
+        },
+        {
+            "date": "2016-03-18",
+            "dateFormatted": "3/18",
+            "count": 9
+        },
+        {
+            "date": "2016-03-19",
+            "dateFormatted": "3/19",
+            "count": 13
+        },
+        {
+            "date": "2016-03-20",
+            "dateFormatted": "3/20",
+            "count": 28
+        },
+        {
+            "date": "2016-03-21",
+            "dateFormatted": "3/21",
+            "count": 13
+        },
+        {
+            "date": "2016-03-22",
+            "dateFormatted": "3/22",
+            "count": 16
+        },
+        {
+            "date": "2016-03-23",
+            "dateFormatted": "3/23",
+            "count": 0
+        },
+        {
+            "date": "2016-03-24",
+            "dateFormatted": "3/24",
+            "count": 21
+        },
+        {
+            "date": "2016-03-25",
+            "dateFormatted": "3/25",
+            "count": 31
+        },
+        {
+            "date": "2016-03-26",
+            "dateFormatted": "3/26",
+            "count": 7
+        },
+        {
+            "date": "2016-03-27",
+            "dateFormatted": "3/27",
+            "count": 27
+        },
+        {
+            "date": "2016-03-28",
+            "dateFormatted": "3/28",
+            "count": 4
+        },
+        {
+            "date": "2016-03-29",
+            "dateFormatted": "3/29",
+            "count": 19
+        },
+        {
+            "date": "2016-03-30",
+            "dateFormatted": "3/30",
+            "count": 33
+        },
+        {
+            "date": "2016-03-31",
+            "dateFormatted": "3/31",
+            "count": 3
+        },
+        {
+            "date": "2016-04-01",
+            "dateFormatted": "4/1",
+            "count": 22
+        },
+        {
+            "date": "2016-04-02",
+            "dateFormatted": "4/2",
+            "count": 10
+        },
+        {
+            "date": "2016-04-03",
+            "dateFormatted": "4/3",
+            "count": 28
+        },
+        {
+            "date": "2016-04-04",
+            "dateFormatted": "4/4",
+            "count": 15
+        },
+        {
+            "date": "2016-04-05",
+            "dateFormatted": "4/5",
+            "count": 18
+        },
+        {
+            "date": "2016-04-06",
+            "dateFormatted": "4/6",
+            "count": 1
+        },
+        {
+            "date": "2016-04-07",
+            "dateFormatted": "4/7",
+            "count": 31
+        },
+        {
+            "date": "2016-04-08",
+            "dateFormatted": "4/8",
+            "count": 3
+        },
+        {
+            "date": "2016-04-09",
+            "dateFormatted": "4/9",
+            "count": 16
+        },
+        {
+            "date": "2016-04-10",
+            "dateFormatted": "4/10",
+            "count": 22
+        },
+        {
+            "date": "2016-04-11",
+            "dateFormatted": "4/11",
+            "count": 22
+        },
+        {
+            "date": "2016-04-12",
+            "dateFormatted": "4/12",
+            "count": 7
+        },
+        {
+            "date": "2016-04-13",
+            "dateFormatted": "4/13",
+            "count": 20
+        },
+        {
+            "date": "2016-04-14",
+            "dateFormatted": "4/14",
+            "count": 4
+        },
+        {
+            "date": "2016-04-15",
+            "dateFormatted": "4/15",
+            "count": 25
+        },
+        {
+            "date": "2016-04-16",
+            "dateFormatted": "4/16",
+            "count": 13
+        },
+        {
+            "date": "2016-04-17",
+            "dateFormatted": "4/17",
+            "count": 22
+        },
+        {
+            "date": "2016-04-18",
+            "dateFormatted": "4/18",
+            "count": 18
+        },
+        {
+            "date": "2016-04-19",
+            "dateFormatted": "4/19",
+            "count": 3
+        },
+        {
+            "date": "2016-04-20",
+            "dateFormatted": "4/20",
+            "count": 28
+        },
+        {
+            "date": "2016-04-21",
+            "dateFormatted": "4/21",
+            "count": 5
+        },
+        {
+            "date": "2016-04-22",
+            "dateFormatted": "4/22",
+            "count": 11
+        },
+        {
+            "date": "2016-04-23",
+            "dateFormatted": "4/23",
+            "count": 4
+        },
+        {
+            "date": "2016-04-24",
+            "dateFormatted": "4/24",
+            "count": 25
+        },
+        {
+            "date": "2016-04-25",
+            "dateFormatted": "4/25",
+            "count": 9
+        },
+        {
+            "date": "2016-04-26",
+            "dateFormatted": "4/26",
+            "count": 5
+        },
+        {
+            "date": "2016-04-27",
+            "dateFormatted": "4/27",
+            "count": 24
+        },
+        {
+            "date": "2016-04-28",
+            "dateFormatted": "4/28",
+            "count": 9
+        },
+        {
+            "date": "2016-04-29",
+            "dateFormatted": "4/29",
+            "count": 14
+        },
+        {
+            "date": "2016-04-30",
+            "dateFormatted": "4/30",
+            "count": 21
+        },
+        {
+            "date": "2016-05-01",
+            "dateFormatted": "5/1",
+            "count": 16
+        },
+        {
+            "date": "2016-05-02",
+            "dateFormatted": "5/2",
+            "count": 21
+        },
+        {
+            "date": "2016-05-03",
+            "dateFormatted": "5/3",
+            "count": 16
+        },
+        {
+            "date": "2016-05-04",
+            "dateFormatted": "5/4",
+            "count": 12
+        },
+        {
+            "date": "2016-05-05",
+            "dateFormatted": "5/5",
+            "count": 16
+        },
+        {
+            "date": "2016-05-06",
+            "dateFormatted": "5/6",
+            "count": 16
+        },
+        {
+            "date": "2016-05-07",
+            "dateFormatted": "5/7",
+            "count": 16
+        },
+        {
+            "date": "2016-05-08",
+            "dateFormatted": "5/8",
+            "count": 14
+        },
+        {
+            "date": "2016-05-09",
+            "dateFormatted": "5/9",
+            "count": 16
+        },
+        {
+            "date": "2016-05-10",
+            "dateFormatted": "5/10",
+            "count": 10
+        },
+        {
+            "date": "2016-05-11",
+            "dateFormatted": "5/11",
+            "count": 21
+        },
+        {
+            "date": "2016-05-12",
+            "dateFormatted": "5/12",
+            "count": 10
+        },
+        {
+            "date": "2016-05-13",
+            "dateFormatted": "5/13",
+            "count": 7
+        },
+        {
+            "date": "2016-05-14",
+            "dateFormatted": "5/14",
+            "count": 21
+        },
+        {
+            "date": "2016-05-15",
+            "dateFormatted": "5/15",
+            "count": 19
+        },
+        {
+            "date": "2016-05-16",
+            "dateFormatted": "5/16",
+            "count": 10
+        },
+        {
+            "date": "2016-05-17",
+            "dateFormatted": "5/17",
+            "count": 16
+        },
+        {
+            "date": "2016-05-18",
+            "dateFormatted": "5/18",
+            "count": 15
+        },
+        {
+            "date": "2016-05-19",
+            "dateFormatted": "5/19",
+            "count": 9
+        },
+        {
+            "date": "2016-05-20",
+            "dateFormatted": "5/20",
+            "count": 16
+        },
+        {
+            "date": "2016-05-21",
+            "dateFormatted": "5/21",
+            "count": 14
+        },
+        {
+            "date": "2016-05-22",
+            "dateFormatted": "5/22",
+            "count": 20
+        },
+        {
+            "date": "2016-05-23",
+            "dateFormatted": "5/23",
+            "count": 13
+        },
+        {
+            "date": "2016-05-24",
+            "dateFormatted": "5/24",
+            "count": 1
+        },
+        {
+            "date": "2016-05-25",
+            "dateFormatted": "5/25",
+            "count": 17
+        },
+        {
+            "date": "2016-05-26",
+            "dateFormatted": "5/26",
+            "count": 26
+        },
+        {
+            "date": "2016-05-27",
+            "dateFormatted": "5/27",
+            "count": 3
+        },
+        {
+            "date": "2016-05-28",
+            "dateFormatted": "5/28",
+            "count": 10
+        },
+        {
+            "date": "2016-05-29",
+            "dateFormatted": "5/29",
+            "count": 28
+        },
+        {
+            "date": "2016-05-30",
+            "dateFormatted": "5/30",
+            "count": 5
+        },
+        {
+            "date": "2016-05-31",
+            "dateFormatted": "5/31",
+            "count": 11
+        },
+        {
+            "date": "2016-06-01",
+            "dateFormatted": "6/1",
+            "count": 9
+        },
+        {
+            "date": "2016-06-02",
+            "dateFormatted": "6/2",
+            "count": 14
+        },
+        {
+            "date": "2016-06-03",
+            "dateFormatted": "6/3",
+            "count": 11
+        },
+        {
+            "date": "2016-06-04",
+            "dateFormatted": "6/4",
+            "count": 16
+        },
+        {
+            "date": "2016-06-05",
+            "dateFormatted": "6/5",
+            "count": 23
+        },
+        {
+            "date": "2016-06-06",
+            "dateFormatted": "6/6",
+            "count": 0
+        },
+        {
+            "date": "2016-06-07",
+            "dateFormatted": "6/7",
+            "count": 18
+        },
+        {
+            "date": "2016-06-08",
+            "dateFormatted": "6/8",
+            "count": 13
+        },
+        {
+            "date": "2016-06-09",
+            "dateFormatted": "6/9",
+            "count": 16
+        },
+        {
+            "date": "2016-06-10",
+            "dateFormatted": "6/10",
+            "count": 11
+        },
+        {
+            "date": "2016-06-11",
+            "dateFormatted": "6/11",
+            "count": 23
+        },
+        {
+            "date": "2016-06-12",
+            "dateFormatted": "6/12",
+            "count": 11
+        },
+        {
+            "date": "2016-06-13",
+            "dateFormatted": "6/13",
+            "count": 15
+        },
+        {
+            "date": "2016-06-14",
+            "dateFormatted": "6/14",
+            "count": 9
+        },
+        {
+            "date": "2016-06-15",
+            "dateFormatted": "6/15",
+            "count": 8
+        },
+        {
+            "date": "2016-06-16",
+            "dateFormatted": "6/16",
+            "count": 17
+        },
+        {
+            "date": "2016-06-17",
+            "dateFormatted": "6/17",
+            "count": 15
+        },
+        {
+            "date": "2016-06-18",
+            "dateFormatted": "6/18",
+            "count": 7
+        },
+        {
+            "date": "2016-06-19",
+            "dateFormatted": "6/19",
+            "count": 13
+        },
+        {
+            "date": "2016-06-20",
+            "dateFormatted": "6/20",
+            "count": 12
+        },
+        {
+            "date": "2016-06-21",
+            "dateFormatted": "6/21",
+            "count": 11
+        },
+        {
+            "date": "2016-06-22",
+            "dateFormatted": "6/22",
+            "count": 13
+        },
+        {
+            "date": "2016-06-23",
+            "dateFormatted": "6/23",
+            "count": 13
+        },
+        {
+            "date": "2016-06-24",
+            "dateFormatted": "6/24",
+            "count": 26
+        },
+        {
+            "date": "2016-06-25",
+            "dateFormatted": "6/25",
+            "count": 5
+        },
+        {
+            "date": "2016-06-26",
+            "dateFormatted": "6/26",
+            "count": 10
+        },
+        {
+            "date": "2016-06-27",
+            "dateFormatted": "6/27",
+            "count": 26
+        },
+        {
+            "date": "2016-06-28",
+            "dateFormatted": "6/28",
+            "count": 5
+        },
+        {
+            "date": "2016-06-29",
+            "dateFormatted": "6/29",
+            "count": 13
+        },
+        {
+            "date": "2016-06-30",
+            "dateFormatted": "6/30",
+            "count": 14
+        },
+        {
+            "date": "2016-07-01",
+            "dateFormatted": "7/1",
+            "count": 18
+        },
+        {
+            "date": "2016-07-02",
+            "dateFormatted": "7/2",
+            "count": 10
+        },
+        {
+            "date": "2016-07-03",
+            "dateFormatted": "7/3",
+            "count": 14
+        },
+        {
+            "date": "2016-07-04",
+            "dateFormatted": "7/4",
+            "count": 23
+        },
+        {
+            "date": "2016-07-05",
+            "dateFormatted": "7/5",
+            "count": 4
+        },
+        {
+            "date": "2016-07-06",
+            "dateFormatted": "7/6",
+            "count": 14
+        },
+        {
+            "date": "2016-07-07",
+            "dateFormatted": "7/7",
+            "count": 11
+        },
+        {
+            "date": "2016-07-08",
+            "dateFormatted": "7/8",
+            "count": 14
+        },
+        {
+            "date": "2016-07-09",
+            "dateFormatted": "7/9",
+            "count": 13
+        },
+        {
+            "date": "2016-07-10",
+            "dateFormatted": "7/10",
+            "count": 7
+        },
+        {
+            "date": "2016-07-11",
+            "dateFormatted": "7/11",
+            "count": 13
+        },
+        {
+            "date": "2016-07-12",
+            "dateFormatted": "7/12",
+            "count": 12
+        },
+        {
+            "date": "2016-07-13",
+            "dateFormatted": "7/13",
+            "count": 11
+        },
+        {
+            "date": "2016-07-14",
+            "dateFormatted": "7/14",
+            "count": 12
+        },
+        {
+            "date": "2016-07-15",
+            "dateFormatted": "7/15",
+            "count": 15
+        },
+        {
+            "date": "2016-07-16",
+            "dateFormatted": "7/16",
+            "count": 9
+        },
+        {
+            "date": "2016-07-17",
+            "dateFormatted": "7/17",
+            "count": 21
+        },
+        {
+            "date": "2016-07-18",
+            "dateFormatted": "7/18",
+            "count": 15
+        },
+        {
+            "date": "2016-07-19",
+            "dateFormatted": "7/19",
+            "count": 23
+        },
+        {
+            "date": "2016-07-20",
+            "dateFormatted": "7/20",
+            "count": 7
+        },
+        {
+            "date": "2016-07-21",
+            "dateFormatted": "7/21",
+            "count": 15
+        },
+        {
+            "date": "2016-07-22",
+            "dateFormatted": "7/22",
+            "count": 12
+        },
+        {
+            "date": "2016-07-23",
+            "dateFormatted": "7/23",
+            "count": 7
+        },
+        {
+            "date": "2016-07-24",
+            "dateFormatted": "7/24",
+            "count": 12
+        },
+        {
+            "date": "2016-07-25",
+            "dateFormatted": "7/25",
+            "count": 6
+        },
+        {
+            "date": "2016-07-26",
+            "dateFormatted": "7/26",
+            "count": 15
+        },
+        {
+            "date": "2016-07-27",
+            "dateFormatted": "7/27",
+            "count": 8
+        },
+        {
+            "date": "2016-07-28",
+            "dateFormatted": "7/28",
+            "count": 14
+        },
+        {
+            "date": "2016-07-29",
+            "dateFormatted": "7/29",
+            "count": 11
+        },
+        {
+            "date": "2016-07-30",
+            "dateFormatted": "7/30",
+            "count": 7
+        },
+        {
+            "date": "2016-07-31",
+            "dateFormatted": "7/31",
+            "count": 9
+        },
+        {
+            "date": "2016-08-01",
+            "dateFormatted": "8/1",
+            "count": 13
+        },
+        {
+            "date": "2016-08-02",
+            "dateFormatted": "8/2",
+            "count": 11
+        },
+        {
+            "date": "2016-08-03",
+            "dateFormatted": "8/3",
+            "count": 5
+        },
+        {
+            "date": "2016-08-04",
+            "dateFormatted": "8/4",
+            "count": 5
+        },
+        {
+            "date": "2016-08-05",
+            "dateFormatted": "8/5",
+            "count": 20
+        },
+        {
+            "date": "2016-08-06",
+            "dateFormatted": "8/6",
+            "count": 17
+        },
+        {
+            "date": "2016-08-07",
+            "dateFormatted": "8/7",
+            "count": 29
+        },
+        {
+            "date": "2016-08-08",
+            "dateFormatted": "8/8",
+            "count": 2
+        },
+        {
+            "date": "2016-08-09",
+            "dateFormatted": "8/9",
+            "count": 15
+        },
+        {
+            "date": "2016-08-10",
+            "dateFormatted": "8/10",
+            "count": 11
+        },
+        {
+            "date": "2016-08-11",
+            "dateFormatted": "8/11",
+            "count": 21
+        },
+        {
+            "date": "2016-08-12",
+            "dateFormatted": "8/12",
+            "count": 15
+        },
+        {
+            "date": "2016-08-13",
+            "dateFormatted": "8/13",
+            "count": 18
+        },
+        {
+            "date": "2016-08-14",
+            "dateFormatted": "8/14",
+            "count": 7
+        },
+        {
+            "date": "2016-08-15",
+            "dateFormatted": "8/15",
+            "count": 21
+        },
+        {
+            "date": "2016-08-16",
+            "dateFormatted": "8/16",
+            "count": 11
+        },
+        {
+            "date": "2016-08-17",
+            "dateFormatted": "8/17",
+            "count": 10
+        },
+        {
+            "date": "2016-08-18",
+            "dateFormatted": "8/18",
+            "count": 16
+        },
+        {
+            "date": "2016-08-19",
+            "dateFormatted": "8/19",
+            "count": 11
+        },
+        {
+            "date": "2016-08-20",
+            "dateFormatted": "8/20",
+            "count": 21
+        },
+        {
+            "date": "2016-08-21",
+            "dateFormatted": "8/21",
+            "count": 18
+        },
+        {
+            "date": "2016-08-22",
+            "dateFormatted": "8/22",
+            "count": 1
+        },
+        {
+            "date": "2016-08-23",
+            "dateFormatted": "8/23",
+            "count": 13
+        },
+        {
+            "date": "2016-08-24",
+            "dateFormatted": "8/24",
+            "count": 10
+        },
+        {
+            "date": "2016-08-25",
+            "dateFormatted": "8/25",
+            "count": 14
+        },
+        {
+            "date": "2016-08-26",
+            "dateFormatted": "8/26",
+            "count": 17
+        },
+        {
+            "date": "2016-08-27",
+            "dateFormatted": "8/27",
+            "count": 13
+        },
+        {
+            "date": "2016-08-28",
+            "dateFormatted": "8/28",
+            "count": 14
+        },
+        {
+            "date": "2016-08-29",
+            "dateFormatted": "8/29",
+            "count": 21
+        },
+        {
+            "date": "2016-08-30",
+            "dateFormatted": "8/30",
+            "count": 14
+        },
+        {
+            "date": "2016-08-31",
+            "dateFormatted": "8/31",
+            "count": 6
+        },
+        {
+            "date": "2016-09-01",
+            "dateFormatted": "9/1",
+            "count": 12
+        },
+        {
+            "date": "2016-09-02",
+            "dateFormatted": "9/2",
+            "count": 10
+        },
+        {
+            "date": "2016-09-03",
+            "dateFormatted": "9/3",
+            "count": 10
+        },
+        {
+            "date": "2016-09-04",
+            "dateFormatted": "9/4",
+            "count": 12
+        },
+        {
+            "date": "2016-09-05",
+            "dateFormatted": "9/5",
+            "count": 11
+        },
+        {
+            "date": "2016-09-06",
+            "dateFormatted": "9/6",
+            "count": 9
+        },
+        {
+            "date": "2016-09-07",
+            "dateFormatted": "9/7",
+            "count": 16
+        },
+        {
+            "date": "2016-09-08",
+            "dateFormatted": "9/8",
+            "count": 18
+        },
+        {
+            "date": "2016-09-09",
+            "dateFormatted": "9/9",
+            "count": 12
+        },
+        {
+            "date": "2016-09-10",
+            "dateFormatted": "9/10",
+            "count": 18
+        },
+        {
+            "date": "2016-09-11",
+            "dateFormatted": "9/11",
+            "count": 6
+        },
+        {
+            "date": "2016-09-12",
+            "dateFormatted": "9/12",
+            "count": 8
+        },
+        {
+            "date": "2016-09-13",
+            "dateFormatted": "9/13",
+            "count": 22
+        },
+        {
+            "date": "2016-09-14",
+            "dateFormatted": "9/14",
+            "count": 11
+        },
+        {
+            "date": "2016-09-15",
+            "dateFormatted": "9/15",
+            "count": 16
+        },
+        {
+            "date": "2016-09-16",
+            "dateFormatted": "9/16",
+            "count": 21
+        },
+        {
+            "date": "2016-09-17",
+            "dateFormatted": "9/17",
+            "count": 5
+        },
+        {
+            "date": "2016-09-18",
+            "dateFormatted": "9/18",
+            "count": 13
+        },
+        {
+            "date": "2016-09-19",
+            "dateFormatted": "9/19",
+            "count": 11
+        },
+        {
+            "date": "2016-09-20",
+            "dateFormatted": "9/20",
+            "count": 14
+        },
+        {
+            "date": "2016-09-21",
+            "dateFormatted": "9/21",
+            "count": 25
+        },
+        {
+            "date": "2016-09-22",
+            "dateFormatted": "9/22",
+            "count": 2
+        },
+        {
+            "date": "2016-09-23",
+            "dateFormatted": "9/23",
+            "count": 16
+        },
+        {
+            "date": "2016-09-24",
+            "dateFormatted": "9/24",
+            "count": 15
+        },
+        {
+            "date": "2016-09-25",
+            "dateFormatted": "9/25",
+            "count": 20
+        },
+        {
+            "date": "2016-09-26",
+            "dateFormatted": "9/26",
+            "count": 15
+        },
+        {
+            "date": "2016-09-27",
+            "dateFormatted": "9/27",
+            "count": 10
+        },
+        {
+            "date": "2016-09-28",
+            "dateFormatted": "9/28",
+            "count": 10
+        },
+        {
+            "date": "2016-09-29",
+            "dateFormatted": "9/29",
+            "count": 8
+        },
+        {
+            "date": "2016-09-30",
+            "dateFormatted": "9/30",
+            "count": 11
+        },
+        {
+            "date": "2016-10-01",
+            "dateFormatted": "10/1",
+            "count": 13
+        },
+        {
+            "date": "2016-10-02",
+            "dateFormatted": "10/2",
+            "count": 10
+        },
+        {
+            "date": "2016-10-03",
+            "dateFormatted": "10/3",
+            "count": 21
+        },
+        {
+            "date": "2016-10-04",
+            "dateFormatted": "10/4",
+            "count": 6
+        },
+        {
+            "date": "2016-10-05",
+            "dateFormatted": "10/5",
+            "count": 8
+        },
+        {
+            "date": "2016-10-06",
+            "dateFormatted": "10/6",
+            "count": 14
+        },
+        {
+            "date": "2016-10-07",
+            "dateFormatted": "10/7",
+            "count": 11
+        },
+        {
+            "date": "2016-10-08",
+            "dateFormatted": "10/8",
+            "count": 13
+        },
+        {
+            "date": "2016-10-09",
+            "dateFormatted": "10/9",
+            "count": 12
+        },
+        {
+            "date": "2016-10-10",
+            "dateFormatted": "10/10",
+            "count": 14
+        },
+        {
+            "date": "2016-10-11",
+            "dateFormatted": "10/11",
+            "count": 8
+        },
+        {
+            "date": "2016-10-12",
+            "dateFormatted": "10/12",
+            "count": 12
+        },
+        {
+            "date": "2016-10-13",
+            "dateFormatted": "10/13",
+            "count": 12
+        },
+        {
+            "date": "2016-10-14",
+            "dateFormatted": "10/14",
+            "count": 10
+        },
+        {
+            "date": "2016-10-15",
+            "dateFormatted": "10/15",
+            "count": 7
+        },
+        {
+            "date": "2016-10-16",
+            "dateFormatted": "10/16",
+            "count": 8
+        },
+        {
+            "date": "2016-10-17",
+            "dateFormatted": "10/17",
+            "count": 5
+        },
+        {
+            "date": "2016-10-18",
+            "dateFormatted": "10/18",
+            "count": 12
+        },
+        {
+            "date": "2016-10-19",
+            "dateFormatted": "10/19",
+            "count": 8
+        },
+        {
+            "date": "2016-10-20",
+            "dateFormatted": "10/20",
+            "count": 12
+        },
+        {
+            "date": "2016-10-21",
+            "dateFormatted": "10/21",
+            "count": 8
+        },
+        {
+            "date": "2016-10-22",
+            "dateFormatted": "10/22",
+            "count": 10
+        },
+        {
+            "date": "2016-10-23",
+            "dateFormatted": "10/23",
+            "count": 11
+        },
+        {
+            "date": "2016-10-24",
+            "dateFormatted": "10/24",
+            "count": 12
+        },
+        {
+            "date": "2016-10-25",
+            "dateFormatted": "10/25",
+            "count": 13
+        },
+        {
+            "date": "2016-10-26",
+            "dateFormatted": "10/26",
+            "count": 7
+        },
+        {
+            "date": "2016-10-27",
+            "dateFormatted": "10/27",
+            "count": 14
+        },
+        {
+            "date": "2016-10-28",
+            "dateFormatted": "10/28",
+            "count": 15
+        },
+        {
+            "date": "2016-10-29",
+            "dateFormatted": "10/29",
+            "count": 14
+        },
+        {
+            "date": "2016-10-30",
+            "dateFormatted": "10/30",
+            "count": 14
+        },
+        {
+            "date": "2016-10-31",
+            "dateFormatted": "10/31",
+            "count": 13
+        },
+        {
+            "date": "2016-11-01",
+            "dateFormatted": "11/1",
+            "count": 15
+        },
+        {
+            "date": "2016-11-02",
+            "dateFormatted": "11/2",
+            "count": 2
+        },
+        {
+            "date": "2016-11-03",
+            "dateFormatted": "11/3",
+            "count": 0
+        },
+        {
+            "date": "2016-11-04",
+            "dateFormatted": "11/4",
+            "count": 0
+        },
+        {
+            "date": "2016-11-05",
+            "dateFormatted": "11/5",
+            "count": 0
+        },
+        {
+            "date": "2016-11-06",
+            "dateFormatted": "11/6",
+            "count": 0
+        },
+        {
+            "date": "2016-11-07",
+            "dateFormatted": "11/7",
+            "count": 8
+        },
+        {
+            "date": "2016-11-08",
+            "dateFormatted": "11/8",
+            "count": 4
+        },
+        {
+            "date": "2016-11-09",
+            "dateFormatted": "11/9",
+            "count": 0
+        },
+        {
+            "date": "2016-11-10",
+            "dateFormatted": "11/10",
+            "count": 28
+        },
+        {
+            "date": "2016-11-11",
+            "dateFormatted": "11/11",
+            "count": 5
+        },
+        {
+            "date": "2016-11-12",
+            "dateFormatted": "11/12",
+            "count": 13
+        },
+        {
+            "date": "2016-11-13",
+            "dateFormatted": "11/13",
+            "count": 12
+        },
+        {
+            "date": "2016-11-14",
+            "dateFormatted": "11/14",
+            "count": 9
+        },
+        {
+            "date": "2016-11-15",
+            "dateFormatted": "11/15",
+            "count": 8
+        },
+        {
+            "date": "2016-11-16",
+            "dateFormatted": "11/16",
+            "count": 12
+        },
+        {
+            "date": "2016-11-17",
+            "dateFormatted": "11/17",
+            "count": 11
+        },
+        {
+            "date": "2016-11-18",
+            "dateFormatted": "11/18",
+            "count": 13
+        },
+        {
+            "date": "2016-11-19",
+            "dateFormatted": "11/19",
+            "count": 7
+        },
+        {
+            "date": "2016-11-20",
+            "dateFormatted": "11/20",
+            "count": 8
+        },
+        {
+            "date": "2016-11-21",
+            "dateFormatted": "11/21",
+            "count": 11
+        },
+        {
+            "date": "2016-11-22",
+            "dateFormatted": "11/22",
+            "count": 11
+        },
+        {
+            "date": "2016-11-23",
+            "dateFormatted": "11/23",
+            "count": 12
+        },
+        {
+            "date": "2016-11-24",
+            "dateFormatted": "11/24",
+            "count": 10
+        },
+        {
+            "date": "2016-11-25",
+            "dateFormatted": "11/25",
+            "count": 5
+        },
+        {
+            "date": "2016-11-26",
+            "dateFormatted": "11/26",
+            "count": 18
+        },
+        {
+            "date": "2016-11-27",
+            "dateFormatted": "11/27",
+            "count": 11
+        },
+        {
+            "date": "2016-11-28",
+            "dateFormatted": "11/28",
+            "count": 7
+        },
+        {
+            "date": "2016-11-29",
+            "dateFormatted": "11/29",
+            "count": 13
+        },
+        {
+            "date": "2016-11-30",
+            "dateFormatted": "11/30",
+            "count": 13
+        },
+        {
+            "date": "2016-12-01",
+            "dateFormatted": "12/1",
+            "count": 13
+        },
+        {
+            "date": "2016-12-02",
+            "dateFormatted": "12/2",
+            "count": 10
+        },
+        {
+            "date": "2016-12-03",
+            "dateFormatted": "12/3",
+            "count": 16
+        },
+        {
+            "date": "2016-12-04",
+            "dateFormatted": "12/4",
+            "count": 2
+        },
+        {
+            "date": "2016-12-05",
+            "dateFormatted": "12/5",
+            "count": 11
+        },
+        {
+            "date": "2016-12-06",
+            "dateFormatted": "12/6",
+            "count": 16
+        },
+        {
+            "date": "2016-12-07",
+            "dateFormatted": "12/7",
+            "count": 6
+        },
+        {
+            "date": "2016-12-08",
+            "dateFormatted": "12/8",
+            "count": 8
+        },
+        {
+            "date": "2016-12-09",
+            "dateFormatted": "12/9",
+            "count": 4
+        },
+        {
+            "date": "2016-12-10",
+            "dateFormatted": "12/10",
+            "count": 11
+        },
+        {
+            "date": "2016-12-11",
+            "dateFormatted": "12/11",
+            "count": 6
+        },
+        {
+            "date": "2016-12-12",
+            "dateFormatted": "12/12",
+            "count": 6
+        },
+        {
+            "date": "2016-12-13",
+            "dateFormatted": "12/13",
+            "count": 7
+        },
+        {
+            "date": "2016-12-14",
+            "dateFormatted": "12/14",
+            "count": 11
+        },
+        {
+            "date": "2016-12-15",
+            "dateFormatted": "12/15",
+            "count": 3
+        },
+        {
+            "date": "2016-12-16",
+            "dateFormatted": "12/16",
+            "count": 13
+        },
+        {
+            "date": "2016-12-17",
+            "dateFormatted": "12/17",
+            "count": 6
+        },
+        {
+            "date": "2016-12-18",
+            "dateFormatted": "12/18",
+            "count": 11
+        },
+        {
+            "date": "2016-12-19",
+            "dateFormatted": "12/19",
+            "count": 4
+        },
+        {
+            "date": "2016-12-20",
+            "dateFormatted": "12/20",
+            "count": 7
+        },
+        {
+            "date": "2016-12-21",
+            "dateFormatted": "12/21",
+            "count": 7
+        },
+        {
+            "date": "2016-12-22",
+            "dateFormatted": "12/22",
+            "count": 11
+        },
+        {
+            "date": "2016-12-23",
+            "dateFormatted": "12/23",
+            "count": 12
+        },
+        {
+            "date": "2016-12-24",
+            "dateFormatted": "12/24",
+            "count": 8
+        },
+        {
+            "date": "2016-12-25",
+            "dateFormatted": "12/25",
+            "count": 10
+        },
+        {
+            "date": "2016-12-26",
+            "dateFormatted": "12/26",
+            "count": 7
+        },
+        {
+            "date": "2016-12-27",
+            "dateFormatted": "12/27",
+            "count": 3
+        },
+        {
+            "date": "2016-12-28",
+            "dateFormatted": "12/28",
+            "count": 8
+        },
+        {
+            "date": "2016-12-29",
+            "dateFormatted": "12/29",
+            "count": 11
+        },
+        {
+            "date": "2016-12-30",
+            "dateFormatted": "12/30",
+            "count": 6
+        },
+        {
+            "date": "2016-12-31",
+            "dateFormatted": "12/31",
+            "count": 11
+        }
+    ],
+    "offset": 5,
+    "weekCount": 53,
+    "months": [
+        {
+            "name": "Jan",
+            "width": 5,
+            "weekIndex": 0
+        },
+        {
+            "name": "Feb",
+            "width": 4,
+            "weekIndex": 5
+        },
+        {
+            "name": "Mar",
+            "width": 4,
+            "weekIndex": 9
+        },
+        {
+            "name": "Apr",
+            "width": 5,
+            "weekIndex": 13
+        },
+        {
+            "name": "May",
+            "width": 4,
+            "weekIndex": 18
+        },
+        {
+            "name": "Jun",
+            "width": 4,
+            "weekIndex": 22
+        },
+        {
+            "name": "Jul",
+            "width": 5,
+            "weekIndex": 26
+        },
+        {
+            "name": "Aug",
+            "width": 4,
+            "weekIndex": 31
+        },
+        {
+            "name": "Sep",
+            "width": 4,
+            "weekIndex": 35
+        },
+        {
+            "name": "Oct",
+            "width": 5,
+            "weekIndex": 39
+        },
+        {
+            "name": "Nov",
+            "width": 4,
+            "weekIndex": 44
+        },
+        {
+            "name": "Dec",
+            "width": 5,
+            "weekIndex": 48
+        }
+    ]
+}

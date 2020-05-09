@@ -1,0 +1,32 @@
+{
+  "hosting": {
+    "target": "default",
+    "public": "out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "headers": [
+      {
+        "source": "404.html",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=600, s-maxage=2592000"
+          }
+        ]
+      },
+      {
+        "source": "**",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=86400, s-maxage=2592000"
+          }
+        ]
+      }
+    ],
+    "cleanUrls": true
+  }
+}
