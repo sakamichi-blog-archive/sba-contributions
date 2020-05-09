@@ -17,6 +17,6 @@ jobs:
     - run: npm install
     - run: npm run build
     - run: npm i -g firebase-tools
-    - run: firebase deploy -m ${{ github.event.head_commit.message }} --token "$FIREBASE_TOKEN"
+    - run: firebase deploy -m "${{ github.event.head_commit.message }}" --token "$FIREBASE_TOKEN"
       env:
         FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
