@@ -39,24 +39,24 @@ export default function Year({
     }
     return yearData.offset + 1
   }
-  const [ activeSquares, setActiveSquares ] = useState([])
+  // const [ activeSquares, setActiveSquares ] = useState([])
 
-  function handleActiveSquare(date:string) {
+  // function handleActiveSquare(date:string) {
 
-    let newActiveSquares = [...activeSquares]
+  //   let newActiveSquares = [...activeSquares]
 
-    if (activeSquares.includes(date)) {
+  //   if (activeSquares.includes(date)) {
 
-      const dateIndex = newActiveSquares.indexOf(date)
-      newActiveSquares.splice(dateIndex, 1)
-      setActiveSquares(newActiveSquares)
+  //     const dateIndex = newActiveSquares.indexOf(date)
+  //     newActiveSquares.splice(dateIndex, 1)
+  //     setActiveSquares(newActiveSquares)
 
-    } else {
+  //   } else {
 
-      newActiveSquares.push(date)
-      setActiveSquares(newActiveSquares)
-    }
-  }
+  //     newActiveSquares.push(date)
+  //     setActiveSquares(newActiveSquares)
+  //   }
+  // }
 
   return (
     <>
@@ -94,15 +94,14 @@ export default function Year({
             <li
               className={
                 getClassName(day.count) + " "
-                + (activeSquares.includes(day.date) ? "focused" : "")
+                // + (activeSquares.includes(day.date) ? "focused" : "")
               }
               style={{ gridRowStart: getColumnStart(day) }}
               key={ day.date }
-              onClick={ () => handleActiveSquare(day.date) }
+              // onClick={ () => handleActiveSquare(day.date) }
             >
               { day.count }
               <span>
-                {/* { day.count } post{ day.count === 1 ? "" : "s" } <span>on</span> { day.dateFormatted } */}
                 { day.dateFormatted }: { day.count } post{ day.count === 1 ? "" : "s" }
               </span>
             </li>
