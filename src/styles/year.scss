@@ -1,8 +1,19 @@
 $grid-gap: 3px;
 $square-size: 24px;
 $square-gap: 6px;
-$font-color-black: #000000c0;
-$tooltip-color: #000000b0;
+// $font-color-black: #000000c0;
+// $tooltip-color: #000000b0;
+$black1: lighten(#000, 24%);
+$black2: lighten(#000, 36%);
+$tooltip-color: rgba(#000, 0.7);
+
+$square-colors: (
+  "1": #ebedf0,
+  "2": #c6e48b,
+  "3": #7bc96f,
+  "4": #239a3b,
+  "5": #196127
+);
 
 .year {
   padding: 30px;
@@ -15,7 +26,7 @@ $tooltip-color: #000000b0;
     margin: 0 0 12px 0;
 
     span {
-      color: $font-color-black;
+      color: $black2;
     }
   }
 }
@@ -43,7 +54,7 @@ $tooltip-color: #000000b0;
 
     li {
       width: $square-size;
-      color: $font-color-black;
+      color: $black2;
     }
   }
 
@@ -59,7 +70,7 @@ $tooltip-color: #000000b0;
     li {
       display: flex;
       align-items: center;
-      color: $font-color-black;
+      color: $black2;
 
       &:nth-child(odd) {
         visibility: hidden;
@@ -82,20 +93,10 @@ $tooltip-color: #000000b0;
       position: relative;
       user-select: none;
 
-      &.level-1 {
-        background-color: #ebedf0;
-      }
-      &.level-2 {
-        background-color: #c6e48b;
-      }
-      &.level-3 {
-        background-color: #7bc96f;
-      }
-      &.level-4 {
-        background-color: #239a3b;
-      }
-      &.level-5 {
-        background-color: #196127;
+      @each $i, $color in $square-colors {
+        &.level-#{$i} {
+          background-color: $color;
+        }
       }
       
       > span {
@@ -148,7 +149,7 @@ $tooltip-color: #000000b0;
     p {
       margin: 0;
       line-height: $square-size;
-      color: $font-color-black;
+      color: $black1;
     }
 
     .colors {
@@ -172,6 +173,7 @@ $tooltip-color: #000000b0;
         span {
           display: inline-block;
           line-height: $square-size;
+          color: $black1;
         }
 
         .square {
@@ -180,20 +182,10 @@ $tooltip-color: #000000b0;
           height: $square-size;
           margin-right: $square-gap;
 
-          &.level-1 {
-            background-color: #ebedf0;
-          }
-          &.level-2 {
-            background-color: #c6e48b;
-          }
-          &.level-3 {
-            background-color: #7bc96f;
-          }
-          &.level-4 {
-            background-color: #239a3b;
-          }
-          &.level-5 {
-            background-color: #196127;
+          @each $i, $color in $square-colors {
+            &.level-#{$i} {
+              background-color: $color;
+            }
           }
         }
       }
