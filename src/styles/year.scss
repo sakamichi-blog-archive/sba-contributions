@@ -106,8 +106,6 @@ $square-colors: (
         font-size: 12px;
         color: white;
         background-color: $tooltip-color;
-        width: 120px;
-        // width: max-content;
         padding: 6px 9px;
         text-align: center;
         border-radius: 3px;
@@ -116,6 +114,13 @@ $square-colors: (
         bottom: calc(#{$square-size} + 9px);
         transform: translateX(calc(-50% + #{$square-size} / 2));
         pointer-events: none;
+        width: 126px;
+        // @supports (width: max-content) {
+        //   width: max-content;
+        // }
+        // @supports not (width: max-content) {
+        //   width: 126px;
+        // }
 
         &:before {
           content: "";
