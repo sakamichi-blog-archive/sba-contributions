@@ -5,6 +5,7 @@ on:
     branches:
     - master
     paths-ignore:
+    - .gitignore
     - LICENSE
     - README.md
     - images/**
