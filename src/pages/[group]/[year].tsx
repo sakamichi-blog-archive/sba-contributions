@@ -49,12 +49,12 @@ export default function Year({ yearData }: { yearData:YearData }) {
   return (
     <>
       <Head>
-        <title>{ `${ groupData.englishShort } ${ year } Contributions` }</title>
+        <title>{ `${ groupData.englishShort } ${ year } Blog Contributions` }</title>
         <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;display=swap" rel="stylesheet" key="google-fonts" />
       </Head>
       <div className="year">
         <h1 className="year__title">
-          { groupData.englishShort } { year } <span>{ yearData.count } contributions</span>
+          { groupData.englishShort } { year } <span>{ yearData.count } contribution{ yearData.count !== 1 ? "s" : "" }</span>
         </h1>
         <div className="contributions-chart grid">
           <ul className="months grid-child">
