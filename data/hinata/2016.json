@@ -3,1898 +3,2241 @@
     "count": 1149,
     "days": [
         {
-            "date": "2016-01-01",
-            "dateFormatted": "1/1",
-            "count": 0
-        },
-        {
-            "date": "2016-01-02",
-            "dateFormatted": "1/2",
-            "count": 0
-        },
-        {
-            "date": "2016-01-03",
-            "dateFormatted": "1/3",
-            "count": 0
-        },
-        {
-            "date": "2016-01-04",
-            "dateFormatted": "1/4",
-            "count": 0
-        },
-        {
-            "date": "2016-01-05",
-            "dateFormatted": "1/5",
-            "count": 0
-        },
-        {
-            "date": "2016-01-06",
-            "dateFormatted": "1/6",
-            "count": 0
-        },
-        {
-            "date": "2016-01-07",
-            "dateFormatted": "1/7",
-            "count": 0
-        },
-        {
-            "date": "2016-01-08",
-            "dateFormatted": "1/8",
-            "count": 0
-        },
-        {
-            "date": "2016-01-09",
-            "dateFormatted": "1/9",
-            "count": 0
-        },
-        {
-            "date": "2016-01-10",
-            "dateFormatted": "1/10",
-            "count": 0
-        },
-        {
-            "date": "2016-01-11",
-            "dateFormatted": "1/11",
-            "count": 0
-        },
-        {
-            "date": "2016-01-12",
-            "dateFormatted": "1/12",
-            "count": 0
-        },
-        {
-            "date": "2016-01-13",
-            "dateFormatted": "1/13",
-            "count": 0
-        },
-        {
-            "date": "2016-01-14",
-            "dateFormatted": "1/14",
-            "count": 0
-        },
-        {
-            "date": "2016-01-15",
-            "dateFormatted": "1/15",
-            "count": 0
-        },
-        {
-            "date": "2016-01-16",
-            "dateFormatted": "1/16",
-            "count": 0
-        },
-        {
-            "date": "2016-01-17",
-            "dateFormatted": "1/17",
-            "count": 0
-        },
-        {
-            "date": "2016-01-18",
-            "dateFormatted": "1/18",
-            "count": 0
-        },
-        {
-            "date": "2016-01-19",
-            "dateFormatted": "1/19",
-            "count": 0
-        },
-        {
-            "date": "2016-01-20",
-            "dateFormatted": "1/20",
-            "count": 0
-        },
-        {
-            "date": "2016-01-21",
-            "dateFormatted": "1/21",
-            "count": 0
-        },
-        {
-            "date": "2016-01-22",
-            "dateFormatted": "1/22",
-            "count": 0
-        },
-        {
-            "date": "2016-01-23",
-            "dateFormatted": "1/23",
-            "count": 0
-        },
-        {
-            "date": "2016-01-24",
-            "dateFormatted": "1/24",
-            "count": 0
-        },
-        {
-            "date": "2016-01-25",
-            "dateFormatted": "1/25",
-            "count": 0
-        },
-        {
-            "date": "2016-01-26",
-            "dateFormatted": "1/26",
-            "count": 0
-        },
-        {
-            "date": "2016-01-27",
-            "dateFormatted": "1/27",
-            "count": 0
-        },
-        {
-            "date": "2016-01-28",
-            "dateFormatted": "1/28",
-            "count": 0
-        },
-        {
-            "date": "2016-01-29",
-            "dateFormatted": "1/29",
-            "count": 0
-        },
-        {
-            "date": "2016-01-30",
-            "dateFormatted": "1/30",
-            "count": 0
-        },
-        {
-            "date": "2016-01-31",
-            "dateFormatted": "1/31",
-            "count": 0
-        },
-        {
-            "date": "2016-02-01",
-            "dateFormatted": "2/1",
-            "count": 0
-        },
-        {
-            "date": "2016-02-02",
-            "dateFormatted": "2/2",
-            "count": 0
-        },
-        {
-            "date": "2016-02-03",
-            "dateFormatted": "2/3",
-            "count": 0
-        },
-        {
-            "date": "2016-02-04",
-            "dateFormatted": "2/4",
-            "count": 0
-        },
-        {
-            "date": "2016-02-05",
-            "dateFormatted": "2/5",
-            "count": 0
-        },
-        {
-            "date": "2016-02-06",
-            "dateFormatted": "2/6",
-            "count": 0
-        },
-        {
-            "date": "2016-02-07",
-            "dateFormatted": "2/7",
-            "count": 0
-        },
-        {
-            "date": "2016-02-08",
-            "dateFormatted": "2/8",
-            "count": 0
-        },
-        {
-            "date": "2016-02-09",
-            "dateFormatted": "2/9",
-            "count": 0
-        },
-        {
-            "date": "2016-02-10",
-            "dateFormatted": "2/10",
-            "count": 0
-        },
-        {
-            "date": "2016-02-11",
-            "dateFormatted": "2/11",
-            "count": 0
-        },
-        {
-            "date": "2016-02-12",
-            "dateFormatted": "2/12",
-            "count": 0
-        },
-        {
-            "date": "2016-02-13",
-            "dateFormatted": "2/13",
-            "count": 0
-        },
-        {
-            "date": "2016-02-14",
-            "dateFormatted": "2/14",
-            "count": 0
-        },
-        {
-            "date": "2016-02-15",
-            "dateFormatted": "2/15",
-            "count": 0
-        },
-        {
-            "date": "2016-02-16",
-            "dateFormatted": "2/16",
-            "count": 0
-        },
-        {
-            "date": "2016-02-17",
-            "dateFormatted": "2/17",
-            "count": 0
-        },
-        {
-            "date": "2016-02-18",
-            "dateFormatted": "2/18",
-            "count": 0
-        },
-        {
-            "date": "2016-02-19",
-            "dateFormatted": "2/19",
-            "count": 0
-        },
-        {
-            "date": "2016-02-20",
-            "dateFormatted": "2/20",
-            "count": 0
-        },
-        {
-            "date": "2016-02-21",
-            "dateFormatted": "2/21",
-            "count": 0
-        },
-        {
-            "date": "2016-02-22",
-            "dateFormatted": "2/22",
-            "count": 0
-        },
-        {
-            "date": "2016-02-23",
-            "dateFormatted": "2/23",
-            "count": 0
-        },
-        {
-            "date": "2016-02-24",
-            "dateFormatted": "2/24",
-            "count": 0
-        },
-        {
-            "date": "2016-02-25",
-            "dateFormatted": "2/25",
-            "count": 0
-        },
-        {
-            "date": "2016-02-26",
-            "dateFormatted": "2/26",
-            "count": 0
-        },
-        {
-            "date": "2016-02-27",
-            "dateFormatted": "2/27",
-            "count": 0
-        },
-        {
-            "date": "2016-02-28",
-            "dateFormatted": "2/28",
-            "count": 0
-        },
-        {
-            "date": "2016-02-29",
-            "dateFormatted": "2/29",
-            "count": 0
-        },
-        {
-            "date": "2016-03-01",
-            "dateFormatted": "3/1",
-            "count": 0
-        },
-        {
-            "date": "2016-03-02",
-            "dateFormatted": "3/2",
-            "count": 0
-        },
-        {
-            "date": "2016-03-03",
-            "dateFormatted": "3/3",
-            "count": 0
-        },
-        {
-            "date": "2016-03-04",
-            "dateFormatted": "3/4",
-            "count": 0
-        },
-        {
-            "date": "2016-03-05",
-            "dateFormatted": "3/5",
-            "count": 0
-        },
-        {
-            "date": "2016-03-06",
-            "dateFormatted": "3/6",
-            "count": 0
-        },
-        {
-            "date": "2016-03-07",
-            "dateFormatted": "3/7",
-            "count": 0
-        },
-        {
-            "date": "2016-03-08",
-            "dateFormatted": "3/8",
-            "count": 0
-        },
-        {
-            "date": "2016-03-09",
-            "dateFormatted": "3/9",
-            "count": 0
-        },
-        {
-            "date": "2016-03-10",
-            "dateFormatted": "3/10",
-            "count": 0
-        },
-        {
-            "date": "2016-03-11",
-            "dateFormatted": "3/11",
-            "count": 0
-        },
-        {
-            "date": "2016-03-12",
-            "dateFormatted": "3/12",
-            "count": 0
-        },
-        {
-            "date": "2016-03-13",
-            "dateFormatted": "3/13",
-            "count": 0
-        },
-        {
-            "date": "2016-03-14",
-            "dateFormatted": "3/14",
-            "count": 0
-        },
-        {
-            "date": "2016-03-15",
-            "dateFormatted": "3/15",
-            "count": 0
-        },
-        {
-            "date": "2016-03-16",
-            "dateFormatted": "3/16",
-            "count": 0
-        },
-        {
-            "date": "2016-03-17",
-            "dateFormatted": "3/17",
-            "count": 0
-        },
-        {
-            "date": "2016-03-18",
-            "dateFormatted": "3/18",
-            "count": 0
-        },
-        {
-            "date": "2016-03-19",
-            "dateFormatted": "3/19",
-            "count": 0
-        },
-        {
-            "date": "2016-03-20",
-            "dateFormatted": "3/20",
-            "count": 0
-        },
-        {
-            "date": "2016-03-21",
-            "dateFormatted": "3/21",
-            "count": 0
-        },
-        {
-            "date": "2016-03-22",
-            "dateFormatted": "3/22",
-            "count": 0
-        },
-        {
-            "date": "2016-03-23",
-            "dateFormatted": "3/23",
-            "count": 0
-        },
-        {
-            "date": "2016-03-24",
-            "dateFormatted": "3/24",
-            "count": 0
-        },
-        {
-            "date": "2016-03-25",
-            "dateFormatted": "3/25",
-            "count": 0
-        },
-        {
-            "date": "2016-03-26",
-            "dateFormatted": "3/26",
-            "count": 0
-        },
-        {
-            "date": "2016-03-27",
-            "dateFormatted": "3/27",
-            "count": 0
-        },
-        {
-            "date": "2016-03-28",
-            "dateFormatted": "3/28",
-            "count": 0
-        },
-        {
-            "date": "2016-03-29",
-            "dateFormatted": "3/29",
-            "count": 0
-        },
-        {
-            "date": "2016-03-30",
-            "dateFormatted": "3/30",
-            "count": 0
-        },
-        {
-            "date": "2016-03-31",
-            "dateFormatted": "3/31",
-            "count": 0
-        },
-        {
-            "date": "2016-04-01",
-            "dateFormatted": "4/1",
-            "count": 0
-        },
-        {
-            "date": "2016-04-02",
-            "dateFormatted": "4/2",
-            "count": 0
-        },
-        {
-            "date": "2016-04-03",
-            "dateFormatted": "4/3",
-            "count": 0
-        },
-        {
-            "date": "2016-04-04",
-            "dateFormatted": "4/4",
-            "count": 0
-        },
-        {
-            "date": "2016-04-05",
-            "dateFormatted": "4/5",
-            "count": 0
-        },
-        {
-            "date": "2016-04-06",
-            "dateFormatted": "4/6",
-            "count": 0
-        },
-        {
-            "date": "2016-04-07",
-            "dateFormatted": "4/7",
-            "count": 0
-        },
-        {
-            "date": "2016-04-08",
-            "dateFormatted": "4/8",
-            "count": 0
-        },
-        {
-            "date": "2016-04-09",
-            "dateFormatted": "4/9",
-            "count": 0
-        },
-        {
-            "date": "2016-04-10",
-            "dateFormatted": "4/10",
-            "count": 0
-        },
-        {
-            "date": "2016-04-11",
-            "dateFormatted": "4/11",
-            "count": 0
-        },
-        {
-            "date": "2016-04-12",
-            "dateFormatted": "4/12",
-            "count": 0
-        },
-        {
-            "date": "2016-04-13",
-            "dateFormatted": "4/13",
-            "count": 0
-        },
-        {
-            "date": "2016-04-14",
-            "dateFormatted": "4/14",
-            "count": 0
-        },
-        {
-            "date": "2016-04-15",
-            "dateFormatted": "4/15",
-            "count": 0
-        },
-        {
-            "date": "2016-04-16",
-            "dateFormatted": "4/16",
-            "count": 0
-        },
-        {
-            "date": "2016-04-17",
-            "dateFormatted": "4/17",
-            "count": 0
-        },
-        {
-            "date": "2016-04-18",
-            "dateFormatted": "4/18",
-            "count": 0
-        },
-        {
-            "date": "2016-04-19",
-            "dateFormatted": "4/19",
-            "count": 0
-        },
-        {
-            "date": "2016-04-20",
-            "dateFormatted": "4/20",
-            "count": 0
-        },
-        {
-            "date": "2016-04-21",
-            "dateFormatted": "4/21",
-            "count": 0
-        },
-        {
-            "date": "2016-04-22",
-            "dateFormatted": "4/22",
-            "count": 0
-        },
-        {
-            "date": "2016-04-23",
-            "dateFormatted": "4/23",
-            "count": 0
-        },
-        {
-            "date": "2016-04-24",
-            "dateFormatted": "4/24",
-            "count": 0
-        },
-        {
-            "date": "2016-04-25",
-            "dateFormatted": "4/25",
-            "count": 0
-        },
-        {
-            "date": "2016-04-26",
-            "dateFormatted": "4/26",
-            "count": 0
-        },
-        {
-            "date": "2016-04-27",
-            "dateFormatted": "4/27",
-            "count": 0
-        },
-        {
-            "date": "2016-04-28",
-            "dateFormatted": "4/28",
-            "count": 0
-        },
-        {
-            "date": "2016-04-29",
-            "dateFormatted": "4/29",
-            "count": 0
-        },
-        {
-            "date": "2016-04-30",
-            "dateFormatted": "4/30",
-            "count": 0
-        },
-        {
-            "date": "2016-05-01",
-            "dateFormatted": "5/1",
-            "count": 0
-        },
-        {
-            "date": "2016-05-02",
-            "dateFormatted": "5/2",
-            "count": 0
-        },
-        {
-            "date": "2016-05-03",
-            "dateFormatted": "5/3",
-            "count": 0
-        },
-        {
-            "date": "2016-05-04",
-            "dateFormatted": "5/4",
-            "count": 0
-        },
-        {
-            "date": "2016-05-05",
-            "dateFormatted": "5/5",
-            "count": 0
-        },
-        {
-            "date": "2016-05-06",
-            "dateFormatted": "5/6",
-            "count": 0
-        },
-        {
-            "date": "2016-05-07",
-            "dateFormatted": "5/7",
-            "count": 0
-        },
-        {
-            "date": "2016-05-08",
-            "dateFormatted": "5/8",
-            "count": 0
-        },
-        {
-            "date": "2016-05-09",
-            "dateFormatted": "5/9",
-            "count": 0
-        },
-        {
-            "date": "2016-05-10",
-            "dateFormatted": "5/10",
-            "count": 0
-        },
-        {
-            "date": "2016-05-11",
-            "dateFormatted": "5/11",
-            "count": 0
-        },
-        {
-            "date": "2016-05-12",
-            "dateFormatted": "5/12",
-            "count": 0
-        },
-        {
-            "date": "2016-05-13",
-            "dateFormatted": "5/13",
-            "count": 0
-        },
-        {
-            "date": "2016-05-14",
-            "dateFormatted": "5/14",
-            "count": 0
-        },
-        {
-            "date": "2016-05-15",
-            "dateFormatted": "5/15",
-            "count": 0
-        },
-        {
-            "date": "2016-05-16",
-            "dateFormatted": "5/16",
-            "count": 0
-        },
-        {
-            "date": "2016-05-17",
-            "dateFormatted": "5/17",
-            "count": 0
-        },
-        {
-            "date": "2016-05-18",
-            "dateFormatted": "5/18",
-            "count": 0
-        },
-        {
-            "date": "2016-05-19",
-            "dateFormatted": "5/19",
-            "count": 0
-        },
-        {
-            "date": "2016-05-20",
-            "dateFormatted": "5/20",
-            "count": 0
-        },
-        {
-            "date": "2016-05-21",
-            "dateFormatted": "5/21",
-            "count": 0
-        },
-        {
-            "date": "2016-05-22",
-            "dateFormatted": "5/22",
-            "count": 0
-        },
-        {
-            "date": "2016-05-23",
-            "dateFormatted": "5/23",
-            "count": 0
-        },
-        {
-            "date": "2016-05-24",
-            "dateFormatted": "5/24",
-            "count": 0
-        },
-        {
-            "date": "2016-05-25",
-            "dateFormatted": "5/25",
-            "count": 0
-        },
-        {
-            "date": "2016-05-26",
-            "dateFormatted": "5/26",
-            "count": 0
-        },
-        {
-            "date": "2016-05-27",
-            "dateFormatted": "5/27",
-            "count": 0
-        },
-        {
-            "date": "2016-05-28",
-            "dateFormatted": "5/28",
-            "count": 0
-        },
-        {
-            "date": "2016-05-29",
-            "dateFormatted": "5/29",
-            "count": 0
-        },
-        {
-            "date": "2016-05-30",
-            "dateFormatted": "5/30",
-            "count": 0
-        },
-        {
-            "date": "2016-05-31",
-            "dateFormatted": "5/31",
-            "count": 0
-        },
-        {
-            "date": "2016-06-01",
-            "dateFormatted": "6/1",
-            "count": 0
-        },
-        {
-            "date": "2016-06-02",
-            "dateFormatted": "6/2",
-            "count": 0
-        },
-        {
-            "date": "2016-06-03",
-            "dateFormatted": "6/3",
-            "count": 0
-        },
-        {
-            "date": "2016-06-04",
-            "dateFormatted": "6/4",
-            "count": 0
-        },
-        {
-            "date": "2016-06-05",
-            "dateFormatted": "6/5",
-            "count": 0
-        },
-        {
-            "date": "2016-06-06",
-            "dateFormatted": "6/6",
-            "count": 0
-        },
-        {
-            "date": "2016-06-07",
-            "dateFormatted": "6/7",
-            "count": 0
-        },
-        {
-            "date": "2016-06-08",
-            "dateFormatted": "6/8",
-            "count": 0
-        },
-        {
-            "date": "2016-06-09",
-            "dateFormatted": "6/9",
-            "count": 0
-        },
-        {
-            "date": "2016-06-10",
-            "dateFormatted": "6/10",
-            "count": 0
-        },
-        {
-            "date": "2016-06-11",
-            "dateFormatted": "6/11",
-            "count": 0
-        },
-        {
-            "date": "2016-06-12",
-            "dateFormatted": "6/12",
-            "count": 0
-        },
-        {
-            "date": "2016-06-13",
-            "dateFormatted": "6/13",
-            "count": 0
-        },
-        {
-            "date": "2016-06-14",
-            "dateFormatted": "6/14",
-            "count": 0
-        },
-        {
-            "date": "2016-06-15",
-            "dateFormatted": "6/15",
-            "count": 0
-        },
-        {
-            "date": "2016-06-16",
-            "dateFormatted": "6/16",
-            "count": 0
-        },
-        {
-            "date": "2016-06-17",
-            "dateFormatted": "6/17",
-            "count": 0
-        },
-        {
-            "date": "2016-06-18",
-            "dateFormatted": "6/18",
-            "count": 0
-        },
-        {
-            "date": "2016-06-19",
-            "dateFormatted": "6/19",
-            "count": 0
-        },
-        {
-            "date": "2016-06-20",
-            "dateFormatted": "6/20",
-            "count": 0
-        },
-        {
-            "date": "2016-06-21",
-            "dateFormatted": "6/21",
-            "count": 0
-        },
-        {
-            "date": "2016-06-22",
-            "dateFormatted": "6/22",
-            "count": 0
-        },
-        {
-            "date": "2016-06-23",
-            "dateFormatted": "6/23",
-            "count": 0
-        },
-        {
-            "date": "2016-06-24",
-            "dateFormatted": "6/24",
-            "count": 0
-        },
-        {
-            "date": "2016-06-25",
-            "dateFormatted": "6/25",
-            "count": 0
-        },
-        {
-            "date": "2016-06-26",
-            "dateFormatted": "6/26",
-            "count": 0
-        },
-        {
-            "date": "2016-06-27",
-            "dateFormatted": "6/27",
-            "count": 0
-        },
-        {
-            "date": "2016-06-28",
-            "dateFormatted": "6/28",
-            "count": 0
-        },
-        {
-            "date": "2016-06-29",
-            "dateFormatted": "6/29",
-            "count": 0
-        },
-        {
-            "date": "2016-06-30",
-            "dateFormatted": "6/30",
-            "count": 0
-        },
-        {
-            "date": "2016-07-01",
-            "dateFormatted": "7/1",
-            "count": 0
-        },
-        {
-            "date": "2016-07-02",
-            "dateFormatted": "7/2",
-            "count": 0
-        },
-        {
-            "date": "2016-07-03",
-            "dateFormatted": "7/3",
-            "count": 0
-        },
-        {
-            "date": "2016-07-04",
-            "dateFormatted": "7/4",
-            "count": 0
-        },
-        {
-            "date": "2016-07-05",
-            "dateFormatted": "7/5",
-            "count": 0
-        },
-        {
-            "date": "2016-07-06",
-            "dateFormatted": "7/6",
-            "count": 0
-        },
-        {
-            "date": "2016-07-07",
-            "dateFormatted": "7/7",
-            "count": 0
-        },
-        {
-            "date": "2016-07-08",
-            "dateFormatted": "7/8",
-            "count": 0
-        },
-        {
-            "date": "2016-07-09",
-            "dateFormatted": "7/9",
-            "count": 0
-        },
-        {
-            "date": "2016-07-10",
-            "dateFormatted": "7/10",
-            "count": 0
-        },
-        {
-            "date": "2016-07-11",
-            "dateFormatted": "7/11",
-            "count": 0
-        },
-        {
-            "date": "2016-07-12",
-            "dateFormatted": "7/12",
-            "count": 0
-        },
-        {
-            "date": "2016-07-13",
-            "dateFormatted": "7/13",
-            "count": 0
-        },
-        {
-            "date": "2016-07-14",
-            "dateFormatted": "7/14",
-            "count": 0
-        },
-        {
-            "date": "2016-07-15",
-            "dateFormatted": "7/15",
-            "count": 0
-        },
-        {
-            "date": "2016-07-16",
-            "dateFormatted": "7/16",
-            "count": 0
-        },
-        {
-            "date": "2016-07-17",
-            "dateFormatted": "7/17",
-            "count": 0
-        },
-        {
-            "date": "2016-07-18",
-            "dateFormatted": "7/18",
-            "count": 0
-        },
-        {
-            "date": "2016-07-19",
-            "dateFormatted": "7/19",
-            "count": 0
-        },
-        {
-            "date": "2016-07-20",
-            "dateFormatted": "7/20",
-            "count": 0
-        },
-        {
-            "date": "2016-07-21",
-            "dateFormatted": "7/21",
-            "count": 0
-        },
-        {
-            "date": "2016-07-22",
-            "dateFormatted": "7/22",
-            "count": 0
-        },
-        {
-            "date": "2016-07-23",
-            "dateFormatted": "7/23",
-            "count": 0
-        },
-        {
-            "date": "2016-07-24",
-            "dateFormatted": "7/24",
-            "count": 0
-        },
-        {
-            "date": "2016-07-25",
-            "dateFormatted": "7/25",
-            "count": 0
-        },
-        {
-            "date": "2016-07-26",
-            "dateFormatted": "7/26",
-            "count": 0
-        },
-        {
-            "date": "2016-07-27",
-            "dateFormatted": "7/27",
-            "count": 0
-        },
-        {
-            "date": "2016-07-28",
-            "dateFormatted": "7/28",
-            "count": 0
-        },
-        {
-            "date": "2016-07-29",
-            "dateFormatted": "7/29",
-            "count": 0
-        },
-        {
-            "date": "2016-07-30",
-            "dateFormatted": "7/30",
-            "count": 0
-        },
-        {
-            "date": "2016-07-31",
-            "dateFormatted": "7/31",
-            "count": 0
-        },
-        {
-            "date": "2016-08-01",
-            "dateFormatted": "8/1",
-            "count": 0
-        },
-        {
             "date": "2016-08-02",
             "dateFormatted": "8/2",
+            "members": [
+                "1",
+                "4",
+                "8",
+                "7",
+                "3",
+                "9",
+                "2",
+                "10",
+                "5",
+                "11",
+                "6",
+                "7",
+                "3",
+                "6"
+            ],
             "count": 14
         },
         {
             "date": "2016-08-03",
             "dateFormatted": "8/3",
+            "members": [
+                "1",
+                "4",
+                "9",
+                "8",
+                "5",
+                "8",
+                "10",
+                "6"
+            ],
             "count": 8
         },
         {
             "date": "2016-08-04",
             "dateFormatted": "8/4",
+            "members": [
+                "2",
+                "4",
+                "5",
+                "9",
+                "8",
+                "7",
+                "10",
+                "6",
+                "4",
+                "9",
+                "8"
+            ],
             "count": 11
         },
         {
             "date": "2016-08-05",
             "dateFormatted": "8/5",
+            "members": [
+                "5",
+                "3",
+                "4",
+                "8",
+                "6",
+                "10",
+                "9",
+                "2",
+                "1",
+                "5",
+                "7",
+                "8",
+                "4"
+            ],
             "count": 13
         },
         {
             "date": "2016-08-06",
             "dateFormatted": "8/6",
+            "members": [
+                "6",
+                "1",
+                "8",
+                "6",
+                "10",
+                "9",
+                "5",
+                "4",
+                "11",
+                "8"
+            ],
             "count": 10
         },
         {
             "date": "2016-08-07",
             "dateFormatted": "8/7",
+            "members": [
+                "1",
+                "6",
+                "9",
+                "10",
+                "3",
+                "11",
+                "7",
+                "4",
+                "8",
+                "2",
+                "5",
+                "6"
+            ],
             "count": 12
         },
         {
             "date": "2016-08-08",
             "dateFormatted": "8/8",
+            "members": [
+                "10",
+                "9",
+                "1",
+                "2"
+            ],
             "count": 4
         },
         {
             "date": "2016-08-09",
             "dateFormatted": "8/9",
+            "members": [
+                "7",
+                "6",
+                "2",
+                "8",
+                "4"
+            ],
             "count": 5
         },
         {
             "date": "2016-08-10",
             "dateFormatted": "8/10",
+            "members": [
+                "4",
+                "6",
+                "8"
+            ],
             "count": 3
         },
         {
             "date": "2016-08-11",
             "dateFormatted": "8/11",
+            "members": [
+                "1",
+                "7",
+                "8",
+                "9",
+                "6",
+                "4",
+                "1",
+                "5"
+            ],
             "count": 8
         },
         {
             "date": "2016-08-12",
             "dateFormatted": "8/12",
+            "members": [
+                "10",
+                "6",
+                "3",
+                "11",
+                "8",
+                "9",
+                "7",
+                "1",
+                "6"
+            ],
             "count": 9
         },
         {
             "date": "2016-08-13",
             "dateFormatted": "8/13",
+            "members": [
+                "8",
+                "10",
+                "1",
+                "7",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "11",
+                "9",
+                "8"
+            ],
             "count": 12
         },
         {
             "date": "2016-08-14",
             "dateFormatted": "8/14",
+            "members": [
+                "6",
+                "8",
+                "6",
+                "1",
+                "11",
+                "10",
+                "3",
+                "7",
+                "4",
+                "9",
+                "1",
+                "5",
+                "6"
+            ],
             "count": 13
         },
         {
             "date": "2016-08-15",
             "dateFormatted": "8/15",
+            "members": [
+                "4",
+                "10",
+                "3",
+                "1",
+                "8",
+                "6"
+            ],
             "count": 6
         },
         {
             "date": "2016-08-16",
             "dateFormatted": "8/16",
+            "members": [
+                "9",
+                "11",
+                "2",
+                "5",
+                "4",
+                "6",
+                "7",
+                "1",
+                "8"
+            ],
             "count": 9
         },
         {
             "date": "2016-08-17",
             "dateFormatted": "8/17",
+            "members": [
+                "3",
+                "11",
+                "6",
+                "10",
+                "7",
+                "5",
+                "9",
+                "4"
+            ],
             "count": 8
         },
         {
             "date": "2016-08-18",
             "dateFormatted": "8/18",
+            "members": [
+                "6",
+                "5",
+                "8",
+                "10",
+                "4",
+                "11",
+                "1",
+                "6",
+                "2",
+                "8",
+                "7"
+            ],
             "count": 11
         },
         {
             "date": "2016-08-19",
             "dateFormatted": "8/19",
+            "members": [
+                "3",
+                "6",
+                "4",
+                "10",
+                "9",
+                "1",
+                "11",
+                "1"
+            ],
             "count": 8
         },
         {
             "date": "2016-08-20",
             "dateFormatted": "8/20",
+            "members": [
+                "7",
+                "10",
+                "6",
+                "5",
+                "4",
+                "11",
+                "1",
+                "7",
+                "6",
+                "2",
+                "9"
+            ],
             "count": 11
         },
         {
             "date": "2016-08-21",
             "dateFormatted": "8/21",
+            "members": [
+                "6",
+                "4",
+                "8",
+                "5",
+                "1",
+                "3",
+                "8",
+                "10",
+                "6",
+                "9"
+            ],
             "count": 10
         },
         {
             "date": "2016-08-22",
             "dateFormatted": "8/22",
+            "members": [
+                "11",
+                "6"
+            ],
             "count": 2
         },
         {
             "date": "2016-08-23",
             "dateFormatted": "8/23",
+            "members": [
+                "8",
+                "4",
+                "9",
+                "6"
+            ],
             "count": 4
         },
         {
             "date": "2016-08-24",
             "dateFormatted": "8/24",
+            "members": [
+                "8",
+                "7",
+                "1",
+                "4",
+                "6",
+                "8"
+            ],
             "count": 6
         },
         {
             "date": "2016-08-25",
             "dateFormatted": "8/25",
+            "members": [
+                "5",
+                "6",
+                "2",
+                "10",
+                "1",
+                "3",
+                "7",
+                "10",
+                "9"
+            ],
             "count": 9
         },
         {
             "date": "2016-08-26",
             "dateFormatted": "8/26",
+            "members": [
+                "9",
+                "1",
+                "8",
+                "11",
+                "5",
+                "6",
+                "7"
+            ],
             "count": 7
         },
         {
             "date": "2016-08-27",
             "dateFormatted": "8/27",
+            "members": [
+                "7",
+                "8",
+                "10",
+                "2",
+                "4",
+                "6",
+                "11",
+                "6"
+            ],
             "count": 8
         },
         {
             "date": "2016-08-28",
             "dateFormatted": "8/28",
+            "members": [
+                "1",
+                "8",
+                "5",
+                "10",
+                "7",
+                "9",
+                "6",
+                "2",
+                "3",
+                "4",
+                "11"
+            ],
             "count": 11
         },
         {
             "date": "2016-08-29",
             "dateFormatted": "8/29",
+            "members": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "10",
+                "9",
+                "6",
+                "8",
+                "5",
+                "6",
+                "7"
+            ],
             "count": 12
         },
         {
             "date": "2016-08-30",
             "dateFormatted": "8/30",
+            "members": [
+                "4",
+                "5",
+                "9",
+                "11",
+                "6",
+                "4"
+            ],
             "count": 6
         },
         {
             "date": "2016-08-31",
             "dateFormatted": "8/31",
+            "members": [
+                "7",
+                "8",
+                "5",
+                "6",
+                "4"
+            ],
             "count": 5
         },
         {
             "date": "2016-09-01",
             "dateFormatted": "9/1",
+            "members": [
+                "1",
+                "5",
+                "7",
+                "9",
+                "4",
+                "6",
+                "6",
+                "10"
+            ],
             "count": 8
         },
         {
             "date": "2016-09-02",
             "dateFormatted": "9/2",
+            "members": [
+                "1",
+                "2",
+                "3",
+                "8",
+                "6",
+                "11",
+                "7",
+                "4",
+                "1"
+            ],
             "count": 9
         },
         {
             "date": "2016-09-03",
             "dateFormatted": "9/3",
+            "members": [
+                "5",
+                "8",
+                "9",
+                "4",
+                "6",
+                "10",
+                "2",
+                "7",
+                "11",
+                "3"
+            ],
             "count": 10
         },
         {
             "date": "2016-09-04",
             "dateFormatted": "9/4",
+            "members": [
+                "1",
+                "10",
+                "8",
+                "6",
+                "4",
+                "7"
+            ],
             "count": 6
         },
         {
             "date": "2016-09-05",
             "dateFormatted": "9/5",
+            "members": [
+                "3",
+                "6",
+                "10",
+                "5",
+                "9",
+                "9",
+                "4",
+                "8",
+                "11"
+            ],
             "count": 9
         },
         {
             "date": "2016-09-06",
             "dateFormatted": "9/6",
+            "members": [
+                "6",
+                "2",
+                "7",
+                "3",
+                "1",
+                "8",
+                "5",
+                "10",
+                "4",
+                "9",
+                "11",
+                "6"
+            ],
             "count": 12
         },
         {
             "date": "2016-09-07",
             "dateFormatted": "9/7",
+            "members": [
+                "8",
+                "6",
+                "10",
+                "5",
+                "2",
+                "4",
+                "1",
+                "1"
+            ],
             "count": 8
         },
         {
             "date": "2016-09-08",
             "dateFormatted": "9/8",
+            "members": [
+                "10",
+                "7",
+                "6",
+                "1",
+                "9",
+                "8"
+            ],
             "count": 6
         },
         {
             "date": "2016-09-09",
             "dateFormatted": "9/9",
+            "members": [
+                "5",
+                "1",
+                "2",
+                "7",
+                "3",
+                "10",
+                "6",
+                "4"
+            ],
             "count": 8
         },
         {
             "date": "2016-09-10",
             "dateFormatted": "9/10",
+            "members": [
+                "10",
+                "5",
+                "6",
+                "2",
+                "9",
+                "4",
+                "8",
+                "7",
+                "10",
+                "2",
+                "3"
+            ],
             "count": 11
         },
         {
             "date": "2016-09-11",
             "dateFormatted": "9/11",
+            "members": [
+                "6",
+                "8",
+                "9",
+                "4",
+                "7",
+                "11"
+            ],
             "count": 6
         },
         {
             "date": "2016-09-12",
             "dateFormatted": "9/12",
+            "members": [
+                "5",
+                "6",
+                "6",
+                "9"
+            ],
             "count": 4
         },
         {
             "date": "2016-09-13",
             "dateFormatted": "9/13",
+            "members": [
+                "4",
+                "11",
+                "10",
+                "2",
+                "8",
+                "3",
+                "7",
+                "6",
+                "5",
+                "4"
+            ],
             "count": 10
         },
         {
             "date": "2016-09-14",
             "dateFormatted": "9/14",
+            "members": [
+                "10",
+                "11",
+                "4",
+                "6",
+                "1"
+            ],
             "count": 5
         },
         {
             "date": "2016-09-15",
             "dateFormatted": "9/15",
+            "members": [
+                "7",
+                "2",
+                "5",
+                "8",
+                "10",
+                "4",
+                "9",
+                "6"
+            ],
             "count": 8
         },
         {
             "date": "2016-09-16",
             "dateFormatted": "9/16",
+            "members": [
+                "7",
+                "10",
+                "3",
+                "6",
+                "4",
+                "1",
+                "9",
+                "8",
+                "4",
+                "7",
+                "10",
+                "2",
+                "5",
+                "6",
+                "4"
+            ],
             "count": 15
         },
         {
             "date": "2016-09-17",
             "dateFormatted": "9/17",
+            "members": [
+                "6",
+                "11",
+                "8",
+                "9"
+            ],
             "count": 4
         },
         {
             "date": "2016-09-18",
             "dateFormatted": "9/18",
+            "members": [
+                "10",
+                "2",
+                "7",
+                "4",
+                "6"
+            ],
             "count": 5
         },
         {
             "date": "2016-09-19",
             "dateFormatted": "9/19",
+            "members": [
+                "5",
+                "2",
+                "10",
+                "11",
+                "6",
+                "7",
+                "4"
+            ],
             "count": 7
         },
         {
             "date": "2016-09-20",
             "dateFormatted": "9/20",
+            "members": [
+                "11",
+                "5",
+                "10",
+                "8",
+                "6",
+                "3",
+                "4",
+                "1",
+                "9",
+                "6"
+            ],
             "count": 10
         },
         {
             "date": "2016-09-21",
             "dateFormatted": "9/21",
+            "members": [
+                "10",
+                "2",
+                "9",
+                "7",
+                "4",
+                "11",
+                "5",
+                "6",
+                "8",
+                "10",
+                "1",
+                "7",
+                "6",
+                "4",
+                "11"
+            ],
             "count": 15
         },
         {
             "date": "2016-09-22",
             "dateFormatted": "9/22",
+            "members": [
+                "10",
+                "6"
+            ],
             "count": 2
         },
         {
             "date": "2016-09-23",
             "dateFormatted": "9/23",
+            "members": [
+                "1",
+                "10",
+                "2",
+                "9",
+                "8",
+                "3",
+                "4",
+                "5",
+                "1",
+                "7",
+                "6",
+                "6"
+            ],
             "count": 12
         },
         {
             "date": "2016-09-24",
             "dateFormatted": "9/24",
+            "members": [
+                "10",
+                "5",
+                "6",
+                "11",
+                "8",
+                "2",
+                "4",
+                "1"
+            ],
             "count": 8
         },
         {
             "date": "2016-09-25",
             "dateFormatted": "9/25",
+            "members": [
+                "10",
+                "5",
+                "7",
+                "6",
+                "11",
+                "4",
+                "4",
+                "1"
+            ],
             "count": 8
         },
         {
             "date": "2016-09-26",
             "dateFormatted": "9/26",
+            "members": [
+                "6",
+                "5",
+                "9",
+                "2",
+                "4",
+                "3",
+                "10",
+                "6",
+                "1",
+                "2"
+            ],
             "count": 10
         },
         {
             "date": "2016-09-27",
             "dateFormatted": "9/27",
+            "members": [
+                "10",
+                "9",
+                "7",
+                "6",
+                "4",
+                "8",
+                "6"
+            ],
             "count": 7
         },
         {
             "date": "2016-09-28",
             "dateFormatted": "9/28",
+            "members": [
+                "5",
+                "6",
+                "7",
+                "10",
+                "4",
+                "1"
+            ],
             "count": 6
         },
         {
             "date": "2016-09-29",
             "dateFormatted": "9/29",
+            "members": [
+                "10",
+                "3",
+                "5",
+                "11",
+                "2",
+                "7",
+                "6",
+                "9",
+                "4"
+            ],
             "count": 9
         },
         {
             "date": "2016-09-30",
             "dateFormatted": "9/30",
+            "members": [
+                "6",
+                "1",
+                "5",
+                "6",
+                "8",
+                "9",
+                "10",
+                "4",
+                "1"
+            ],
             "count": 9
         },
         {
             "date": "2016-10-01",
             "dateFormatted": "10/1",
+            "members": [
+                "2",
+                "10",
+                "11",
+                "9",
+                "4",
+                "4",
+                "6",
+                "7"
+            ],
             "count": 8
         },
         {
             "date": "2016-10-02",
             "dateFormatted": "10/2",
+            "members": [
+                "9",
+                "5",
+                "3",
+                "7",
+                "4",
+                "11",
+                "6"
+            ],
             "count": 7
         },
         {
             "date": "2016-10-03",
             "dateFormatted": "10/3",
+            "members": [
+                "10",
+                "9",
+                "6",
+                "4",
+                "8",
+                "7",
+                "10"
+            ],
             "count": 7
         },
         {
             "date": "2016-10-04",
             "dateFormatted": "10/4",
+            "members": [
+                "6"
+            ],
             "count": 1
         },
         {
             "date": "2016-10-05",
             "dateFormatted": "10/5",
+            "members": [
+                "2",
+                "10",
+                "7",
+                "6"
+            ],
             "count": 4
         },
         {
             "date": "2016-10-06",
             "dateFormatted": "10/6",
+            "members": [
+                "10",
+                "3",
+                "9",
+                "6",
+                "5",
+                "11",
+                "4",
+                "8",
+                "6"
+            ],
             "count": 9
         },
         {
             "date": "2016-10-07",
             "dateFormatted": "10/7",
+            "members": [
+                "11",
+                "5",
+                "2",
+                "10",
+                "8",
+                "6",
+                "9",
+                "4"
+            ],
             "count": 8
         },
         {
             "date": "2016-10-08",
             "dateFormatted": "10/8",
+            "members": [
+                "7",
+                "2",
+                "10",
+                "9",
+                "6"
+            ],
             "count": 5
         },
         {
             "date": "2016-10-09",
             "dateFormatted": "10/9",
+            "members": [
+                "4",
+                "7",
+                "5",
+                "8",
+                "10",
+                "11",
+                "6",
+                "2"
+            ],
             "count": 8
         },
         {
             "date": "2016-10-10",
             "dateFormatted": "10/10",
+            "members": [
+                "3",
+                "5",
+                "9",
+                "11",
+                "6",
+                "2",
+                "4",
+                "10",
+                "1",
+                "7"
+            ],
             "count": 10
         },
         {
             "date": "2016-10-11",
             "dateFormatted": "10/11",
+            "members": [
+                "5",
+                "8",
+                "10",
+                "6",
+                "1"
+            ],
             "count": 5
         },
         {
             "date": "2016-10-12",
             "dateFormatted": "10/12",
+            "members": [
+                "4",
+                "4",
+                "7",
+                "5",
+                "10",
+                "8",
+                "4",
+                "6"
+            ],
             "count": 8
         },
         {
             "date": "2016-10-13",
             "dateFormatted": "10/13",
+            "members": [
+                "1",
+                "5",
+                "10",
+                "3",
+                "9",
+                "6",
+                "4"
+            ],
             "count": 7
         },
         {
             "date": "2016-10-14",
             "dateFormatted": "10/14",
+            "members": [
+                "8",
+                "7",
+                "5",
+                "10",
+                "6",
+                "4",
+                "9",
+                "2"
+            ],
             "count": 8
         },
         {
             "date": "2016-10-15",
             "dateFormatted": "10/15",
+            "members": [
+                "7",
+                "1",
+                "5",
+                "10",
+                "6",
+                "4"
+            ],
             "count": 6
         },
         {
             "date": "2016-10-16",
             "dateFormatted": "10/16",
+            "members": [
+                "9",
+                "8",
+                "10",
+                "5",
+                "3",
+                "7",
+                "2",
+                "11",
+                "4",
+                "6",
+                "10"
+            ],
             "count": 11
         },
         {
             "date": "2016-10-17",
             "dateFormatted": "10/17",
+            "members": [
+                "10",
+                "4",
+                "9",
+                "6",
+                "10",
+                "1",
+                "8",
+                "6",
+                "3",
+                "5",
+                "7",
+                "2",
+                "4"
+            ],
             "count": 13
         },
         {
             "date": "2016-10-18",
             "dateFormatted": "10/18",
+            "members": [
+                "9",
+                "10",
+                "7",
+                "6",
+                "4",
+                "1"
+            ],
             "count": 6
         },
         {
             "date": "2016-10-19",
             "dateFormatted": "10/19",
+            "members": [
+                "11",
+                "3",
+                "8",
+                "2",
+                "10",
+                "6",
+                "4",
+                "5"
+            ],
             "count": 8
         },
         {
             "date": "2016-10-20",
             "dateFormatted": "10/20",
+            "members": [
+                "10",
+                "9",
+                "1",
+                "4",
+                "6",
+                "5"
+            ],
             "count": 6
         },
         {
             "date": "2016-10-21",
             "dateFormatted": "10/21",
+            "members": [
+                "11",
+                "10",
+                "7",
+                "9",
+                "4",
+                "6"
+            ],
             "count": 6
         },
         {
             "date": "2016-10-22",
             "dateFormatted": "10/22",
+            "members": [
+                "1",
+                "10",
+                "5",
+                "7",
+                "6",
+                "4"
+            ],
             "count": 6
         },
         {
             "date": "2016-10-23",
             "dateFormatted": "10/23",
+            "members": [
+                "10",
+                "3",
+                "6"
+            ],
             "count": 3
         },
         {
             "date": "2016-10-24",
             "dateFormatted": "10/24",
+            "members": [
+                "11",
+                "10",
+                "6",
+                "4",
+                "7"
+            ],
             "count": 5
         },
         {
             "date": "2016-10-25",
             "dateFormatted": "10/25",
+            "members": [
+                "9",
+                "8",
+                "4",
+                "6",
+                "2",
+                "5",
+                "8"
+            ],
             "count": 7
         },
         {
             "date": "2016-10-26",
             "dateFormatted": "10/26",
+            "members": [
+                "10",
+                "4",
+                "6"
+            ],
             "count": 3
         },
         {
             "date": "2016-10-27",
             "dateFormatted": "10/27",
+            "members": [
+                "5",
+                "4",
+                "6",
+                "10"
+            ],
             "count": 4
         },
         {
             "date": "2016-10-28",
             "dateFormatted": "10/28",
+            "members": [
+                "5",
+                "6",
+                "10",
+                "6",
+                "9",
+                "1",
+                "4",
+                "3",
+                "10",
+                "7",
+                "8"
+            ],
             "count": 11
         },
         {
             "date": "2016-10-29",
             "dateFormatted": "10/29",
+            "members": [
+                "8",
+                "10",
+                "6",
+                "10"
+            ],
             "count": 4
         },
         {
             "date": "2016-10-30",
             "dateFormatted": "10/30",
+            "members": [
+                "2",
+                "4",
+                "7",
+                "9",
+                "6",
+                "5"
+            ],
             "count": 6
         },
         {
             "date": "2016-10-31",
             "dateFormatted": "10/31",
+            "members": [
+                "8",
+                "1",
+                "11",
+                "5",
+                "10",
+                "3",
+                "6",
+                "4",
+                "7",
+                "8",
+                "2",
+                "1",
+                "5"
+            ],
             "count": 13
         },
         {
             "date": "2016-11-01",
             "dateFormatted": "11/1",
+            "members": [
+                "10",
+                "6",
+                "9",
+                "4",
+                "1",
+                "11",
+                "7",
+                "2"
+            ],
             "count": 8
         },
         {
             "date": "2016-11-02",
             "dateFormatted": "11/2",
+            "members": [
+                "4",
+                "6",
+                "10"
+            ],
             "count": 3
         },
         {
             "date": "2016-11-03",
             "dateFormatted": "11/3",
+            "members": [],
             "count": 0
         },
         {
             "date": "2016-11-04",
             "dateFormatted": "11/4",
+            "members": [],
             "count": 0
         },
         {
             "date": "2016-11-05",
             "dateFormatted": "11/5",
+            "members": [],
             "count": 0
         },
         {
             "date": "2016-11-06",
             "dateFormatted": "11/6",
+            "members": [],
             "count": 0
         },
         {
             "date": "2016-11-07",
             "dateFormatted": "11/7",
+            "members": [
+                "6",
+                "2",
+                "4",
+                "10"
+            ],
             "count": 4
         },
         {
             "date": "2016-11-08",
             "dateFormatted": "11/8",
+            "members": [
+                "3",
+                "5",
+                "7",
+                "6",
+                "9"
+            ],
             "count": 5
         },
         {
             "date": "2016-11-09",
             "dateFormatted": "11/9",
+            "members": [],
             "count": 0
         },
         {
             "date": "2016-11-10",
             "dateFormatted": "11/10",
+            "members": [
+                "1",
+                "4",
+                "5",
+                "10",
+                "6",
+                "4",
+                "9",
+                "11",
+                "8",
+                "10",
+                "7",
+                "6",
+                "4",
+                "1",
+                "2",
+                "8",
+                "10",
+                "5",
+                "6"
+            ],
             "count": 19
         },
         {
             "date": "2016-11-11",
             "dateFormatted": "11/11",
+            "members": [
+                "9",
+                "4",
+                "6",
+                "1",
+                "3",
+                "2"
+            ],
             "count": 6
         },
         {
             "date": "2016-11-12",
             "dateFormatted": "11/12",
+            "members": [
+                "7",
+                "10",
+                "9",
+                "6",
+                "4",
+                "5",
+                "4",
+                "11",
+                "1",
+                "10",
+                "6"
+            ],
             "count": 11
         },
         {
             "date": "2016-11-13",
             "dateFormatted": "11/13",
+            "members": [
+                "1",
+                "8"
+            ],
             "count": 2
         },
         {
             "date": "2016-11-14",
             "dateFormatted": "11/14",
+            "members": [
+                "10",
+                "9",
+                "4",
+                "7",
+                "6",
+                "8",
+                "1",
+                "10",
+                "2"
+            ],
             "count": 9
         },
         {
             "date": "2016-11-15",
             "dateFormatted": "11/15",
+            "members": [
+                "9",
+                "6",
+                "4",
+                "1",
+                "11"
+            ],
             "count": 5
         },
         {
             "date": "2016-11-16",
             "dateFormatted": "11/16",
+            "members": [
+                "8",
+                "5",
+                "10",
+                "3",
+                "4",
+                "6",
+                "11",
+                "7",
+                "8",
+                "1",
+                "10"
+            ],
             "count": 11
         },
         {
             "date": "2016-11-17",
             "dateFormatted": "11/17",
+            "members": [
+                "6",
+                "9",
+                "4",
+                "8"
+            ],
             "count": 4
         },
         {
             "date": "2016-11-18",
             "dateFormatted": "11/18",
+            "members": [
+                "1",
+                "5",
+                "9",
+                "10",
+                "7",
+                "4",
+                "6",
+                "2",
+                "10"
+            ],
             "count": 9
         },
         {
             "date": "2016-11-19",
             "dateFormatted": "11/19",
+            "members": [
+                "4",
+                "9",
+                "6",
+                "1",
+                "10"
+            ],
             "count": 5
         },
         {
             "date": "2016-11-20",
             "dateFormatted": "11/20",
+            "members": [
+                "11",
+                "1",
+                "4",
+                "7",
+                "6"
+            ],
             "count": 5
         },
         {
             "date": "2016-11-21",
             "dateFormatted": "11/21",
+            "members": [
+                "10",
+                "3",
+                "8",
+                "6",
+                "9"
+            ],
             "count": 5
         },
         {
             "date": "2016-11-22",
             "dateFormatted": "11/22",
+            "members": [
+                "2",
+                "8",
+                "10",
+                "5",
+                "6",
+                "4"
+            ],
             "count": 6
         },
         {
             "date": "2016-11-23",
             "dateFormatted": "11/23",
+            "members": [
+                "10",
+                "2",
+                "7",
+                "5",
+                "4",
+                "6",
+                "9",
+                "6",
+                "8",
+                "11"
+            ],
             "count": 10
         },
         {
             "date": "2016-11-24",
             "dateFormatted": "11/24",
+            "members": [
+                "9",
+                "10",
+                "5",
+                "2",
+                "4",
+                "8",
+                "9",
+                "6",
+                "11"
+            ],
             "count": 9
         },
         {
             "date": "2016-11-25",
             "dateFormatted": "11/25",
+            "members": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "10",
+                "3",
+                "5",
+                "2",
+                "6",
+                "4",
+                "7",
+                "9"
+            ],
             "count": 13
         },
         {
             "date": "2016-11-26",
             "dateFormatted": "11/26",
+            "members": [
+                "11",
+                "10",
+                "5",
+                "4",
+                "6",
+                "1",
+                "8"
+            ],
             "count": 7
         },
         {
             "date": "2016-11-27",
             "dateFormatted": "11/27",
+            "members": [
+                "10",
+                "7",
+                "6",
+                "4",
+                "11",
+                "5",
+                "11",
+                "9",
+                "10"
+            ],
             "count": 9
         },
         {
             "date": "2016-11-28",
             "dateFormatted": "11/28",
+            "members": [
+                "6",
+                "4"
+            ],
             "count": 2
         },
         {
             "date": "2016-11-29",
             "dateFormatted": "11/29",
+            "members": [
+                "8",
+                "10",
+                "4",
+                "6",
+                "1",
+                "9",
+                "2"
+            ],
             "count": 7
         },
         {
             "date": "2016-11-30",
             "dateFormatted": "11/30",
+            "members": [
+                "1",
+                "10",
+                "4",
+                "3",
+                "7",
+                "9",
+                "11",
+                "6",
+                "8",
+                "5"
+            ],
             "count": 10
         },
         {
             "date": "2016-12-01",
             "dateFormatted": "12/1",
+            "members": [
+                "2",
+                "10",
+                "9",
+                "6",
+                "4",
+                "7",
+                "5",
+                "8",
+                "1",
+                "1",
+                "10",
+                "4",
+                "7"
+            ],
             "count": 13
         },
         {
             "date": "2016-12-02",
             "dateFormatted": "12/2",
+            "members": [
+                "5",
+                "6",
+                "6",
+                "9",
+                "11",
+                "2",
+                "11",
+                "1",
+                "8"
+            ],
             "count": 9
         },
         {
             "date": "2016-12-03",
             "dateFormatted": "12/3",
+            "members": [
+                "10",
+                "1",
+                "6",
+                "9",
+                "9",
+                "4",
+                "7",
+                "3",
+                "11",
+                "10",
+                "1",
+                "7",
+                "4"
+            ],
             "count": 13
         },
         {
             "date": "2016-12-04",
             "dateFormatted": "12/4",
+            "members": [
+                "6"
+            ],
             "count": 1
         },
         {
             "date": "2016-12-05",
             "dateFormatted": "12/5",
+            "members": [
+                "1",
+                "10",
+                "2",
+                "4",
+                "6",
+                "1"
+            ],
             "count": 6
         },
         {
             "date": "2016-12-06",
             "dateFormatted": "12/6",
+            "members": [
+                "9",
+                "6",
+                "7",
+                "4",
+                "1",
+                "1"
+            ],
             "count": 6
         },
         {
             "date": "2016-12-07",
             "dateFormatted": "12/7",
+            "members": [
+                "4",
+                "2",
+                "6",
+                "10"
+            ],
             "count": 4
         },
         {
             "date": "2016-12-08",
             "dateFormatted": "12/8",
+            "members": [
+                "8",
+                "5",
+                "10",
+                "3",
+                "4",
+                "6",
+                "9",
+                "7",
+                "8",
+                "10"
+            ],
             "count": 10
         },
         {
             "date": "2016-12-09",
             "dateFormatted": "12/9",
+            "members": [
+                "4",
+                "6",
+                "7",
+                "5"
+            ],
             "count": 4
         },
         {
             "date": "2016-12-10",
             "dateFormatted": "12/10",
+            "members": [
+                "11",
+                "2",
+                "10",
+                "5",
+                "6",
+                "4"
+            ],
             "count": 6
         },
         {
             "date": "2016-12-11",
             "dateFormatted": "12/11",
+            "members": [
+                "6",
+                "10",
+                "4",
+                "6",
+                "11"
+            ],
             "count": 5
         },
         {
             "date": "2016-12-12",
             "dateFormatted": "12/12",
+            "members": [
+                "1",
+                "10",
+                "4",
+                "6",
+                "7",
+                "5"
+            ],
             "count": 6
         },
         {
             "date": "2016-12-13",
             "dateFormatted": "12/13",
+            "members": [
+                "10",
+                "8",
+                "4",
+                "6"
+            ],
             "count": 4
         },
         {
             "date": "2016-12-14",
             "dateFormatted": "12/14",
+            "members": [
+                "9",
+                "10",
+                "3",
+                "1",
+                "4",
+                "6",
+                "7",
+                "9",
+                "8",
+                "1"
+            ],
             "count": 10
         },
         {
             "date": "2016-12-15",
             "dateFormatted": "12/15",
+            "members": [
+                "1",
+                "9",
+                "6",
+                "1",
+                "10",
+                "4",
+                "1"
+            ],
             "count": 7
         },
         {
             "date": "2016-12-16",
             "dateFormatted": "12/16",
+            "members": [
+                "10",
+                "8",
+                "1",
+                "11",
+                "6",
+                "6",
+                "4",
+                "1",
+                "7",
+                "9",
+                "10"
+            ],
             "count": 11
         },
         {
             "date": "2016-12-17",
             "dateFormatted": "12/17",
+            "members": [
+                "9",
+                "7",
+                "3",
+                "8",
+                "2",
+                "4",
+                "6",
+                "11",
+                "1",
+                "9"
+            ],
             "count": 10
         },
         {
             "date": "2016-12-18",
             "dateFormatted": "12/18",
+            "members": [
+                "1",
+                "10",
+                "5",
+                "3",
+                "9",
+                "8",
+                "2",
+                "6",
+                "6",
+                "4",
+                "4",
+                "11",
+                "11",
+                "7",
+                "11"
+            ],
             "count": 15
         },
         {
             "date": "2016-12-19",
             "dateFormatted": "12/19",
+            "members": [
+                "10",
+                "6",
+                "4",
+                "9",
+                "1",
+                "8",
+                "1"
+            ],
             "count": 7
         },
         {
             "date": "2016-12-20",
             "dateFormatted": "12/20",
+            "members": [
+                "1",
+                "10",
+                "5",
+                "6",
+                "4",
+                "7",
+                "10"
+            ],
             "count": 7
         },
         {
             "date": "2016-12-21",
             "dateFormatted": "12/21",
+            "members": [
+                "6",
+                "4"
+            ],
             "count": 2
         },
         {
             "date": "2016-12-22",
             "dateFormatted": "12/22",
+            "members": [
+                "2",
+                "1",
+                "1",
+                "3",
+                "5",
+                "10",
+                "2",
+                "6",
+                "7",
+                "4",
+                "5"
+            ],
             "count": 11
         },
         {
             "date": "2016-12-23",
             "dateFormatted": "12/23",
+            "members": [
+                "10",
+                "8",
+                "6",
+                "11",
+                "7",
+                "9",
+                "9"
+            ],
             "count": 7
         },
         {
             "date": "2016-12-24",
             "dateFormatted": "12/24",
+            "members": [
+                "9",
+                "10",
+                "1",
+                "2",
+                "4",
+                "6"
+            ],
             "count": 6
         },
         {
             "date": "2016-12-25",
             "dateFormatted": "12/25",
+            "members": [
+                "8",
+                "6",
+                "7",
+                "11",
+                "1",
+                "6",
+                "3",
+                "4",
+                "7"
+            ],
             "count": 9
         },
         {
             "date": "2016-12-26",
             "dateFormatted": "12/26",
+            "members": [
+                "8",
+                "6",
+                "6",
+                "9"
+            ],
             "count": 4
         },
         {
             "date": "2016-12-27",
             "dateFormatted": "12/27",
+            "members": [
+                "8",
+                "5",
+                "4",
+                "2",
+                "6",
+                "6",
+                "9",
+                "1",
+                "10",
+                "8",
+                "7"
+            ],
             "count": 11
         },
         {
             "date": "2016-12-28",
             "dateFormatted": "12/28",
+            "members": [
+                "5",
+                "3",
+                "10",
+                "11",
+                "4",
+                "9",
+                "6"
+            ],
             "count": 7
         },
         {
             "date": "2016-12-29",
             "dateFormatted": "12/29",
+            "members": [
+                "11",
+                "5",
+                "2",
+                "10",
+                "1",
+                "4",
+                "6"
+            ],
             "count": 7
         },
         {
             "date": "2016-12-30",
             "dateFormatted": "12/30",
+            "members": [
+                "1",
+                "8",
+                "3",
+                "7",
+                "5",
+                "8",
+                "11",
+                "4",
+                "9",
+                "6",
+                "7",
+                "10"
+            ],
             "count": 12
         },
         {
             "date": "2016-12-31",
             "dateFormatted": "12/31",
+            "members": [
+                "2",
+                "6",
+                "10",
+                "11",
+                "8",
+                "4",
+                "6",
+                "9",
+                "4",
+                "7",
+                "2",
+                "5",
+                "5",
+                "3",
+                "9",
+                "8",
+                "1",
+                "10",
+                "4",
+                "11"
+            ],
             "count": 20
         }
     ],
-    "offset": 5,
-    "weekCount": 53,
+    "offset": 2,
+    "weekCount": 22,
     "months": [
-        {
-            "name": "Jan",
-            "width": 5,
-            "weekIndex": 0
-        },
-        {
-            "name": "Feb",
-            "width": 4,
-            "weekIndex": 5
-        },
-        {
-            "name": "Mar",
-            "width": 4,
-            "weekIndex": 9
-        },
-        {
-            "name": "Apr",
-            "width": 5,
-            "weekIndex": 13
-        },
-        {
-            "name": "May",
-            "width": 4,
-            "weekIndex": 18
-        },
-        {
-            "name": "Jun",
-            "width": 4,
-            "weekIndex": 22
-        },
-        {
-            "name": "Jul",
-            "width": 5,
-            "weekIndex": 26
-        },
         {
             "name": "Aug",
             "width": 4,
-            "weekIndex": 31
+            "weekIndex": 0
         },
         {
             "name": "Sep",
             "width": 4,
-            "weekIndex": 35
+            "weekIndex": 4
         },
         {
             "name": "Oct",
             "width": 5,
-            "weekIndex": 39
+            "weekIndex": 8
         },
         {
             "name": "Nov",
             "width": 4,
-            "weekIndex": 44
+            "weekIndex": 13
         },
         {
             "name": "Dec",
             "width": 5,
-            "weekIndex": 48
+            "weekIndex": 17
         }
     ]
 }

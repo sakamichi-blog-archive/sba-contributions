@@ -199,6 +199,14 @@ $square-colors: (
   }
 }
 
+.member-filter {
+  margin: 0 2.5rem 2.5rem;
+
+  select {
+    height: 1.5rem;
+  }
+}
+
 .back-home {
   margin: 0 30px;
   font-size: 15px;

@@ -4,16 +4,37 @@ import { GetStaticProps, GetStaticPaths } from "next"
 import Link from "next/link"
 import { getYearParams, getYearData, YearData, DayData } from "../../lib/years"
 import { getGroup } from "../../lib/groups"
+import { getMember, getGenerations } from "../../lib/members"
 import { BLOG_COUNT_STEP } from "../../lib/constants"
+import { ChangeEvent } from "react"
 
 export default function Year({ yearData }: { yearData:YearData }) {
 
   const router = useRouter()
-  const { group, year } = router.query
+  const { group, year, id } = router.query
 
   const groupData = getGroup(group as string)
 
-  const days = yearData.days
+  const memberName = id !== undefined ? getMember(group as string, id as string).nameEnglish : undefined
+
+  let days = yearData.days
+  let count = yearData.count
+
+  if (id !== undefined) {
+    
+    count = 0
+
+    days = yearData.days.map(day => {
+
+      const newCount = day.members.filter(i => i === `${ id }`).length
+      count += newCount
+
+      return {
+        ...day,
+        count: newCount
+      }
+    })
+  }
 
   function getClassName(count:number):string {
 
@@ -48,15 +69,46 @@ export default function Year({ yearData }: { yearData:YearData }) {
   //   }
   // }
 
+  const generations = getGenerations(group as string)
+
+  const members = [].concat(...generations.map(generation => generation.members))
+
+  function filterByMember(event:ChangeEvent<HTMLSelectElement>):void {
+
+    if (event.target.value == "-1") {
+      router.push(
+        `/[group]/[year]`,
+        `/${ group }/${ year }`
+      )
+      return
+    }
+    const member = members[Number(event.target.value)]
+    router.push(
+      `/[group]/[year]?id=${ member.id }`,
+      `/${ group }/${ year }?id=${ member.id }`
+    )
+  }
+
+  const pluralRules = new Intl.PluralRules("en", { type: "ordinal" })
+  const numberSuffixes = {
+    one: "st",
+    two: "nd",
+    few: "rd",
+    other: "th"
+  }
+  function getNumberSuffix(number:number):string {
+    return numberSuffixes[pluralRules.select(number)]
+  }
+
   return (
     <>
       <Head>
-        <title>{ `${ groupData.englishShort } ${ year } Blog Contributions` }</title>
+        <title>{ `${ memberName || groupData.englishShort } ${ year } Blog Contributions` }</title>
         <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;display=swap" rel="stylesheet" key="google-fonts" />
       </Head>
       <div className="year">
         <h1 className="year__title">
-          { groupData.englishShort } { year } <span>{ yearData.count } contribution{ yearData.count !== 1 ? "s" : "" }</span>
+          { memberName || groupData.englishShort } { year } <span>{ count } contribution{ count !== 1 ? "s" : "" }</span>
         </h1>
         <div className="contributions-chart grid">
           <ul className="months grid-child">
@@ -80,7 +132,7 @@ export default function Year({ yearData }: { yearData:YearData }) {
             <li>Sat</li>
           </ul>
           <ul className="squares grid-child">
-          { yearData.days.map(day => (
+          { days.map(day => (
             <li
               className={
                 getClassName(day.count) + " "
@@ -98,7 +150,6 @@ export default function Year({ yearData }: { yearData:YearData }) {
           ))}
           </ul>
           <div className="legend">
-            {/* <p>Less</p> */}
             <ul className="colors">
             { [1, 2, 3, 4, 5].map(n => (
               <li key={ n }>
@@ -123,9 +174,27 @@ export default function Year({ yearData }: { yearData:YearData }) {
               </li>
             ))}
             </ul>
-            {/* <p>More</p> */}
           </div>
         </div>
+      </div>
+      <div className="member-filter">
+        <select
+          onChange={ filterByMember }
+        >
+          <option value="-1">Filter by member</option>
+        { generations.map(generation => (
+          <optgroup
+            label={ `${ generation.generation + getNumberSuffix(generation.generation) } generation` }
+            key={ generation.generation }
+          >
+          { generation.members.map(member => (
+            <option key={ member.id } value={ members.indexOf(member) }>
+              { member.nameEnglish }
+            </option>
+          ))}
+          </optgroup>
+        ))}
+        </select>
       </div>
       <Link href="/">
         <a className="back-home">← Back home</a>

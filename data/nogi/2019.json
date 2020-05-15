@@ -5,1826 +5,3930 @@
         {
             "date": "2019-01-01",
             "dateFormatted": "1/1",
+            "members": [
+                "36",
+                "57",
+                "45"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-02",
             "dateFormatted": "1/2",
+            "members": [
+                "56",
+                "17",
+                "34",
+                "53"
+            ],
             "count": 4
         },
         {
             "date": "2019-01-03",
             "dateFormatted": "1/3",
+            "members": [
+                "58",
+                "47",
+                "45"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-04",
             "dateFormatted": "1/4",
+            "members": [
+                "10",
+                "56",
+                "20",
+                "52"
+            ],
             "count": 4
         },
         {
             "date": "2019-01-05",
             "dateFormatted": "1/5",
+            "members": [
+                "27",
+                "30",
+                "49",
+                "54",
+                "57",
+                "41"
+            ],
             "count": 6
         },
         {
             "date": "2019-01-06",
             "dateFormatted": "1/6",
+            "members": [
+                "20",
+                "61",
+                "08",
+                "53"
+            ],
             "count": 4
         },
         {
             "date": "2019-01-07",
             "dateFormatted": "1/7",
+            "members": [
+                "34",
+                "34",
+                "16"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-08",
             "dateFormatted": "1/8",
+            "members": [
+                "56",
+                "43",
+                "47"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-09",
             "dateFormatted": "1/9",
+            "members": [
+                "03",
+                "45",
+                "37"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-10",
             "dateFormatted": "1/10",
+            "members": [
+                "45",
+                "59",
+                "18",
+                "57",
+                "61"
+            ],
             "count": 5
         },
         {
             "date": "2019-01-11",
             "dateFormatted": "1/11",
+            "members": [
+                "47",
+                "56",
+                "20",
+                "49"
+            ],
             "count": 4
         },
         {
             "date": "2019-01-12",
             "dateFormatted": "1/12",
+            "members": [
+                "58",
+                "45",
+                "08"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-13",
             "dateFormatted": "1/13",
+            "members": [
+                "20",
+                "27"
+            ],
             "count": 2
         },
         {
             "date": "2019-01-14",
             "dateFormatted": "1/14",
+            "members": [
+                "56",
+                "16"
+            ],
             "count": 2
         },
         {
             "date": "2019-01-15",
             "dateFormatted": "1/15",
+            "members": [
+                "42",
+                "52",
+                "34",
+                "37",
+                "16",
+                "57",
+                "53"
+            ],
             "count": 7
         },
         {
             "date": "2019-01-16",
             "dateFormatted": "1/16",
+            "members": [
+                "56",
+                "45",
+                "49",
+                "36"
+            ],
             "count": 4
         },
         {
             "date": "2019-01-17",
             "dateFormatted": "1/17",
+            "members": [
+                "52",
+                "36",
+                "59"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-18",
             "dateFormatted": "1/18",
+            "members": [
+                "47",
+                "20"
+            ],
             "count": 2
         },
         {
             "date": "2019-01-19",
             "dateFormatted": "1/19",
+            "members": [
+                "62",
+                "54",
+                "43",
+                "57"
+            ],
             "count": 4
         },
         {
             "date": "2019-01-20",
             "dateFormatted": "1/20",
+            "members": [
+                "20",
+                "01"
+            ],
             "count": 2
         },
         {
             "date": "2019-01-21",
             "dateFormatted": "1/21",
+            "members": [
+                "08",
+                "56",
+                "20",
+                "61",
+                "17",
+                "53",
+                "36",
+                "19"
+            ],
             "count": 8
         },
         {
             "date": "2019-01-22",
             "dateFormatted": "1/22",
+            "members": [
+                "58",
+                "52",
+                "41"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-23",
             "dateFormatted": "1/23",
+            "members": [
+                "56",
+                "45",
+                "03",
+                "37",
+                "57",
+                "01"
+            ],
             "count": 6
         },
         {
             "date": "2019-01-24",
             "dateFormatted": "1/24",
+            "members": [],
             "count": 0
         },
         {
             "date": "2019-01-25",
             "dateFormatted": "1/25",
+            "members": [
+                "20",
+                "42"
+            ],
             "count": 2
         },
         {
             "date": "2019-01-26",
             "dateFormatted": "1/26",
+            "members": [
+                "47",
+                "62",
+                "30"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-27",
             "dateFormatted": "1/27",
+            "members": [
+                "47"
+            ],
             "count": 1
         },
         {
             "date": "2019-01-28",
             "dateFormatted": "1/28",
+            "members": [
+                "20",
+                "56",
+                "27"
+            ],
             "count": 3
         },
         {
             "date": "2019-01-29",
             "dateFormatted": "1/29",
+            "members": [
+                "47",
+                "49",
+                "57",
+                "53"
+            ],
             "count": 4
         },
         {
             "date": "2019-01-30",
             "dateFormatted": "1/30",
+            "members": [
+                "45"
+            ],
             "count": 1
         },
         {
             "date": "2019-01-31",
             "dateFormatted": "1/31",
+            "members": [
+                "56",
+                "51",
+                "27",
+                "20",
+                "57"
+            ],
             "count": 5
         },
         {
             "date": "2019-02-01",
             "dateFormatted": "2/1",
+            "members": [
+                "43",
+                "16"
+            ],
             "count": 2
         },
         {
             "date": "2019-02-02",
             "dateFormatted": "2/2",
+            "members": [
+                "45",
+                "47",
+                "52",
+                "53"
+            ],
             "count": 4
         },
         {
             "date": "2019-02-03",
             "dateFormatted": "2/3",
+            "members": [
+                "20",
+                "03"
+            ],
             "count": 2
         },
         {
             "date": "2019-02-04",
             "dateFormatted": "2/4",
+            "members": [],
             "count": 0
         },
         {
             "date": "2019-02-05",
             "dateFormatted": "2/5",
+            "members": [
+                "56",
+                "20",
+                "58",
+                "57",
+                "54"
+            ],
             "count": 5
         },
         {
             "date": "2019-02-06",
             "dateFormatted": "2/6",
+            "members": [
+                "47",
+                "36",
+                "54",
+                "53"
+            ],
             "count": 4
         },
         {
             "date": "2019-02-07",
             "dateFormatted": "2/7",
+            "members": [
+                "42",
+                "30",
+                "49"
+            ],
             "count": 3
         },
         {
             "date": "2019-02-08",
             "dateFormatted": "2/8",
+            "members": [
+                "56",
+                "52",
+                "45",
+                "61",
+                "40",
+                "59"
+            ],
             "count": 6
         },
         {
             "date": "2019-02-09",
             "dateFormatted": "2/9",
+            "members": [
+                "27",
+                "45",
+                "30"
+            ],
             "count": 3
         },
         {
             "date": "2019-02-10",
             "dateFormatted": "2/10",
+            "members": [
+                "20",
+                "57"
+            ],
             "count": 2
         },
         {
             "date": "2019-02-11",
             "dateFormatted": "2/11",
+            "members": [
+                "56"
+            ],
             "count": 1
         },
         {
             "date": "2019-02-12",
             "dateFormatted": "2/12",
+            "members": [
+                "37",
+                "45"
+            ],
             "count": 2
         },
         {
             "date": "2019-02-13",
             "dateFormatted": "2/13",
+            "members": [
+                "36",
+                "37",
+                "47"
+            ],
             "count": 3
         },
         {
             "date": "2019-02-14",
             "dateFormatted": "2/14",
+            "members": [
+                "08",
+                "10"
+            ],
             "count": 2
         },
         {
             "date": "2019-02-15",
             "dateFormatted": "2/15",
+            "members": [
+                "16",
+                "47",
+                "30",
+                "36",
+                "45"
+            ],
             "count": 5
         },
         {
             "date": "2019-02-16",
             "dateFormatted": "2/16",
+            "members": [
+                "20",
+                "53"
+            ],
             "count": 2
         },
         {
             "date": "2019-02-17",
             "dateFormatted": "2/17",
+            "members": [
+                "56",
+                "52",
+                "43"
+            ],
             "count": 3
         },
         {
             "date": "2019-02-18",
             "dateFormatted": "2/18",
+            "members": [
+                "45",
+                "27"
+            ],
             "count": 2
         },
         {
             "date": "2019-02-19",
             "dateFormatted": "2/19",
+            "members": [
+                "47",
+                "56",
+                "20",
+                "16",
+                "30",
+                "08"
+            ],
             "count": 6
         },
         {
             "date": "2019-02-20",
             "dateFormatted": "2/20",
+            "members": [
+                "36",
+                "56",
+                "45",
+                "40",
+                "58",
+                "37"
+            ],
             "count": 6
         },
         {
             "date": "2019-02-21",
             "dateFormatted": "2/21",
+            "members": [
+                "47",
+                "01",
+                "53"
+            ],
             "count": 3
         },
         {
             "date": "2019-02-22",
             "dateFormatted": "2/22",
+            "members": [
+                "55"
+            ],
             "count": 1
         },
         {
             "date": "2019-02-23",
             "dateFormatted": "2/23",
+            "members": [],
             "count": 0
         },
         {
             "date": "2019-02-24",
             "dateFormatted": "2/24",
+            "members": [
+                "36"
+            ],
             "count": 1
         },
         {
             "date": "2019-02-25",
             "dateFormatted": "2/25",
+            "members": [
+                "01",
+                "27"
+            ],
             "count": 2
         },
         {
             "date": "2019-02-26",
             "dateFormatted": "2/26",
+            "members": [
+                "56",
+                "56",
+                "03",
+                "37"
+            ],
             "count": 4
         },
         {
             "date": "2019-02-27",
             "dateFormatted": "2/27",
+            "members": [
+                "47",
+                "36",
+                "20"
+            ],
             "count": 3
         },
         {
             "date": "2019-02-28",
             "dateFormatted": "2/28",
+            "members": [
+                "47",
+                "58",
+                "57",
+                "52"
+            ],
             "count": 4
         },
         {
             "date": "2019-03-01",
             "dateFormatted": "3/1",
+            "members": [
+                "56",
+                "20",
+                "30",
+                "45",
+                "01",
+                "03"
+            ],
             "count": 6
         },
         {
             "date": "2019-03-02",
             "dateFormatted": "3/2",
+            "members": [
+                "20"
+            ],
             "count": 1
         },
         {
             "date": "2019-03-03",
             "dateFormatted": "3/3",
+            "members": [
+                "20",
+                "49"
+            ],
             "count": 2
         },
         {
             "date": "2019-03-04",
             "dateFormatted": "3/4",
+            "members": [
+                "36",
+                "41"
+            ],
             "count": 2
         },
         {
             "date": "2019-03-05",
             "dateFormatted": "3/5",
+            "members": [
+                "52",
+                "03",
+                "61",
+                "47"
+            ],
             "count": 4
         },
         {
             "date": "2019-03-06",
             "dateFormatted": "3/6",
+            "members": [
+                "08"
+            ],
             "count": 1
         },
         {
             "date": "2019-03-07",
             "dateFormatted": "3/7",
+            "members": [
+                "56",
+                "27",
+                "43",
+                "57",
+                "45"
+            ],
             "count": 5
         },
         {
             "date": "2019-03-08",
             "dateFormatted": "3/8",
+            "members": [
+                "14",
+                "36",
+                "20"
+            ],
             "count": 3
         },
         {
             "date": "2019-03-09",
             "dateFormatted": "3/9",
+            "members": [
+                "53",
+                "19"
+            ],
             "count": 2
         },
         {
             "date": "2019-03-10",
             "dateFormatted": "3/10",
+            "members": [
+                "42",
+                "56",
+                "20",
+                "57",
+                "45",
+                "30",
+                "27"
+            ],
             "count": 7
         },
         {
             "date": "2019-03-11",
             "dateFormatted": "3/11",
+            "members": [
+                "47",
+                "55"
+            ],
             "count": 2
         },
         {
             "date": "2019-03-12",
             "dateFormatted": "3/12",
+            "members": [
+                "54",
+                "08",
+                "51",
+                "03",
+                "36",
+                "34"
+            ],
             "count": 6
         },
         {
             "date": "2019-03-13",
             "dateFormatted": "3/13",
+            "members": [
+                "56",
+                "36",
+                "47"
+            ],
             "count": 3
         },
         {
             "date": "2019-03-14",
             "dateFormatted": "3/14",
+            "members": [],
             "count": 0
         },
         {
             "date": "2019-03-15",
             "dateFormatted": "3/15",
+            "members": [
+                "20",
+                "47"
+            ],
             "count": 2
         },
         {
             "date": "2019-03-16",
             "dateFormatted": "3/16",
+            "members": [
+                "56",
+                "36",
+                "38",
+                "45",
+                "57",
+                "20"
+            ],
             "count": 6
         },
         {
             "date": "2019-03-17",
             "dateFormatted": "3/17",
+            "members": [
+                "36",
+                "41",
+                "43",
+                "51"
+            ],
             "count": 4
         },
         {
             "date": "2019-03-18",
             "dateFormatted": "3/18",
+            "members": [
+                "16",
+                "56",
+                "45",
+                "36",
+                "53"
+            ],
             "count": 5
         },
         {
             "date": "2019-03-19",
             "dateFormatted": "3/19",
+            "members": [
+                "27"
+            ],
             "count": 1
         },
         {
             "date": "2019-03-20",
             "dateFormatted": "3/20",
+            "members": [
+                "20",
+                "45",
+                "49",
+                "01",
+                "53",
+                "47"
+            ],
             "count": 6
         },
         {
             "date": "2019-03-21",
             "dateFormatted": "3/21",
+            "members": [
+                "20",
+                "56",
+                "45",
+                "43",
+                "52",
+                "36",
+                "58",
+                "16",
+                "57",
+                "37",
+                "30"
+            ],
             "count": 11
         },
         {
             "date": "2019-03-22",
             "dateFormatted": "3/22",
+            "members": [
+                "36",
+                "40",
+                "08",
+                "01"
+            ],
             "count": 4
         },
         {
             "date": "2019-03-23",
             "dateFormatted": "3/23",
+            "members": [
+                "45",
+                "55"
+            ],
             "count": 2
         },
         {
             "date": "2019-03-24",
             "dateFormatted": "3/24",
+            "members": [
+                "08",
+                "20",
+                "62",
+                "42"
+            ],
             "count": 4
         },
         {
             "date": "2019-03-25",
             "dateFormatted": "3/25",
+            "members": [
+                "56",
+                "47",
+                "16",
+                "19"
+            ],
             "count": 4
         },
         {
             "date": "2019-03-26",
             "dateFormatted": "3/26",
+            "members": [
+                "45",
+                "58",
+                "52"
+            ],
             "count": 3
         },
         {
             "date": "2019-03-27",
             "dateFormatted": "3/27",
+            "members": [
+                "01"
+            ],
             "count": 1
         },
         {
             "date": "2019-03-28",
             "dateFormatted": "3/28",
+            "members": [
+                "36",
+                "58",
+                "43",
+                "08",
+                "56"
+            ],
             "count": 5
         },
         {
             "date": "2019-03-29",
             "dateFormatted": "3/29",
+            "members": [
+                "47",
+                "45",
+                "61"
+            ],
             "count": 3
         },
         {
             "date": "2019-03-30",
             "dateFormatted": "3/30",
+            "members": [
+                "47",
+                "36",
+                "20",
+                "30"
+            ],
             "count": 4
         },
         {
             "date": "2019-03-31",
             "dateFormatted": "3/31",
+            "members": [
+                "20",
+                "59",
+                "58",
+                "43",
+                "45",
+                "36",
+                "30",
+                "10"
+            ],
             "count": 8
         },
         {
             "date": "2019-04-01",
             "dateFormatted": "4/1",
+            "members": [
+                "56",
+                "27",
+                "59",
+                "37",
+                "03"
+            ],
             "count": 5
         },
         {
             "date": "2019-04-02",
             "dateFormatted": "4/2",
+            "members": [
+                "57",
+                "30"
+            ],
             "count": 2
         },
         {
             "date": "2019-04-03",
             "dateFormatted": "4/3",
+            "members": [
+                "08",
+                "53"
+            ],
             "count": 2
         },
         {
             "date": "2019-04-04",
             "dateFormatted": "4/4",
+            "members": [
+                "47",
+                "56",
+                "58"
+            ],
             "count": 3
         },
         {
             "date": "2019-04-05",
             "dateFormatted": "4/5",
+            "members": [
+                "49",
+                "40",
+                "45"
+            ],
             "count": 3
         },
         {
             "date": "2019-04-06",
             "dateFormatted": "4/6",
+            "members": [
+                "56",
+                "59",
+                "52"
+            ],
             "count": 3
         },
         {
             "date": "2019-04-07",
             "dateFormatted": "4/7",
+            "members": [
+                "17"
+            ],
             "count": 1
         },
         {
             "date": "2019-04-08",
             "dateFormatted": "4/8",
+            "members": [
+                "03",
+                "57",
+                "53"
+            ],
             "count": 3
         },
         {
             "date": "2019-04-09",
             "dateFormatted": "4/9",
+            "members": [
+                "34",
+                "36",
+                "00"
+            ],
             "count": 3
         },
         {
             "date": "2019-04-10",
             "dateFormatted": "4/10",
+            "members": [
+                "47",
+                "45",
+                "56",
+                "60",
+                "00",
+                "29"
+            ],
             "count": 6
         },
         {
             "date": "2019-04-11",
             "dateFormatted": "4/11",
+            "members": [
+                "08",
+                "58",
+                "60",
+                "00"
+            ],
             "count": 4
         },
         {
             "date": "2019-04-12",
             "dateFormatted": "4/12",
+            "members": [
+                "01",
+                "53",
+                "00"
+            ],
             "count": 3
         },
         {
             "date": "2019-04-13",
             "dateFormatted": "4/13",
+            "members": [
+                "60",
+                "00",
+                "36",
+                "40",
+                "57",
+                "00"
+            ],
             "count": 6
         },
         {
             "date": "2019-04-14",
             "dateFormatted": "4/14",
+            "members": [
+                "36",
+                "20",
+                "45",
+                "42",
+                "08",
+                "00",
+                "34",
+                "43",
+                "53",
+                "47",
+                "00"
+            ],
             "count": 11
         },
         {
             "date": "2019-04-15",
             "dateFormatted": "4/15",
+            "members": [
+                "14",
+                "56",
+                "49",
+                "27",
+                "58",
+                "19",
+                "61",
+                "08"
+            ],
             "count": 8
         },
         {
             "date": "2019-04-16",
             "dateFormatted": "4/16",
+            "members": [
+                "36",
+                "56",
+                "52",
+                "00"
+            ],
             "count": 4
         },
         {
             "date": "2019-04-17",
             "dateFormatted": "4/17",
+            "members": [
+                "38",
+                "36",
+                "45",
+                "08",
+                "00"
+            ],
             "count": 5
         },
         {
             "date": "2019-04-18",
             "dateFormatted": "4/18",
+            "members": [
+                "37",
+                "36",
+                "58",
+                "49",
+                "00"
+            ],
             "count": 5
         },
         {
             "date": "2019-04-19",
             "dateFormatted": "4/19",
+            "members": [
+                "56",
+                "37",
+                "20",
+                "00"
+            ],
             "count": 4
         },
         {
             "date": "2019-04-20",
             "dateFormatted": "4/20",
+            "members": [
+                "19",
+                "36",
+                "40",
+                "00",
+                "03",
+                "00"
+            ],
             "count": 6
         },
         {
             "date": "2019-04-21",
             "dateFormatted": "4/21",
+            "members": [
+                "36",
+                "00",
+                "57",
+                "16",
+                "00"
+            ],
             "count": 5
         },
         {
             "date": "2019-04-22",
             "dateFormatted": "4/22",
+            "members": [
+                "45",
+                "36",
+                "47",
+                "16",
+                "43",
+                "41",
+                "55",
+                "01"
+            ],
             "count": 8
         },
         {
             "date": "2019-04-23",
             "dateFormatted": "4/23",
+            "members": [
+                "56",
+                "52",
+                "34",
+                "16",
+                "54",
+                "49",
+                "45"
+            ],
             "count": 7
         },
         {
             "date": "2019-04-24",
             "dateFormatted": "4/24",
+            "members": [],
             "count": 0
         },
         {
             "date": "2019-04-25",
             "dateFormatted": "4/25",
+            "members": [
+                "16",
+                "47",
+                "57",
+                "53"
+            ],
             "count": 4
         },
         {
             "date": "2019-04-26",
             "dateFormatted": "4/26",
+            "members": [
+                "45",
+                "42"
+            ],
             "count": 2
         },
         {
             "date": "2019-04-27",
             "dateFormatted": "4/27",
+            "members": [
+                "40",
+                "20",
+                "53",
+                "47"
+            ],
             "count": 4
         },
         {
             "date": "2019-04-28",
             "dateFormatted": "4/28",
+            "members": [
+                "27",
+                "56",
+                "20"
+            ],
             "count": 3
         },
         {
             "date": "2019-04-29",
             "dateFormatted": "4/29",
+            "members": [],
             "count": 0
         },
         {
             "date": "2019-04-30",
             "dateFormatted": "4/30",
+            "members": [
+                "16",
+                "08",
+                "20",
+                "30",
+                "43",
+                "56",
+                "57",
+                "45"
+            ],
             "count": 8
         },
         {
             "date": "2019-05-01",
             "dateFormatted": "5/1",
+            "members": [
+                "47",
+                "61"
+            ],
             "count": 2
         },
         {
             "date": "2019-05-02",
             "dateFormatted": "5/2",
+            "members": [
+                "36",
+                "58",
+                "29"
+            ],
             "count": 3
         },
         {
             "date": "2019-05-03",
             "dateFormatted": "5/3",
+            "members": [
+                "56",
+                "34",
+                "45",
+                "47"
+            ],
             "count": 4
         },
         {
             "date": "2019-05-04",
             "dateFormatted": "5/4",
+            "members": [
+                "16",
+                "49"
+            ],
             "count": 2
         },
         {
             "date": "2019-05-05",
             "dateFormatted": "5/5",
+            "members": [
+                "43",
+                "53"
+            ],
             "count": 2
         },
         {
             "date": "2019-05-06",
             "dateFormatted": "5/6",
+            "members": [
+                "03"
+            ],
             "count": 1
         },
         {
             "date": "2019-05-07",
             "dateFormatted": "5/7",
+            "members": [
+                "64",
+                "45",
+                "47",
+                "20",
+                "16",
+                "27"
+            ],
             "count": 6
         },
         {
             "date": "2019-05-08",
             "dateFormatted": "5/8",
+            "members": [
+                "65",
+                "56",
+                "57"
+            ],
             "count": 3
         },
         {
             "date": "2019-05-09",
             "dateFormatted": "5/9",
+            "members": [
+                "66",
+                "47",
+                "51",
+                "53"
+            ],
             "count": 4
         },
         {
             "date": "2019-05-10",
             "dateFormatted": "5/10",
+            "members": [
+                "67",
+                "56",
+                "45",
+                "47"
+            ],
             "count": 4
         },
         {
             "date": "2019-05-11",
             "dateFormatted": "5/11",
+            "members": [
+                "20",
+                "68",
+                "42"
+            ],
             "count": 3
         },
         {
             "date": "2019-05-12",
             "dateFormatted": "5/12",
+            "members": [
+                "56",
+                "69",
+                "58",
+                "47",
+                "59"
+            ],
             "count": 5
         },
         {
             "date": "2019-05-13",
             "dateFormatted": "5/13",
+            "members": [
+                "70",
+                "52",
+                "45",
+                "61"
+            ],
             "count": 4
         },
         {
             "date": "2019-05-14",
             "dateFormatted": "5/14",
+            "members": [
+                "47",
+                "71",
+                "16",
+                "36",
+                "57"
+            ],
             "count": 5
         },
         {
             "date": "2019-05-15",
             "dateFormatted": "5/15",
+            "members": [
+                "72",
+                "37",
+                "01",
+                "43",
+                "36",
+                "16"
+            ],
             "count": 6
         },
         {
             "date": "2019-05-16",
             "dateFormatted": "5/16",
+            "members": [
+                "47",
+                "56",
+                "73",
+                "08"
+            ],
             "count": 4
         },
         {
             "date": "2019-05-17",
             "dateFormatted": "5/17",
+            "members": [
+                "47",
+                "74",
+                "36",
+                "37",
+                "17",
+                "57",
+                "20",
+                "45",
+                "16"
+            ],
             "count": 9
         },
         {
             "date": "2019-05-18",
             "dateFormatted": "5/18",
+            "members": [
+                "56",
+                "64"
+            ],
             "count": 2
         },
         {
             "date": "2019-05-19",
             "dateFormatted": "5/19",
+            "members": [
+                "65",
+                "45",
+                "03",
+                "08",
+                "47"
+            ],
             "count": 5
         },
         {
             "date": "2019-05-20",
             "dateFormatted": "5/20",
+            "members": [
+                "45",
+                "36",
+                "58",
+                "29",
+                "53",
+                "66"
+            ],
             "count": 6
         },
         {
             "date": "2019-05-21",
             "dateFormatted": "5/21",
+            "members": [
+                "67",
+                "42",
+                "56"
+            ],
             "count": 3
         },
         {
             "date": "2019-05-22",
             "dateFormatted": "5/22",
+            "members": [
+                "56",
+                "16",
+                "37",
+                "53",
+                "68",
+                "36"
+            ],
             "count": 6
         },
         {
             "date": "2019-05-23",
             "dateFormatted": "5/23",
+            "members": [
+                "58",
+                "27",
+                "36",
+                "20",
+                "57",
+                "43",
+                "37",
+                "47",
+                "69",
+                "61"
+            ],
             "count": 10
         },
         {
             "date": "2019-05-24",
             "dateFormatted": "5/24",
+            "members": [
+                "01",
+                "01",
+                "70",
+                "45"
+            ],
             "count": 4
         },
         {
             "date": "2019-05-25",
             "dateFormatted": "5/25",
+            "members": [
+                "18",
+                "56",
+                "27",
+                "36",
+                "71"
+            ],
             "count": 5
         },
         {
             "date": "2019-05-26",
             "dateFormatted": "5/26",
+            "members": [
+                "72",
+                "36"
+            ],
             "count": 2
         },
         {
             "date": "2019-05-27",
             "dateFormatted": "5/27",
+            "members": [
+                "73",
+                "45"
+            ],
             "count": 2
         },
         {
             "date": "2019-05-28",
             "dateFormatted": "5/28",
+            "members": [
+                "03",
+                "36",
+                "34",
+                "20",
+                "49",
+                "74",
+                "41"
+            ],
             "count": 7
         },
         {
             "date": "2019-05-29",
             "dateFormatted": "5/29",
+            "members": [
+                "56",
+                "01",
+                "64",
+                "61",
+                "47",
+                "27"
+            ],
             "count": 6
         },
         {
             "date": "2019-05-30",
             "dateFormatted": "5/30",
+            "members": [
+                "29",
+                "58",
+                "56",
+                "65",
+                "52",
+                "57"
+            ],
             "count": 6
         },
         {
             "date": "2019-05-31",
             "dateFormatted": "5/31",
+            "members": [
+                "27",
+                "60",
+                "20",
+                "43",
+                "45",
+                "17",
+                "66"
+            ],
             "count": 7
         },
         {
             "date": "2019-06-01",
             "dateFormatted": "6/1",
+            "members": [
+                "67",
+                "42",
+                "59",
+                "19",
+                "47"
+            ],
             "count": 5
         },
         {
             "date": "2019-06-02",
             "dateFormatted": "6/2",
+            "members": [
+                "52",
+                "03",
+                "68",
+                "53",
+                "62",
+                "45"
+            ],
             "count": 6
         },
         {
             "date": "2019-06-03",
             "dateFormatted": "6/3",
+            "members": [
+                "56",
+                "69",
+                "47",
+                "59"
+            ],
             "count": 4
         },
         {
             "date": "2019-06-04",
             "dateFormatted": "6/4",
+            "members": [
+                "45",
+                "70",
+                "43"
+            ],
             "count": 3
         },
         {
             "date": "2019-06-05",
             "dateFormatted": "6/5",
+            "members": [
+                "71",
+                "37",
+                "59"
+            ],
             "count": 3
         },
         {
             "date": "2019-06-06",
             "dateFormatted": "6/6",
+            "members": [
+                "27",
+                "72",
+                "47",
+                "58",
+                "57",
+                "01"
+            ],
             "count": 6
         },
         {
             "date": "2019-06-07",
             "dateFormatted": "6/7",
+            "members": [
+                "73",
+                "45"
+            ],
             "count": 2
         },
         {
             "date": "2019-06-08",
             "dateFormatted": "6/8",
+            "members": [
+                "20",
+                "38",
+                "56",
+                "59",
+                "74",
+                "47"
+            ],
             "count": 6
         },
         {
             "date": "2019-06-09",
             "dateFormatted": "6/9",
+            "members": [
+                "45",
+                "64"
+            ],
             "count": 2
         },
         {
             "date": "2019-06-10",
             "dateFormatted": "6/10",
+            "members": [
+                "56",
+                "65",
+                "47",
+                "61",
+                "49",
+                "52"
+            ],
             "count": 6
         },
         {
             "date": "2019-06-11",
             "dateFormatted": "6/11",
+            "members": [
+                "51",
+                "42",
+                "20",
+                "59",
+                "66",
+                "53"
+            ],
             "count": 6
         },
         {
             "date": "2019-06-12",
             "dateFormatted": "6/12",
+            "members": [
+                "67",
+                "45",
+                "56",
+                "20",
+                "16",
+                "57",
+                "54"
+            ],
             "count": 7
         },
         {
             "date": "2019-06-13",
             "dateFormatted": "6/13",
+            "members": [
+                "47",
+                "45",
+                "68",
+                "43",
+                "58"
+            ],
             "count": 5
         },
         {
             "date": "2019-06-14",
             "dateFormatted": "6/14",
+            "members": [
+                "16",
+                "45",
+                "69",
+                "52",
+                "55"
+            ],
             "count": 5
         },
         {
             "date": "2019-06-15",
             "dateFormatted": "6/15",
+            "members": [
+                "20",
+                "70"
+            ],
             "count": 2
         },
         {
             "date": "2019-06-16",
             "dateFormatted": "6/16",
+            "members": [
+                "47",
+                "56",
+                "71",
+                "20",
+                "45",
+                "53"
+            ],
             "count": 6
         },
         {
             "date": "2019-06-17",
             "dateFormatted": "6/17",
+            "members": [
+                "72"
+            ],
             "count": 1
         },
         {
             "date": "2019-06-18",
             "dateFormatted": "6/18",
+            "members": [
+                "45",
+                "43",
+                "16",
+                "73"
+            ],
             "count": 4
         },
         {
             "date": "2019-06-19",
             "dateFormatted": "6/19",
+            "members": [
+                "74"
+            ],
             "count": 1
         },
         {
             "date": "2019-06-20",
             "dateFormatted": "6/20",
+            "members": [
+                "47",
+                "64"
+            ],
             "count": 2
         },
         {
             "date": "2019-06-21",
             "dateFormatted": "6/21",
+            "members": [
+                "52",
+                "42",
+                "37",
+                "65"
+            ],
             "count": 4
         },
         {
             "date": "2019-06-22",
             "dateFormatted": "6/22",
+            "members": [
+                "66",
+                "47",
+                "45",
+                "56",
+                "56",
+                "52",
+                "57",
+                "59"
+            ],
             "count": 8
         },
         {
             "date": "2019-06-23",
             "dateFormatted": "6/23",
+            "members": [
+                "67",
+                "16",
+                "45",
+                "47"
+            ],
             "count": 4
         },
         {
             "date": "2019-06-24",
             "dateFormatted": "6/24",
+            "members": [
+                "20",
+                "54",
+                "68"
+            ],
             "count": 3
         },
         {
             "date": "2019-06-25",
             "dateFormatted": "6/25",
+            "members": [
+                "47",
+                "30",
+                "45",
+                "27",
+                "69"
+            ],
             "count": 5
         },
         {
             "date": "2019-06-26",
             "dateFormatted": "6/26",
+            "members": [
+                "47",
+                "56",
+                "08",
+                "70"
+            ],
             "count": 4
         },
         {
             "date": "2019-06-27",
             "dateFormatted": "6/27",
+            "members": [
+                "71",
+                "47",
+                "45"
+            ],
             "count": 3
         },
         {
             "date": "2019-06-28",
             "dateFormatted": "6/28",
+            "members": [
+                "72",
+                "47",
+                "56",
+                "49",
+                "30"
+            ],
             "count": 5
         },
         {
             "date": "2019-06-29",
             "dateFormatted": "6/29",
+            "members": [
+                "08",
+                "45",
+                "73",
+                "57",
+                "45",
+                "20",
+                "62"
+            ],
             "count": 7
         },
         {
             "date": "2019-06-30",
             "dateFormatted": "6/30",
+            "members": [
+                "74",
+                "20"
+            ],
             "count": 2
         },
         {
             "date": "2019-07-01",
             "dateFormatted": "7/1",
+            "members": [
+                "16",
+                "64",
+                "52",
+                "17",
+                "47",
+                "56",
+                "53",
+                "08",
+                "03"
+            ],
             "count": 9
         },
         {
             "date": "2019-07-02",
             "dateFormatted": "7/2",
+            "members": [
+                "54",
+                "20",
+                "65",
+                "01",
+                "47",
+                "45",
+                "57"
+            ],
             "count": 7
         },
         {
             "date": "2019-07-03",
             "dateFormatted": "7/3",
+            "members": [
+                "27",
+                "66"
+            ],
             "count": 2
         },
         {
             "date": "2019-07-04",
             "dateFormatted": "7/4",
+            "members": [
+                "43",
+                "47",
+                "67"
+            ],
             "count": 3
         },
         {
             "date": "2019-07-05",
             "dateFormatted": "7/5",
+            "members": [
+                "68"
+            ],
             "count": 1
         },
         {
             "date": "2019-07-06",
             "dateFormatted": "7/6",
+            "members": [
+                "56",
+                "45",
+                "03",
+                "38",
+                "57",
+                "69"
+            ],
             "count": 6
         },
         {
             "date": "2019-07-07",
             "dateFormatted": "7/7",
+            "members": [
+                "20",
+                "70",
+                "61",
+                "47"
+            ],
             "count": 4
         },
         {
             "date": "2019-07-08",
             "dateFormatted": "7/8",
+            "members": [
+                "56",
+                "71",
+                "20",
+                "34",
+                "17"
+            ],
             "count": 5
         },
         {
             "date": "2019-07-09",
             "dateFormatted": "7/9",
+            "members": [
+                "72",
+                "42",
+                "45"
+            ],
             "count": 3
         },
         {
             "date": "2019-07-10",
             "dateFormatted": "7/10",
+            "members": [
+                "56",
+                "27",
+                "73",
+                "01",
+                "53",
+                "49"
+            ],
             "count": 6
         },
         {
             "date": "2019-07-11",
             "dateFormatted": "7/11",
+            "members": [
+                "74",
+                "47"
+            ],
             "count": 2
         },
         {
             "date": "2019-07-12",
             "dateFormatted": "7/12",
+            "members": [
+                "52",
+                "45",
+                "27",
+                "64",
+                "03"
+            ],
             "count": 5
         },
         {
             "date": "2019-07-13",
             "dateFormatted": "7/13",
+            "members": [
+                "65",
+                "45"
+            ],
             "count": 2
         },
         {
             "date": "2019-07-14",
             "dateFormatted": "7/14",
+            "members": [
+                "66",
+                "42",
+                "47",
+                "56",
+                "57",
+                "43",
+                "53",
+                "55"
+            ],
             "count": 8
         },
         {
             "date": "2019-07-15",
             "dateFormatted": "7/15",
+            "members": [
+                "45",
+                "20"
+            ],
             "count": 2
         },
         {
             "date": "2019-07-16",
             "dateFormatted": "7/16",
+            "members": [
+                "67",
+                "56",
+                "27",
+                "34",
+                "68"
+            ],
             "count": 5
         },
         {
             "date": "2019-07-17",
             "dateFormatted": "7/17",
+            "members": [
+                "52",
+                "69",
+                "38"
+            ],
             "count": 3
         },
         {
             "date": "2019-07-18",
             "dateFormatted": "7/18",
+            "members": [
+                "47",
+                "70",
+                "45"
+            ],
             "count": 3
         },
         {
             "date": "2019-07-19",
             "dateFormatted": "7/19",
+            "members": [
+                "71",
+                "57",
+                "08"
+            ],
             "count": 3
         },
         {
             "date": "2019-07-20",
             "dateFormatted": "7/20",
+            "members": [
+                "72",
+                "37"
+            ],
             "count": 2
         },
         {
             "date": "2019-07-21",
             "dateFormatted": "7/21",
+            "members": [
+                "73"
+            ],
             "count": 1
         },
         {
             "date": "2019-07-22",
             "dateFormatted": "7/22",
+            "members": [
+                "74",
+                "45"
+            ],
             "count": 2
         },
         {
             "date": "2019-07-23",
             "dateFormatted": "7/23",
+            "members": [
+                "56",
+                "47",
+                "64"
+            ],
             "count": 3
         },
         {
             "date": "2019-07-24",
             "dateFormatted": "7/24",
+            "members": [
+                "58",
+                "65"
+            ],
             "count": 2
         },
         {
             "date": "2019-07-25",
             "dateFormatted": "7/25",
+            "members": [
+                "56",
+                "66",
+                "57"
+            ],
             "count": 3
         },
         {
             "date": "2019-07-26",
             "dateFormatted": "7/26",
+            "members": [
+                "67",
+                "27",
+                "20",
+                "47",
+                "45"
+            ],
             "count": 5
         },
         {
             "date": "2019-07-27",
             "dateFormatted": "7/27",
+            "members": [
+                "03",
+                "30",
+                "68"
+            ],
             "count": 3
         },
         {
             "date": "2019-07-28",
             "dateFormatted": "7/28",
+            "members": [
+                "20",
+                "45",
+                "69"
+            ],
             "count": 3
         },
         {
             "date": "2019-07-29",
             "dateFormatted": "7/29",
+            "members": [
+                "70",
+                "34",
+                "01",
+                "41",
+                "53"
+            ],
             "count": 5
         },
         {
             "date": "2019-07-30",
             "dateFormatted": "7/30",
+            "members": [
+                "56",
+                "52",
+                "52",
+                "71",
+                "54",
+                "47",
+                "45"
+            ],
             "count": 7
         },
         {
             "date": "2019-07-31",
             "dateFormatted": "7/31",
+            "members": [
+                "20",
+                "51",
+                "72"
+            ],
             "count": 3
         },
         {
             "date": "2019-08-01",
             "dateFormatted": "8/1",
+            "members": [
+                "56",
+                "37",
+                "45",
+                "47",
+                "57",
+                "73"
+            ],
             "count": 6
         },
         {
             "date": "2019-08-02",
             "dateFormatted": "8/2",
+            "members": [
+                "45",
+                "74"
+            ],
             "count": 2
         },
         {
             "date": "2019-08-03",
             "dateFormatted": "8/3",
+            "members": [
+                "49",
+                "64",
+                "53",
+                "55",
+                "47",
+                "61"
+            ],
             "count": 6
         },
         {
             "date": "2019-08-04",
             "dateFormatted": "8/4",
+            "members": [
+                "56",
+                "20",
+                "45",
+                "34",
+                "65"
+            ],
             "count": 5
         },
         {
             "date": "2019-08-05",
             "dateFormatted": "8/5",
+            "members": [
+                "41",
+                "66",
+                "45"
+            ],
             "count": 3
         },
         {
             "date": "2019-08-06",
             "dateFormatted": "8/6",
+            "members": [
+                "01",
+                "56",
+                "67",
+                "34",
+                "52",
+                "47"
+            ],
             "count": 6
         },
         {
             "date": "2019-08-07",
             "dateFormatted": "8/7",
+            "members": [
+                "20",
+                "27",
+                "43",
+                "57",
+                "59",
+                "68"
+            ],
             "count": 6
         },
         {
             "date": "2019-08-08",
             "dateFormatted": "8/8",
+            "members": [
+                "45",
+                "45",
+                "69"
+            ],
             "count": 3
         },
         {
             "date": "2019-08-09",
             "dateFormatted": "8/9",
+            "members": [
+                "70",
+                "56",
+                "61",
+                "45"
+            ],
             "count": 4
         },
         {
             "date": "2019-08-10",
             "dateFormatted": "8/10",
+            "members": [
+                "20",
+                "71"
+            ],
             "count": 2
         },
         {
             "date": "2019-08-11",
             "dateFormatted": "8/11",
+            "members": [
+                "72",
+                "45",
+                "30"
+            ],
             "count": 3
         },
         {
             "date": "2019-08-12",
             "dateFormatted": "8/12",
+            "members": [
+                "56",
+                "52",
+                "73",
+                "53",
+                "20",
+                "30"
+            ],
             "count": 6
         },
         {
             "date": "2019-08-13",
             "dateFormatted": "8/13",
+            "members": [
+                "74",
+                "52",
+                "45",
+                "49",
+                "19"
+            ],
             "count": 5
         },
         {
             "date": "2019-08-14",
             "dateFormatted": "8/14",
+            "members": [
+                "47"
+            ],
             "count": 1
         },
         {
             "date": "2019-08-15",
             "dateFormatted": "8/15",
+            "members": [
+                "64",
+                "01",
+                "65",
+                "61"
+            ],
             "count": 4
         },
         {
             "date": "2019-08-16",
             "dateFormatted": "8/16",
+            "members": [
+                "56",
+                "47",
+                "43",
+                "66",
+                "57",
+                "03"
+            ],
             "count": 6
         },
         {
             "date": "2019-08-17",
             "dateFormatted": "8/17",
+            "members": [
+                "67"
+            ],
             "count": 1
         },
         {
             "date": "2019-08-18",
             "dateFormatted": "8/18",
+            "members": [
+                "45",
+                "08",
+                "30",
+                "42",
+                "68"
+            ],
             "count": 5
         },
         {
             "date": "2019-08-19",
             "dateFormatted": "8/19",
+            "members": [
+                "47",
+                "56",
+                "69",
+                "20"
+            ],
             "count": 4
         },
         {
             "date": "2019-08-20",
             "dateFormatted": "8/20",
+            "members": [
+                "08",
+                "17",
+                "70",
+                "20",
+                "45"
+            ],
             "count": 5
         },
         {
             "date": "2019-08-21",
             "dateFormatted": "8/21",
+            "members": [
+                "71",
+                "37",
+                "47",
+                "57"
+            ],
             "count": 4
         },
         {
             "date": "2019-08-22",
             "dateFormatted": "8/22",
+            "members": [
+                "47",
+                "43",
+                "72"
+            ],
             "count": 3
         },
         {
             "date": "2019-08-23",
             "dateFormatted": "8/23",
+            "members": [
+                "56",
+                "45",
+                "58",
+                "53",
+                "73"
+            ],
             "count": 5
         },
         {
             "date": "2019-08-24",
             "dateFormatted": "8/24",
+            "members": [
+                "20",
+                "74"
+            ],
             "count": 2
         },
         {
             "date": "2019-08-25",
             "dateFormatted": "8/25",
+            "members": [
+                "20",
+                "45",
+                "64"
+            ],
             "count": 3
         },
         {
             "date": "2019-08-26",
             "dateFormatted": "8/26",
+            "members": [
+                "56",
+                "47",
+                "30",
+                "65",
+                "45",
+                "52"
+            ],
             "count": 6
         },
         {
             "date": "2019-08-27",
             "dateFormatted": "8/27",
+            "members": [
+                "66",
+                "20",
+                "47",
+                "45",
+                "30"
+            ],
             "count": 5
         },
         {
             "date": "2019-08-28",
             "dateFormatted": "8/28",
+            "members": [
+                "67",
+                "27",
+                "57"
+            ],
             "count": 3
         },
         {
             "date": "2019-08-29",
             "dateFormatted": "8/29",
+            "members": [
+                "42",
+                "56",
+                "68",
+                "55"
+            ],
             "count": 4
         },
         {
             "date": "2019-08-30",
             "dateFormatted": "8/30",
+            "members": [
+                "69"
+            ],
             "count": 1
         },
         {
             "date": "2019-08-31",
             "dateFormatted": "8/31",
+            "members": [
+                "45",
+                "70",
+                "57"
+            ],
             "count": 3
         },
         {
             "date": "2019-09-01",
             "dateFormatted": "9/1",
+            "members": [
+                "56",
+                "47",
+                "20"
+            ],
             "count": 3
         },
         {
             "date": "2019-09-02",
             "dateFormatted": "9/2",
+            "members": [
+                "71",
+                "72",
+                "34"
+            ],
             "count": 3
         },
         {
             "date": "2019-09-03",
             "dateFormatted": "9/3",
+            "members": [
+                "17",
+                "34",
+                "17",
+                "27",
+                "51",
+                "49",
+                "73"
+            ],
             "count": 7
         },
         {
             "date": "2019-09-04",
             "dateFormatted": "9/4",
+            "members": [
+                "56",
+                "47",
+                "08",
+                "74",
+                "58",
+                "53",
+                "52",
+                "57",
+                "61"
+            ],
             "count": 9
         },
         {
             "date": "2019-09-05",
             "dateFormatted": "9/5",
+            "members": [
+                "03",
+                "59",
+                "64",
+                "55"
+            ],
             "count": 4
         },
         {
             "date": "2019-09-06",
             "dateFormatted": "9/6",
+            "members": [
+                "45",
+                "65"
+            ],
             "count": 2
         },
         {
             "date": "2019-09-07",
             "dateFormatted": "9/7",
+            "members": [
+                "66",
+                "20",
+                "20",
+                "03"
+            ],
             "count": 4
         },
         {
             "date": "2019-09-08",
             "dateFormatted": "9/8",
+            "members": [
+                "20",
+                "67",
+                "45"
+            ],
             "count": 3
         },
         {
             "date": "2019-09-09",
             "dateFormatted": "9/9",
+            "members": [
+                "47",
+                "45",
+                "68"
+            ],
             "count": 3
         },
         {
             "date": "2019-09-10",
             "dateFormatted": "9/10",
+            "members": [
+                "56",
+                "69"
+            ],
             "count": 2
         },
         {
             "date": "2019-09-11",
             "dateFormatted": "9/11",
+            "members": [
+                "54",
+                "70",
+                "57"
+            ],
             "count": 3
         },
         {
             "date": "2019-09-12",
             "dateFormatted": "9/12",
+            "members": [
+                "71",
+                "47",
+                "52"
+            ],
             "count": 3
         },
         {
             "date": "2019-09-13",
             "dateFormatted": "9/13",
+            "members": [
+                "56",
+                "08",
+                "72",
+                "45",
+                "53"
+            ],
             "count": 5
         },
         {
             "date": "2019-09-14",
             "dateFormatted": "9/14",
+            "members": [
+                "47"
+            ],
             "count": 1
         },
         {
             "date": "2019-09-15",
             "dateFormatted": "9/15",
+            "members": [
+                "73",
+                "74",
+                "53"
+            ],
             "count": 3
         },
         {
             "date": "2019-09-16",
             "dateFormatted": "9/16",
+            "members": [
+                "20",
+                "64"
+            ],
             "count": 2
         },
         {
             "date": "2019-09-17",
             "dateFormatted": "9/17",
+            "members": [
+                "45",
+                "34",
+                "43",
+                "65",
+                "20"
+            ],
             "count": 5
         },
         {
             "date": "2019-09-18",
             "dateFormatted": "9/18",
+            "members": [
+                "66",
+                "52",
+                "56",
+                "57",
+                "45"
+            ],
             "count": 5
         },
         {
             "date": "2019-09-19",
             "dateFormatted": "9/19",
+            "members": [
+                "67",
+                "45",
+                "01",
+                "49"
+            ],
             "count": 4
         },
         {
             "date": "2019-09-20",
             "dateFormatted": "9/20",
+            "members": [
+                "34",
+                "43",
+                "40",
+                "68"
+            ],
             "count": 4
         },
         {
             "date": "2019-09-21",
             "dateFormatted": "9/21",
+            "members": [
+                "56",
+                "69"
+            ],
             "count": 2
         },
         {
             "date": "2019-09-22",
             "dateFormatted": "9/22",
+            "members": [
+                "70",
+                "61",
+                "47"
+            ],
             "count": 3
         },
         {
             "date": "2019-09-23",
             "dateFormatted": "9/23",
+            "members": [
+                "56",
+                "20",
+                "71",
+                "52",
+                "03",
+                "47",
+                "57",
+                "43"
+            ],
             "count": 8
         },
         {
             "date": "2019-09-24",
             "dateFormatted": "9/24",
+            "members": [
+                "72"
+            ],
             "count": 1
         },
         {
             "date": "2019-09-25",
             "dateFormatted": "9/25",
+            "members": [
+                "45",
+                "08",
+                "03",
+                "73",
+                "55"
+            ],
             "count": 5
         },
         {
             "date": "2019-09-26",
             "dateFormatted": "9/26",
+            "members": [
+                "47",
+                "01",
+                "74",
+                "58",
+                "45"
+            ],
             "count": 5
         },
         {
             "date": "2019-09-27",
             "dateFormatted": "9/27",
+            "members": [
+                "51",
+                "42",
+                "45",
+                "58",
+                "64"
+            ],
             "count": 5
         },
         {
             "date": "2019-09-28",
             "dateFormatted": "9/28",
+            "members": [
+                "56",
+                "62",
+                "60",
+                "57",
+                "62",
+                "27",
+                "65"
+            ],
             "count": 7
         },
         {
             "date": "2019-09-29",
             "dateFormatted": "9/29",
+            "members": [
+                "66",
+                "45",
+                "20",
+                "53"
+            ],
             "count": 4
         },
         {
             "date": "2019-09-30",
             "dateFormatted": "9/30",
+            "members": [
+                "56",
+                "37",
+                "67"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-01",
             "dateFormatted": "10/1",
+            "members": [
+                "45",
+                "47",
+                "68"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-02",
             "dateFormatted": "10/2",
+            "members": [
+                "27",
+                "69"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-03",
             "dateFormatted": "10/3",
+            "members": [
+                "20",
+                "70",
+                "30"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-04",
             "dateFormatted": "10/4",
+            "members": [
+                "71",
+                "53"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-05",
             "dateFormatted": "10/5",
+            "members": [
+                "72",
+                "08",
+                "20",
+                "52"
+            ],
             "count": 4
         },
         {
             "date": "2019-10-06",
             "dateFormatted": "10/6",
+            "members": [
+                "73",
+                "57"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-07",
             "dateFormatted": "10/7",
+            "members": [
+                "45",
+                "74",
+                "03"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-08",
             "dateFormatted": "10/8",
+            "members": [
+                "64",
+                "56",
+                "47",
+                "43",
+                "51",
+                "41"
+            ],
             "count": 6
         },
         {
             "date": "2019-10-09",
             "dateFormatted": "10/9",
+            "members": [
+                "65",
+                "57"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-10",
             "dateFormatted": "10/10",
+            "members": [
+                "66",
+                "55",
+                "01"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-11",
             "dateFormatted": "10/11",
+            "members": [
+                "67",
+                "37",
+                "60"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-12",
             "dateFormatted": "10/12",
+            "members": [
+                "68",
+                "52"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-13",
             "dateFormatted": "10/13",
+            "members": [
+                "69"
+            ],
             "count": 1
         },
         {
             "date": "2019-10-14",
             "dateFormatted": "10/14",
+            "members": [
+                "58",
+                "70",
+                "45",
+                "01"
+            ],
             "count": 4
         },
         {
             "date": "2019-10-15",
             "dateFormatted": "10/15",
+            "members": [
+                "56",
+                "71",
+                "45",
+                "52"
+            ],
             "count": 4
         },
         {
             "date": "2019-10-16",
             "dateFormatted": "10/16",
+            "members": [
+                "08",
+                "72"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-17",
             "dateFormatted": "10/17",
+            "members": [
+                "73",
+                "57"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-18",
             "dateFormatted": "10/18",
+            "members": [
+                "56",
+                "47",
+                "74",
+                "43",
+                "37",
+                "45",
+                "55"
+            ],
             "count": 7
         },
         {
             "date": "2019-10-19",
             "dateFormatted": "10/19",
+            "members": [
+                "64",
+                "27"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-20",
             "dateFormatted": "10/20",
+            "members": [
+                "20",
+                "47",
+                "57",
+                "30",
+                "65"
+            ],
             "count": 5
         },
         {
             "date": "2019-10-21",
             "dateFormatted": "10/21",
+            "members": [
+                "20",
+                "20",
+                "34",
+                "66",
+                "45"
+            ],
             "count": 5
         },
         {
             "date": "2019-10-22",
             "dateFormatted": "10/22",
+            "members": [
+                "56",
+                "67",
+                "51"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-23",
             "dateFormatted": "10/23",
+            "members": [
+                "20",
+                "56",
+                "34",
+                "58",
+                "68"
+            ],
             "count": 5
         },
         {
             "date": "2019-10-24",
             "dateFormatted": "10/24",
+            "members": [
+                "69",
+                "60"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-25",
             "dateFormatted": "10/25",
+            "members": [
+                "70",
+                "43"
+            ],
             "count": 2
         },
         {
             "date": "2019-10-26",
             "dateFormatted": "10/26",
+            "members": [
+                "08",
+                "27",
+                "71"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-27",
             "dateFormatted": "10/27",
+            "members": [
+                "45",
+                "72",
+                "53",
+                "58"
+            ],
             "count": 4
         },
         {
             "date": "2019-10-28",
             "dateFormatted": "10/28",
+            "members": [
+                "52",
+                "73",
+                "57"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-29",
             "dateFormatted": "10/29",
+            "members": [
+                "56",
+                "42",
+                "74"
+            ],
             "count": 3
         },
         {
             "date": "2019-10-30",
             "dateFormatted": "10/30",
+            "members": [
+                "45",
+                "43",
+                "47",
+                "64"
+            ],
             "count": 4
         },
         {
             "date": "2019-10-31",
             "dateFormatted": "10/31",
+            "members": [
+                "34",
+                "45",
+                "58",
+                "65",
+                "47",
+                "49"
+            ],
             "count": 6
         },
         {
             "date": "2019-11-01",
             "dateFormatted": "11/1",
+            "members": [
+                "56",
+                "66",
+                "38"
+            ],
             "count": 3
         },
         {
             "date": "2019-11-02",
             "dateFormatted": "11/2",
+            "members": [
+                "67",
+                "57",
+                "20",
+                "52"
+            ],
             "count": 4
         },
         {
             "date": "2019-11-03",
             "dateFormatted": "11/3",
+            "members": [
+                "45",
+                "68"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-04",
             "dateFormatted": "11/4",
+            "members": [
+                "69",
+                "20"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-05",
             "dateFormatted": "11/5",
+            "members": [
+                "56",
+                "47",
+                "70",
+                "53",
+                "27"
+            ],
             "count": 5
         },
         {
             "date": "2019-11-06",
             "dateFormatted": "11/6",
+            "members": [
+                "71",
+                "08"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-07",
             "dateFormatted": "11/7",
+            "members": [
+                "72",
+                "55"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-08",
             "dateFormatted": "11/8",
+            "members": [
+                "73",
+                "57",
+                "60"
+            ],
             "count": 3
         },
         {
             "date": "2019-11-09",
             "dateFormatted": "11/9",
+            "members": [
+                "56",
+                "74"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-10",
             "dateFormatted": "11/10",
+            "members": [
+                "01",
+                "64"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-11",
             "dateFormatted": "11/11",
+            "members": [
+                "47",
+                "65",
+                "20",
+                "52",
+                "45",
+                "03"
+            ],
             "count": 6
         },
         {
             "date": "2019-11-12",
             "dateFormatted": "11/12",
+            "members": [
+                "66",
+                "56",
+                "20",
+                "66",
+                "57",
+                "56"
+            ],
             "count": 6
         },
         {
             "date": "2019-11-13",
             "dateFormatted": "11/13",
+            "members": [
+                "67",
+                "20",
+                "43"
+            ],
             "count": 3
         },
         {
             "date": "2019-11-14",
             "dateFormatted": "11/14",
+            "members": [
+                "60",
+                "68"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-15",
             "dateFormatted": "11/15",
+            "members": [
+                "69",
+                "49"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-16",
             "dateFormatted": "11/16",
+            "members": [
+                "70",
+                "45",
+                "20",
+                "61",
+                "56",
+                "29",
+                "01",
+                "53",
+                "47"
+            ],
             "count": 9
         },
         {
             "date": "2019-11-17",
             "dateFormatted": "11/17",
+            "members": [
+                "71",
+                "20"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-18",
             "dateFormatted": "11/18",
+            "members": [
+                "41",
+                "72"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-19",
             "dateFormatted": "11/19",
+            "members": [
+                "42",
+                "47",
+                "73"
+            ],
             "count": 3
         },
         {
             "date": "2019-11-20",
             "dateFormatted": "11/20",
+            "members": [
+                "56",
+                "43",
+                "57",
+                "74"
+            ],
             "count": 4
         },
         {
             "date": "2019-11-21",
             "dateFormatted": "11/21",
+            "members": [
+                "64",
+                "47"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-22",
             "dateFormatted": "11/22",
+            "members": [
+                "45",
+                "65"
+            ],
             "count": 2
         },
         {
             "date": "2019-11-23",
             "dateFormatted": "11/23",
+            "members": [
+                "66",
+                "20",
+                "27"
+            ],
             "count": 3
         },
         {
             "date": "2019-11-24",
             "dateFormatted": "11/24",
+            "members": [
+                "03",
+                "20",
+                "67"
+            ],
             "count": 3
         },
         {
             "date": "2019-11-25",
             "dateFormatted": "11/25",
+            "members": [
+                "34",
+                "56",
+                "52",
+                "52",
+                "47",
+                "58",
+                "68",
+                "57",
+                "53"
+            ],
             "count": 9
         },
         {
             "date": "2019-11-26",
             "dateFormatted": "11/26",
+            "members": [
+                "69"
+            ],
             "count": 1
         },
         {
             "date": "2019-11-27",
             "dateFormatted": "11/27",
+            "members": [
+                "27",
+                "20",
+                "70"
+            ],
             "count": 3
         },
         {
             "date": "2019-11-28",
             "dateFormatted": "11/28",
+            "members": [
+                "56",
+                "71",
+                "58"
+            ],
             "count": 3
         },
         {
             "date": "2019-11-29",
             "dateFormatted": "11/29",
+            "members": [
+                "47",
+                "54",
+                "72",
+                "52",
+                "03"
+            ],
             "count": 5
         },
         {
             "date": "2019-11-30",
             "dateFormatted": "11/30",
+            "members": [
+                "37",
+                "73",
+                "20"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-01",
             "dateFormatted": "12/1",
+            "members": [
+                "45",
+                "27",
+                "74"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-02",
             "dateFormatted": "12/2",
+            "members": [
+                "64",
+                "56",
+                "55",
+                "47"
+            ],
             "count": 4
         },
         {
             "date": "2019-12-03",
             "dateFormatted": "12/3",
+            "members": [
+                "20",
+                "65",
+                "57"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-04",
             "dateFormatted": "12/4",
+            "members": [
+                "66",
+                "60"
+            ],
             "count": 2
         },
         {
             "date": "2019-12-05",
             "dateFormatted": "12/5",
+            "members": [
+                "08",
+                "30",
+                "67",
+                "34",
+                "47"
+            ],
             "count": 5
         },
         {
             "date": "2019-12-06",
             "dateFormatted": "12/6",
+            "members": [
+                "68"
+            ],
             "count": 1
         },
         {
             "date": "2019-12-07",
             "dateFormatted": "12/7",
+            "members": [
+                "59",
+                "56",
+                "51",
+                "52",
+                "54",
+                "03",
+                "69",
+                "47",
+                "01",
+                "49"
+            ],
             "count": 10
         },
         {
             "date": "2019-12-08",
             "dateFormatted": "12/8",
+            "members": [
+                "70",
+                "20",
+                "45"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-09",
             "dateFormatted": "12/9",
+            "members": [
+                "27",
+                "47",
+                "71"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-10",
             "dateFormatted": "12/10",
+            "members": [
+                "72",
+                "43"
+            ],
             "count": 2
         },
         {
             "date": "2019-12-11",
             "dateFormatted": "12/11",
+            "members": [
+                "45",
+                "73",
+                "57",
+                "19",
+                "53"
+            ],
             "count": 5
         },
         {
             "date": "2019-12-12",
             "dateFormatted": "12/12",
+            "members": [
+                "03",
+                "42",
+                "74",
+                "47"
+            ],
             "count": 4
         },
         {
             "date": "2019-12-13",
             "dateFormatted": "12/13",
+            "members": [
+                "64",
+                "56",
+                "55"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-14",
             "dateFormatted": "12/14",
+            "members": [
+                "20",
+                "42",
+                "65"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-15",
             "dateFormatted": "12/15",
+            "members": [
+                "66",
+                "45",
+                "47"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-16",
             "dateFormatted": "12/16",
+            "members": [
+                "67",
+                "58",
+                "27"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-17",
             "dateFormatted": "12/17",
+            "members": [
+                "56",
+                "43",
+                "20",
+                "45",
+                "68"
+            ],
             "count": 5
         },
         {
             "date": "2019-12-18",
             "dateFormatted": "12/18",
+            "members": [
+                "69"
+            ],
             "count": 1
         },
         {
             "date": "2019-12-19",
             "dateFormatted": "12/19",
+            "members": [
+                "56",
+                "52",
+                "54",
+                "47",
+                "29",
+                "70"
+            ],
             "count": 6
         },
         {
             "date": "2019-12-20",
             "dateFormatted": "12/20",
+            "members": [
+                "71",
+                "27",
+                "57",
+                "45",
+                "53"
+            ],
             "count": 5
         },
         {
             "date": "2019-12-21",
             "dateFormatted": "12/21",
+            "members": [
+                "72",
+                "20",
+                "37",
+                "27",
+                "62"
+            ],
             "count": 5
         },
         {
             "date": "2019-12-22",
             "dateFormatted": "12/22",
+            "members": [
+                "56",
+                "47",
+                "73",
+                "20"
+            ],
             "count": 4
         },
         {
             "date": "2019-12-23",
             "dateFormatted": "12/23",
+            "members": [
+                "45",
+                "74"
+            ],
             "count": 2
         },
         {
             "date": "2019-12-24",
             "dateFormatted": "12/24",
+            "members": [
+                "56",
+                "52",
+                "58",
+                "64"
+            ],
             "count": 4
         },
         {
             "date": "2019-12-25",
             "dateFormatted": "12/25",
+            "members": [
+                "65",
+                "27",
+                "57",
+                "29"
+            ],
             "count": 4
         },
         {
             "date": "2019-12-26",
             "dateFormatted": "12/26",
+            "members": [
+                "66",
+                "47",
+                "03"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-27",
             "dateFormatted": "12/27",
+            "members": [
+                "45",
+                "20",
+                "61",
+                "67"
+            ],
             "count": 4
         },
         {
             "date": "2019-12-28",
             "dateFormatted": "12/28",
+            "members": [
+                "47",
+                "30",
+                "08",
+                "68"
+            ],
             "count": 4
         },
         {
             "date": "2019-12-29",
             "dateFormatted": "12/29",
+            "members": [
+                "43",
+                "27",
+                "57",
+                "69"
+            ],
             "count": 4
         },
         {
             "date": "2019-12-30",
             "dateFormatted": "12/30",
+            "members": [
+                "56",
+                "01",
+                "70"
+            ],
             "count": 3
         },
         {
             "date": "2019-12-31",
             "dateFormatted": "12/31",
+            "members": [
+                "51",
+                "71",
+                "49",
+                "41",
+                "27",
+                "58",
+                "30",
+                "18",
+                "53",
+                "37",
+                "57"
+            ],
             "count": 11
         }
     ],
