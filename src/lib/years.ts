@@ -14,6 +14,7 @@ export interface YearData {
 export interface DayData {
   date:string
   dateFormatted:string
+  members:string[]
   count:number
 }
 export interface MonthData {
@@ -35,11 +36,11 @@ export function getYears() {
 
     const years = fileNames.filter(fileName => {
 
-      const absolutePath = path.join(groupDirectory, fileName)
-
       if (fileName.match(/^\d+\.json$/i) === null) {
         return false
       }
+
+      const absolutePath = path.join(groupDirectory, fileName)
 
       return (fs.statSync(absolutePath).isDirectory() === false)
     })
