@@ -1,30 +1,18 @@
-import Head from 'next/head'
+import Head from "next/head"
 import { useRouter } from "next/router"
-import { GetStaticProps, GetStaticPaths } from 'next'
+import { GetStaticProps, GetStaticPaths } from "next"
 import Link from "next/link"
-import { useState } from "react"
-import { getYearParams, getYearData, DayData, MonthData } from '../../lib/years'
+import { getYearParams, getYearData, YearData, DayData } from "../../lib/years"
 import { getGroup } from "../../lib/groups"
-import { BLOG_COUNT_STEP } from '../../lib/constants'
+import { BLOG_COUNT_STEP } from "../../lib/constants"
 
-export default function Year({
-  yearData
-}: {
-  yearData: {
-    year:number,
-    count:number,
-    days:DayData[],
-    offset:number,
-    weekCount:number,
-    months:MonthData[],
-  }
-}) {
+export default function Year({ yearData }: { yearData:YearData }) {
 
   const router = useRouter()
   const { group, year } = router.query
 
   const groupData = getGroup(group as string)
-  
+
   function getClassName(count:number):string {
 
     if (count >= BLOG_COUNT_STEP * 3 + 1) {
@@ -66,7 +54,7 @@ export default function Year({
       </Head>
       <div className="year">
         <h1 className="year__title">
-          { groupData.englishShort } {  year } <span>blog contributions</span>
+          { groupData.englishShort } { year } <span>{ yearData.count } contributions</span>
         </h1>
         <div className="contributions-chart grid">
           <ul className="months grid-child">

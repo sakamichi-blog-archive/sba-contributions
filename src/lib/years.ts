@@ -1,24 +1,24 @@
-import fs from 'fs'
-import path from 'path'
+import fs from "fs"
+import path from "path"
 import { groups } from "./groups"
 
 export interface YearData {
-  year:number,
-  count:number,
-  days:DayData[],
-  offset:number,
-  weekCount:number,
-  months:MonthData[],
+  year:number
+  count:number
+  days:DayData[]
+  offset:number
+  weekCount:number
+  months:MonthData[]
   [key:string]:any
 }
 export interface DayData {
-  date:string,
-  dateFormatted:string,
+  date:string
+  dateFormatted:string
   count:number
 }
 export interface MonthData {
-  name:string,
-  width:number,
+  name:string
+  width:number
   weekIndex:number
 }
 
@@ -30,11 +30,20 @@ export function getYears() {
 
     const groupKey = group.key
 
-    const directory = path.join(dataDirectory, groupKey)
+    const groupDirectory = path.join(dataDirectory, groupKey)
 
-    const fileNames = fs.readdirSync(directory)
+    const fileNames = fs.readdirSync(groupDirectory)
 
-    const years = fileNames.map(fileName => {
+    const years = fileNames.filter(fileName => {
+
+      const absolutePath = path.join(groupDirectory, fileName)
+
+      if (fs.statSync(absolutePath).isDirectory()) {
+        return false
+      }
+      return true
+    })
+    .map(fileName => {
 
       return Number(path.basename(fileName, ".json"))
 
