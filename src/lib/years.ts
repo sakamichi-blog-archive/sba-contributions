@@ -38,10 +38,11 @@ export function getYears() {
 
       const absolutePath = path.join(groupDirectory, fileName)
 
-      if (fs.statSync(absolutePath).isDirectory()) {
+      if (fileName.match(/^\d+\.json$/i) === null) {
         return false
       }
-      return true
+
+      return (fs.statSync(absolutePath).isDirectory() === false)
     })
     .map(fileName => {
 
