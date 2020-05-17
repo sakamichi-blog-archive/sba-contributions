@@ -1,6 +1,6 @@
 {
     "year": 2020,
-    "count": 881,
+    "count": 892,
     "days": [
         {
             "date": "2020-01-01",
@@ -1840,10 +1840,28 @@
                 "18"
             ],
             "count": 12
+        },
+        {
+            "date": "2020-05-17",
+            "dateFormatted": "5/17",
+            "members": [
+                "24",
+                "19",
+                "2",
+                "2",
+                "21",
+                "9",
+                "9",
+                "17",
+                "20",
+                "6",
+                "15"
+            ],
+            "count": 11
         }
     ],
     "offset": 3,
-    "weekCount": 20,
+    "weekCount": 21,
     "months": [
         {
             "name": "Jan",
@@ -1867,7 +1885,7 @@
         },
         {
             "name": "May",
-            "width": 3,
+            "width": 4,
             "weekIndex": 17
         }
     ]
