@@ -13,6 +13,8 @@ export default function Year({ yearData }: { yearData:YearData }) {
 
   const groupData = getGroup(group as string)
 
+  const days = yearData.days
+
   function getClassName(count:number):string {
 
     if (count >= BLOG_COUNT_STEP * 3 + 1) {
@@ -20,10 +22,10 @@ export default function Year({ yearData }: { yearData:YearData }) {
     }
     return `level-${ Math.ceil(count / BLOG_COUNT_STEP) + 1 }`
   }
-  function getColumnStart(day:DayData) {
+  function getColumnStart(day:DayData):number|undefined {
 
-    if (day.date.match(/01-01$/iu) === null) {
-      return
+    if (days.indexOf(day) !== 0) {
+      return undefined
     }
     return yearData.offset + 1
   }
