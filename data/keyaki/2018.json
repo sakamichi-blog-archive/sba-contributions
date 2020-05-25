@@ -1833,62 +1833,50 @@
     "months": [
         {
             "name": "Jan",
-            "width": 4,
             "weekIndex": 0
         },
         {
             "name": "Feb",
-            "width": 4,
             "weekIndex": 4
         },
         {
             "name": "Mar",
-            "width": 5,
             "weekIndex": 8
         },
         {
             "name": "Apr",
-            "width": 4,
             "weekIndex": 13
         },
         {
             "name": "May",
-            "width": 4,
             "weekIndex": 17
         },
         {
             "name": "Jun",
-            "width": 5,
             "weekIndex": 21
         },
         {
             "name": "Jul",
-            "width": 4,
             "weekIndex": 26
         },
         {
             "name": "Aug",
-            "width": 4,
             "weekIndex": 30
         },
         {
             "name": "Sep",
-            "width": 5,
             "weekIndex": 34
         },
         {
             "name": "Oct",
-            "width": 4,
             "weekIndex": 39
         },
         {
             "name": "Nov",
-            "width": 4,
             "weekIndex": 43
         },
         {
             "name": "Dec",
-            "width": 6,
             "weekIndex": 47
         }
     ]

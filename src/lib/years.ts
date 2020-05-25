@@ -18,7 +18,6 @@ export interface DayData {
 }
 export interface MonthData {
   name:string
-  width:number
   weekIndex:number
 }
 
