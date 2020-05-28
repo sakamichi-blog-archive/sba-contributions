@@ -6,7 +6,7 @@ import { getYearParams, getYearData, YearData, DayData } from "../../lib/years"
 import { getGroup } from "../../lib/groups"
 import { getMember, getGenerations } from "../../lib/members"
 import { BLOG_COUNT_STEP } from "../../lib/constants"
-import { ChangeEvent } from "react"
+import { ChangeEvent, useState } from "react"
 
 export default function Year({ yearData }: { yearData:YearData }) {
 
@@ -51,9 +51,14 @@ export default function Year({ yearData }: { yearData:YearData }) {
     }
     return yearData.offset + 1
   }
+  const [ activeSquare, setActiveSquare ] = useState("")
+  function handleActiveSquare(date:string):void {
+    setActiveSquare(date)
+  }
+
   // const [ activeSquares, setActiveSquares ] = useState([])
 
-  // function handleActiveSquare(date:string) {
+  // function handleActiveSquares(date:string) {
 
   //   let newActiveSquares = [...activeSquares]
 
@@ -167,11 +172,11 @@ export default function Year({ yearData }: { yearData:YearData }) {
             <li
               className={
                 getClassName(day.count) + " "
-                // + (activeSquares.includes(day.date) ? "focused" : "")
+                + (activeSquare === day.date ? "focused" : "")
               }
               style={{ gridRowStart: getColumnStart(day) }}
               key={ day.date }
-              // onClick={ () => handleActiveSquare(day.date) }
+              onClick={ () => handleActiveSquare(day.date) }
             >
               { day.count }
             { day.count > 0 && (
