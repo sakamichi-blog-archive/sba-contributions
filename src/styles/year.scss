@@ -109,7 +109,7 @@ $square-colors: (
         visibility: hidden;
         opacity: 0;
       }
-      &:hover a.link {
+      &.focused a.link {
         visibility: visible;
       }
       
@@ -151,7 +151,7 @@ $square-colors: (
         }
       }
 
-      &:hover > span, &.focused > span {
+      &:hover > span {
         visibility: visible;
         opacity: 1;
         z-index: 2;
