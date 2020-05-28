@@ -180,7 +180,7 @@ export default function Year({ yearData }: { yearData:YearData }) {
             >
               { day.count }
             { day.count > 0 && (
-              <a className="link" href={ getOfficialLink(day) } target="_blank">
+              <a className="link" href={ getOfficialLink(day) } target="_blank" rel="noopener noreferrer">
                 { memberName || groupData.englishShort } { getDateFormatted(day.date) }
               </a>
             ) }
