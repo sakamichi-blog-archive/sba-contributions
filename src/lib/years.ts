@@ -13,7 +13,6 @@ export interface YearData {
 }
 export interface DayData {
   date:string
-  dateFormatted:string
   members:string[]
   count:number
 }

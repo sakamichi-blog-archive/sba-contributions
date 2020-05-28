@@ -69,6 +69,11 @@ export default function Year({ yearData }: { yearData:YearData }) {
   //   }
   // }
 
+  function getDateFormatted(date:string):string {
+    const dateObject = new Date(date)
+    return `${ dateObject.getMonth() + 1 }/${ dateObject.getDate() }`
+  }
+
   const generations = getGenerations(group as string)
 
   const members = [].concat(...generations.map(generation => generation.members))
@@ -144,7 +149,7 @@ export default function Year({ yearData }: { yearData:YearData }) {
             >
               { day.count }
               <span>
-                { day.dateFormatted }: { day.count } post{ day.count === 1 ? "" : "s" }
+                { getDateFormatted(day.date) }: { day.count } post{ day.count === 1 ? "" : "s" }
               </span>
             </li>
           ))}
