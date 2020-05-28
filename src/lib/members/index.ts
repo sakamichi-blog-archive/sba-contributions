@@ -9,6 +9,7 @@ export interface Member {
   name:string
   nameSpaced:string
   nameEnglish:string
+  officialBlogMemberID?:string
 }
 
 const members:Member[] = [
