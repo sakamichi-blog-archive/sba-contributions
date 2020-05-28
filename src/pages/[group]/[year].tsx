@@ -15,7 +15,8 @@ export default function Year({ yearData }: { yearData:YearData }) {
 
   const groupData = getGroup(group as string)
 
-  const memberName = id !== undefined ? getMember(group as string, id as string).nameEnglish : undefined
+  const memberData = id !== undefined ? getMember(group as string, id as string) : undefined
+  const memberName = id !== undefined ? memberData.nameEnglish : undefined
 
   let days = yearData.days
   let count = yearData.count
@@ -69,6 +70,31 @@ export default function Year({ yearData }: { yearData:YearData }) {
   //   }
   // }
 
+  function getOfficialLink(day:DayData):string|undefined {
+
+    let link:string|undefined
+    const dateEightDigit = day.date.replace(/-/g, "")
+    if (group === "nogi") {
+      if (memberName) {
+        link = `http://blog.nogizaka46.com/${ memberData.officialBlogMemberID }/?d=${ dateEightDigit }`
+      } else {
+        link = `http://blog.nogizaka46.com/?d=${ dateEightDigit }`
+      }
+    } else if (group === "keyaki") {
+      if (memberName) {
+        link = `https://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=${ memberData.id }&dy=${ dateEightDigit }`
+      } else {
+        link = `https://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&dy=${ dateEightDigit }`
+      }
+    } else if (group === "hinata") {
+      if (memberName) {
+        link = `https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000&ct=${ memberData.id }&dy=${ dateEightDigit }`
+      } else {
+        link = `https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000&dy=${ dateEightDigit }`
+      }
+    }
+    return link
+  }
   function getDateFormatted(date:string):string {
     const dateObject = new Date(date)
     return `${ dateObject.getMonth() + 1 }/${ dateObject.getDate() }`
@@ -148,6 +174,11 @@ export default function Year({ yearData }: { yearData:YearData }) {
               // onClick={ () => handleActiveSquare(day.date) }
             >
               { day.count }
+            { day.count > 0 && (
+              <a className="link" href={ getOfficialLink(day) } target="_blank">
+                { memberName || groupData.englishShort } { getDateFormatted(day.date) }
+              </a>
+            ) }
               <span>
                 { getDateFormatted(day.date) }: { day.count } post{ day.count === 1 ? "" : "s" }
               </span>
