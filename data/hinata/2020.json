@@ -1,6 +1,6 @@
 {
     "year": 2020,
-    "count": 1524,
+    "count": 1528,
     "days": [
         {
             "date": "2020-01-01",
@@ -2849,10 +2849,20 @@
                 "9"
             ],
             "count": 8
+        },
+        {
+            "date": "2020-08-09",
+            "members": [
+                "4",
+                "4",
+                "22",
+                "18"
+            ],
+            "count": 4
         }
     ],
     "offset": 3,
-    "weekCount": 32,
+    "weekCount": 33,
     "months": [
         {
             "name": "Jan",
