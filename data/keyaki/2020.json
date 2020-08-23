@@ -2340,10 +2340,15 @@
                 "15"
             ],
             "count": 7
+        },
+        {
+            "date": "2020-08-23",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 3,
-    "weekCount": 34,
+    "weekCount": 35,
     "months": [
         {
             "name": "Jan",
