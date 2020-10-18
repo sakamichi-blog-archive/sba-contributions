@@ -2827,10 +2827,15 @@
             "date": "2020-10-17",
             "members": [],
             "count": 0
+        },
+        {
+            "date": "2020-10-18",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 3,
-    "weekCount": 42,
+    "weekCount": 43,
     "months": [
         {
             "name": "Jan",
