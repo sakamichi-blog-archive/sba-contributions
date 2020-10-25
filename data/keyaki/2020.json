@@ -2862,10 +2862,15 @@
             "date": "2020-10-24",
             "members": [],
             "count": 0
+        },
+        {
+            "date": "2020-10-25",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 3,
-    "weekCount": 43,
+    "weekCount": 44,
     "months": [
         {
             "name": "Jan",
