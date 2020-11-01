@@ -2897,10 +2897,15 @@
             "date": "2020-10-31",
             "members": [],
             "count": 0
+        },
+        {
+            "date": "2020-11-01",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 3,
-    "weekCount": 44,
+    "weekCount": 45,
     "months": [
         {
             "name": "Jan",
@@ -2941,6 +2946,10 @@
         {
             "name": "Oct",
             "weekIndex": 39
+        },
+        {
+            "name": "Nov",
+            "weekIndex": 44
         }
     ]
 }
