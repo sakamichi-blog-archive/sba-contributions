@@ -34,7 +34,13 @@ jobs:
     - run: npm install
     - run: npm run build
     - run: npm i -g firebase-tools
-    - run: echo ::set-env name=COMMIT_MESSAGE_FIRST_LINE::"$(echo '${{ github.event.head_commit.message }}' | head -1)"
-    - run: firebase deploy -m "$COMMIT_MESSAGE_FIRST_LINE" --token "$FIREBASE_TOKEN"
+    # - run: |
+    #     echo 'COMMIT_MESSAGE_FIRST_LINE<<EOF' >> $GITHUB_ENV
+    #     echo $COMMIT_MESSAGE | head -1 >> $GITHUB_ENV
+    #     echo 'EOF' >> $GITHUB_ENV
+    #   env:
+    #     COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+    - run: firebase deploy -m "$(echo $COMMIT_MESSAGE | head -1)"
       env:
+        COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
         FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
