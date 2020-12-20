@@ -3144,10 +3144,15 @@
             "date": "2020-12-19",
             "members": [],
             "count": 0
+        },
+        {
+            "date": "2020-12-20",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 3,
-    "weekCount": 51,
+    "weekCount": 52,
     "months": [
         {
             "name": "Jan",
