@@ -152,7 +152,11 @@ export default function Year({ yearData }: { yearData:YearData }) {
       </Head>
       <div className="year">
         <h1 className="year__title">
-          { memberName || groupData.englishShort } { year } <span>{ count } contribution{ count !== 1 ? "s" : "" }</span>
+          { memberName || groupData.englishShort } { year } <span>{ count } contribution{ count !== 1 ? "s" : "" }{
+            count > 1 && (
+              <> ({ Math.round(count * 10 / days.length) / 10 } per day)</>
+            )
+          }</span>
         </h1>
         <div className="contributions-chart grid">
           <ul className="months grid-child">
