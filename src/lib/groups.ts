@@ -22,6 +22,12 @@ export const groups:Group[] = [
     name: "日向坂46",
     english: "Hinatazaka46",
     englishShort: "Hinata"
+  },
+  {
+    key: "sakura",
+    name: "櫻坂46",
+    english: "Sakurazaka46",
+    englishShort: "Sakura"
   }
 ]
 

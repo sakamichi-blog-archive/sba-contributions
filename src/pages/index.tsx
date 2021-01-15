@@ -1,8 +1,8 @@
-import Head from 'next/head'
-import { GetStaticProps } from 'next'
-import { getYears } from '../lib/years'
-import { getGroup } from '../lib/groups'
-import Link from 'next/link'
+import Head from "next/head"
+import { GetStaticProps } from "next"
+import { getYears } from "../lib/years"
+import { getGroup } from "../lib/groups"
+import Link from "next/link"
 
 export default function Index({
   years

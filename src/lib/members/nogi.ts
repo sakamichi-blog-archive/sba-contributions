@@ -360,6 +360,24 @@ const NogiFourthGenMembers:Member[] = [
   },
   {
     group: "nogi",
+    id: "76",
+    generation: 4,
+    name: "黒見明香",
+    nameSpaced: "黒見 明香",
+    nameEnglish: "Haruka Kuromi",
+    officialBlogMemberID: "haruka.kuromi"
+  },
+  {
+    group: "nogi",
+    id: "77",
+    generation: 4,
+    name: "佐藤璃果",
+    nameSpaced: "佐藤 璃果",
+    nameEnglish: "Rika Satou",
+    officialBlogMemberID: "rika.satou"
+  },
+  {
+    group: "nogi",
     id: "69",
     generation: 4,
     name: "柴田柚菜",
@@ -405,6 +423,24 @@ const NogiFourthGenMembers:Member[] = [
   },
   {
     group: "nogi",
+    id: "78",
+    generation: 4,
+    name: "林瑠奈",
+    nameSpaced: "林 瑠奈",
+    nameEnglish: "Runa Hayashi",
+    officialBlogMemberID: "runa.hayashi"
+  },
+  {
+    group: "nogi",
+    id: "79",
+    generation: 4,
+    name: "松尾美佑",
+    nameSpaced: "松尾 美佑",
+    nameEnglish: "Miyu Matsuo",
+    officialBlogMemberID: "miyu.matsuo"
+  },
+  {
+    group: "nogi",
     id: "74",
     generation: 4,
     name: "矢久保美緒",
@@ -412,13 +448,22 @@ const NogiFourthGenMembers:Member[] = [
     nameEnglish: "Mio Yakubo",
     officialBlogMemberID: "mio.yakubo"
   },
+  {
+    group: "nogi",
+    id: "80",
+    generation: 4,
+    name: "弓木奈於",
+    nameSpaced: "弓木 奈於",
+    nameEnglish: "Nao Yumiki",
+    officialBlogMemberID: "nao.yumiki"
+  },
   // {
   //   group: "nogi",
   //   id: "",
   //   generation: 4,
   //   name: "",
   //   nameSpaced: "",
-  //   nameEnglish: ""
+  //   nameEnglish: "",
   //   officialBlogMemberID: ""
   // }
 ]

@@ -244,6 +244,54 @@ const KeyakiSecondGenMembers:Member[] = [
     nameSpaced: "山﨑 天",
     nameEnglish: "Ten Yamasaki"
   },
+  {
+    group: "keyaki",
+    id: "53",
+    generation: 2,
+    name: "遠藤光莉",
+    nameSpaced: "遠藤 光莉",
+    nameEnglish: "Hikari Endou"
+  },
+  {
+    group: "keyaki",
+    id: "54",
+    generation: 2,
+    name: "大園玲",
+    nameSpaced: "大園 玲",
+    nameEnglish: "Rei Oozono"
+  },
+  {
+    group: "keyaki",
+    id: "55",
+    generation: 2,
+    name: "大沼晶保",
+    nameSpaced: "大沼 晶保",
+    nameEnglish: "Akihor Oonuma"
+  },
+  {
+    group: "keyaki",
+    id: "56",
+    generation: 2,
+    name: "幸阪茉里乃",
+    nameSpaced: "幸阪 茉里乃",
+    nameEnglish: "Marino Kousaka"
+  },
+  {
+    group: "keyaki",
+    id: "57",
+    generation: 2,
+    name: "増本綺良",
+    nameSpaced: "増本 綺良",
+    nameEnglish: "Kira Masumoto"
+  },
+  {
+    group: "keyaki",
+    id: "58",
+    generation: 2,
+    name: "守屋麗奈",
+    nameSpaced: "守屋 麗奈",
+    nameEnglish: "Rena Moriya"
+  }
 ]
 
 export const KeyakiMembers = [
