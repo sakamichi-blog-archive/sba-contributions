@@ -25,12 +25,12 @@ const dataDirectory = path.join(process.cwd(), "data")
 
 export function getYears() {
 
-  return groups.map(group => {
-
+  return groups.filter(group => {
+    const groupDirectory = path.join(dataDirectory, group.key)
+    return fs.existsSync(groupDirectory)
+  }).map(group => {
     const groupKey = group.key
-
     const groupDirectory = path.join(dataDirectory, groupKey)
-
     const fileNames = fs.readdirSync(groupDirectory)
 
     const years = fileNames.filter(fileName => {
