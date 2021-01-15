@@ -97,6 +97,14 @@ export default function Year({ yearData }: { yearData:YearData }) {
       } else {
         link = `https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000&dy=${ dateEightDigit }`
       }
+    } else if (group === "sakura") {
+      const date = new Date()
+      const ima = ("0" + date.getHours()).substr(-2) + ("0" + date.getMinutes()).substr(-2)
+      if (memberName) {
+        link = `https://sakurazaka46.com/s/s46/diary/blog/list?ima=${ ima }&ct=${ memberData.id }&dy=${ dateEightDigit }`
+      } else {
+        link = `https://sakurazaka46.com/s/s46/diary/blog/list?ima=${ ima }&dy=${ dateEightDigit }`
+      }
     }
     return link
   }

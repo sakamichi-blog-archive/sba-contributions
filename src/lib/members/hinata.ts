@@ -169,4 +169,36 @@ export const HinataMembers:Member[] = [
     nameSpaced: "上村 ひなの",
     nameEnglish: "Hinano Kamimura"
   },
+  {
+    group: "hinata",
+    id: "22",
+    generation: 3,
+    name: "髙橋未来虹",
+    nameSpaced: "髙橋 未来虹",
+    nameEnglish: "Mikuni Takahashi"
+  },
+  {
+    group: "hinata",
+    id: "23",
+    generation: 3,
+    name: "森本茉莉",
+    nameSpaced: "森本 茉莉",
+    nameEnglish: "Marie Morimoto"
+  },
+  {
+    group: "hinata",
+    id: "24",
+    generation: 3,
+    name: "山口陽世",
+    nameSpaced: "山口 陽世",
+    nameEnglish: "Haruyo Yamaguchi"
+  },
+  // {
+  //   group: "hinata",
+  //   id: "24",
+  //   generation: 3,
+  //   name: "",
+  //   nameSpaced: "",
+  //   nameEnglish: ""
+  // }
 ]
