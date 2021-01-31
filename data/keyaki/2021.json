@@ -151,10 +151,15 @@
             "date": "2021-01-30",
             "members": [],
             "count": 0
+        },
+        {
+            "date": "2021-01-31",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 5,
-    "weekCount": 5,
+    "weekCount": 6,
     "months": [
         {
             "name": "Jan",
