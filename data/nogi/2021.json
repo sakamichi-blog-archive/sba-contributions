@@ -1,6 +1,6 @@
 {
     "year": 2021,
-    "count": 115,
+    "count": 117,
     "days": [
         {
             "date": "2021-01-01",
@@ -302,6 +302,14 @@
                 "34"
             ],
             "count": 4
+        },
+        {
+            "date": "2021-02-01",
+            "members": [
+                "76",
+                "47"
+            ],
+            "count": 2
         }
     ],
     "offset": 5,
@@ -310,6 +318,10 @@
         {
             "name": "Jan",
             "weekIndex": 0
+        },
+        {
+            "name": "Feb",
+            "weekIndex": 5
         }
     ]
 }
