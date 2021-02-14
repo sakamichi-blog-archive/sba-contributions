@@ -221,10 +221,15 @@
             "date": "2021-02-13",
             "members": [],
             "count": 0
+        },
+        {
+            "date": "2021-02-14",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 5,
-    "weekCount": 7,
+    "weekCount": 8,
     "months": [
         {
             "name": "Jan",
