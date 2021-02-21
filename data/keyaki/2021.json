@@ -256,10 +256,15 @@
             "date": "2021-02-20",
             "members": [],
             "count": 0
+        },
+        {
+            "date": "2021-02-21",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 5,
-    "weekCount": 8,
+    "weekCount": 9,
     "months": [
         {
             "name": "Jan",
