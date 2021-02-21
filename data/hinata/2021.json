@@ -1,6 +1,6 @@
 {
     "year": 2021,
-    "count": 289,
+    "count": 293,
     "days": [
         {
             "date": "2021-01-01",
@@ -596,10 +596,20 @@
                 "5"
             ],
             "count": 3
+        },
+        {
+            "date": "2021-02-21",
+            "members": [
+                "24",
+                "23",
+                "7",
+                "12"
+            ],
+            "count": 4
         }
     ],
     "offset": 5,
-    "weekCount": 8,
+    "weekCount": 9,
     "months": [
         {
             "name": "Jan",
