@@ -296,6 +296,11 @@
             "date": "2021-02-28",
             "members": [],
             "count": 0
+        },
+        {
+            "date": "2021-03-01",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 5,
@@ -308,6 +313,10 @@
         {
             "name": "Feb",
             "weekIndex": 5
+        },
+        {
+            "name": "Mar",
+            "weekIndex": 9
         }
     ]
 }
