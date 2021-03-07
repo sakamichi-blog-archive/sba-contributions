@@ -326,10 +326,15 @@
             "date": "2021-03-06",
             "members": [],
             "count": 0
+        },
+        {
+            "date": "2021-03-07",
+            "members": [],
+            "count": 0
         }
     ],
     "offset": 5,
-    "weekCount": 10,
+    "weekCount": 11,
     "months": [
         {
             "name": "Jan",
