@@ -6,8 +6,8 @@ Sakamichi blog posts visualized like the GitHub contributions chart.
 
 Charts as PNGs can be found in `images/`.
 
-![Nogi 2020](./images/nogi/2020.png)
+![Nogi 2021](./images/nogi/2021.png)
 
-![Keyaki 2020](./images/keyaki/2020.png)
+![Hinata 2021](./images/hinata/2021.png)
 
-![Hinata 2020](./images/hinata/2020.png)
+![Sakura 2021](./images/sakura/2021.png)
