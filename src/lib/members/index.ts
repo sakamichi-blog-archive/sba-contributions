@@ -1,6 +1,7 @@
 import { NogiMembers } from "./nogi"
 import { KeyakiMembers } from "./keyaki"
 import { HinataMembers } from "./hinata"
+import { SakuraMembers } from "./sakura"
 
 export interface Member {
   group:string,
@@ -15,7 +16,8 @@ export interface Member {
 const members:Member[] = [
   ...NogiMembers,
   ...KeyakiMembers,
-  ...HinataMembers
+  ...HinataMembers,
+  ...SakuraMembers
 ]
 
 export function getMember(group:string, memberID:string):Member|undefined {
