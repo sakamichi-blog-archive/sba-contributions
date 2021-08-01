@@ -1,5 +1,5 @@
 {
-  "count": 1316,
+  "count": 1323,
   "days": [
     {
       "count": 5,
@@ -2586,6 +2586,19 @@
         "22",
         "6"
       ]
+    },
+    {
+      "count": 7,
+      "date": "2021-08-01",
+      "members": [
+        "7",
+        "18",
+        "4",
+        "5",
+        "5",
+        "6",
+        "21"
+      ]
     }
   ],
   "months": [
@@ -2616,9 +2629,13 @@
     {
       "name": "Jul",
       "weekIndex": 26
+    },
+    {
+      "name": "Aug",
+      "weekIndex": 31
     }
   ],
   "offset": 5,
-  "weekCount": 31,
+  "weekCount": 32,
   "year": 2021
 }
