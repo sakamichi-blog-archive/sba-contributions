@@ -32,128 +32,136 @@ $square-colors: (
   }
 }
 
-.contributions-chart {
-  display: inline-grid;
-  grid-template-areas: ". months" "days squares" ". legend";
-  gap: $grid-gap;
-  grid-template-columns: auto 1fr;
-  font-size: 15px;
-  font-family: "IBM Plex Mono", monospace;
+.year__contributions {
 
-  .grid-child {
-    margin: 0;
-  }
-
-  .months {
-    padding: 0;
-    list-style-type: none;
-    grid-area: months;
+  &__segment {
     display: grid;
-    grid-template-columns: repeat(auto-fill, $square-size);
-    gap: $square-gap;
-    line-height: 24px;
+    grid-template-areas: ". months" "days squares";
+    gap: $grid-gap;
+    grid-template-columns: auto 1fr;
+    font-size: 15px;
+    font-family: "IBM Plex Mono", monospace;
+    margin-top: 3px;
 
-    li {
-      width: $square-size;
-      color: $black2;
+    > * {
+      margin: 0;
     }
-  }
-
-  .days {
-    padding: 0;
-    list-style-type: none;
-    grid-area: days;
-    display: grid;
-    gap: $square-gap;
-    grid-template-rows: repeat(7, $square-size);
-    grid-template-columns: 36px;
-
-    li {
-      display: flex;
-      align-items: center;
-      color: $black2;
-
-      &:nth-child(odd) {
-        visibility: hidden;
+  
+    &__months {
+      padding: 0;
+      list-style-type: none;
+      grid-area: months;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, $square-size);
+      gap: $square-gap;
+      line-height: 24px;
+  
+      li {
+        width: $square-size;
+        color: $black2;
       }
     }
-  }
-
-  .squares {
-    padding: 0;
-    list-style-type: none;
-    grid-area: squares;
-    display: grid;
-    gap: $square-gap;
-    grid-template-rows: repeat(7, $square-size);
-    grid-auto-flow: column;
-    grid-auto-columns: $square-size;
-
-    li {
-      color: transparent;
-      position: relative;
-      user-select: none;
-
-      @each $i, $color in $square-colors {
-        &.level-#{$i} {
-          background-color: $color;
+  
+    &__days {
+      padding: 0;
+      list-style-type: none;
+      grid-area: days;
+      display: grid;
+      gap: $square-gap;
+      grid-template-rows: repeat(7, $square-size);
+      grid-template-columns: 36px;
+  
+      li {
+        display: flex;
+        align-items: center;
+        color: $black2;
+  
+        &:nth-child(odd) {
+          visibility: hidden;
         }
       }
+    }
+    
+    &__squares {
+      padding: 0;
+      list-style-type: none;
+      grid-area: squares;
+      display: grid;
+      gap: $square-gap;
+      grid-template-rows: repeat(7, $square-size);
+      grid-auto-flow: column;
+      grid-auto-columns: $square-size;
 
-      a.link {
-        position: absolute;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        visibility: hidden;
-        opacity: 0;
-      }
-      &.focused a.link {
-        visibility: visible;
-      }
-      
-      > span {
-        visibility: hidden;
-        opacity: 0;
-        position: absolute;
-        font-size: 12px;
-        color: white;
-        background-color: $tooltip-color;
-        padding: 6px 9px;
-        text-align: center;
-        border-radius: 3px;
-        margin: 0 auto;
-        left: 0;
-        bottom: calc(#{$square-size} + 9px);
-        transform: translateX(calc(-50% + #{$square-size} / 2));
-        pointer-events: none;
-        width: max-content;
+      li {
+        color: transparent;
+        position: relative;
+        user-select: none;
 
-        &:before {
-          content: "";
+        @each $i, $color in $square-colors {
+          &.level-#{$i} {
+            background-color: $color;
+          }
+        }
+
+        a.link {
           position: absolute;
-          top: 100%;
-          left: 50%;
-          border: 9px solid transparent;
-          border-top: 9px solid $tooltip-color;
-          margin-left: -9px;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          visibility: hidden;
+          opacity: 0;
         }
-
+        &.focused a.link {
+          visibility: visible;
+        }
+        
         > span {
-          opacity: 0.7;
-        }
-      }
+          visibility: hidden;
+          opacity: 0;
+          position: absolute;
+          font-size: 12px;
+          color: white;
+          background-color: $tooltip-color;
+          padding: 6px 9px;
+          text-align: center;
+          border-radius: 3px;
+          margin: 0 auto;
+          left: 0;
+          bottom: calc(#{$square-size} + 9px);
+          transform: translateX(calc(-50% + #{$square-size} / 2));
+          pointer-events: none;
+          width: max-content;
 
-      &:hover > span {
-        visibility: visible;
-        opacity: 1;
-        z-index: 2;
+          &:before {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            visibility: hidden;
+            opacity: 0;
+          }
+          &.focused a.link {
+            visibility: visible;
+          }
+
+          > span {
+            opacity: 0.7;
+          }
+        }
+  
+        &:hover > span {
+          visibility: visible;
+          opacity: 1;
+          z-index: 2;
+        }
       }
     }
   }
 
-  .legend {
+  &__legend {
     grid-area: legend;
     display: flex;
     justify-content: flex-end;
