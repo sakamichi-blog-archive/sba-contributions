@@ -2640,6 +2640,11 @@
         "67",
         "47"
       ]
+    },
+    {
+      "count": 0,
+      "date": "2021-11-01",
+      "members": []
     }
   ],
   "months": [
@@ -2682,6 +2687,10 @@
     {
       "name": "Oct",
       "weekIndex": 39
+    },
+    {
+      "name": "Nov",
+      "weekIndex": 44
     }
   ],
   "offset": 5,
