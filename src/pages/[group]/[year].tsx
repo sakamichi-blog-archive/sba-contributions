@@ -148,7 +148,6 @@ export default function Year({ yearData }: { yearData:YearData }) {
     <>
       <Head>
         <title>{ `${ memberName || groupData.englishShort } ${ year } Blog Contributions` }</title>
-        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;display=swap" rel="stylesheet" key="google-fonts" />
       </Head>
       <div className="year">
         <h1 className="year__title">
