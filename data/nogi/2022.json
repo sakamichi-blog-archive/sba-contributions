@@ -10,6 +10,11 @@
         "62",
         "76"
       ]
+    },
+    {
+      "count": 0,
+      "date": "2022-01-02",
+      "members": []
     }
   ],
   "months": [
@@ -19,6 +24,6 @@
     }
   ],
   "offset": 6,
-  "weekCount": 1,
+  "weekCount": 2,
   "year": 2022
 }
