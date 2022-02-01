@@ -226,12 +226,21 @@
       "members": [
         "50"
       ]
+    },
+    {
+      "count": 0,
+      "date": "2022-02-01",
+      "members": []
     }
   ],
   "months": [
     {
       "name": "Jan",
       "weekIndex": 0
+    },
+    {
+      "name": "Feb",
+      "weekIndex": 5
     }
   ],
   "offset": 6,
