@@ -1,5 +1,5 @@
 {
-  "count": 76,
+  "count": 78,
   "days": [
     {
       "count": 4,
@@ -368,6 +368,14 @@
       "count": 0,
       "date": "2022-02-19",
       "members": []
+    },
+    {
+      "count": 2,
+      "date": "2022-02-20",
+      "members": [
+        "57",
+        "70"
+      ]
     }
   ],
   "months": [
@@ -381,6 +389,6 @@
     }
   ],
   "offset": 6,
-  "weekCount": 8,
+  "weekCount": 9,
   "year": 2022
 }
