@@ -472,6 +472,11 @@
       "count": 0,
       "date": "2022-03-05",
       "members": []
+    },
+    {
+      "count": 0,
+      "date": "2022-03-06",
+      "members": []
     }
   ],
   "months": [
@@ -489,6 +494,6 @@
     }
   ],
   "offset": 6,
-  "weekCount": 10,
+  "weekCount": 11,
   "year": 2022
 }
