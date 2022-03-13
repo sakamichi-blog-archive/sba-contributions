@@ -1,474 +1,474 @@
 import { Member } from "./index"
 
-const NogiFirstGenMembers:Member[] = [
+const NogiFirstGenMembers: Member[] = [
   {
+    generation: 1,
     group: "nogi",
     id: "01",
-    generation: 1,
+    idOfficial: "7639",
     name: "秋元真夏",
-    nameSpaced: "秋元 真夏",
     nameEnglish: "Manatsu Akimoto",
-    officialBlogMemberID: "manatsu.akimoto"
+    nameSpaced: "秋元 真夏"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "03",
-    generation: 1,
+    idOfficial: "253",
     name: "生田絵梨花",
-    nameSpaced: "生田 絵梨花",
     nameEnglish: "Erika Ikuta",
-    officialBlogMemberID: "erika.ikuta"
+    nameSpaced: "生田 絵梨花"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "08",
-    generation: 1,
+    idOfficial: "258",
     name: "井上小百合",
-    nameSpaced: "井上 小百合",
     nameEnglish: "Sayuri Inoue",
-    officialBlogMemberID: "sayuri.inoue"
+    nameSpaced: "井上 小百合"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "14",
-    generation: 1,
+    idOfficial: "264",
     name: "齋藤飛鳥",
-    nameSpaced: "齋藤 飛鳥",
     nameEnglish: "Asuka Saitou",
-    officialBlogMemberID: "asuka.saito"
+    nameSpaced: "齋藤 飛鳥"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "18",
-    generation: 1,
+    idOfficial: "268",
     name: "白石麻衣",
-    nameSpaced: "白石 麻衣",
     nameEnglish: "Mai Shiraishi",
-    officialBlogMemberID: "mai.shiraishi"
+    nameSpaced: "白石 麻衣"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "19",
-    generation: 1,
+    idOfficial: "269",
     name: "高山一実",
-    nameSpaced: "高山 一実",
     nameEnglish: "Kazumi Takayama",
-    officialBlogMemberID: "kazumi.takayama"
+    nameSpaced: "高山 一実"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "20",
-    generation: 1,
+    idOfficial: "270",
     name: "中田花奈",
-    nameSpaced: "中田 花奈",
     nameEnglish: "Kana Nakada",
-    officialBlogMemberID: "kana.nakada"
+    nameSpaced: "中田 花奈"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "27",
-    generation: 1,
+    idOfficial: "277",
     name: "樋口日奈",
-    nameSpaced: "樋口 日奈",
     nameEnglish: "Hina Higuchi",
-    officialBlogMemberID: "hina.higuchi"
+    nameSpaced: "樋口 日奈"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "29",
-    generation: 1,
+    idOfficial: "279",
     name: "星野みなみ",
-    nameSpaced: "星野 みなみ",
     nameEnglish: "Minami Hoshino",
-    officialBlogMemberID: "minami.hoshino"
+    nameSpaced: "星野 みなみ"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "30",
-    generation: 1,
+    idOfficial: "280",
     name: "松村沙友理",
-    nameSpaced: "松村 沙友理",
     nameEnglish: "Sayuri Matsumura",
-    officialBlogMemberID: "sayuri.matsumura"
+    nameSpaced: "松村 沙友理"
   },
   {
+    generation: 1,
     group: "nogi",
     id: "34",
-    generation: 1,
+    idOfficial: "284",
     name: "和田まあや",
-    nameSpaced: "和田 まあや",
     nameEnglish: "Maaya Wada",
-    officialBlogMemberID: "maaya.wada"
+    nameSpaced: "和田 まあや"
   }
 ]
-const NogiSecondGenMembers:Member[] = [
+const NogiSecondGenMembers: Member[] = [
   {
+    generation: 2,
     group: "nogi",
     id: "36",
-    generation: 2,
+    idOfficial: "17375",
     name: "伊藤かりん",
-    nameSpaced: "伊藤 かりん",
     nameEnglish: "Karin Itou",
-    officialBlogMemberID: ""
+    nameSpaced: "伊藤 かりん"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "37",
-    generation: 2,
+    idOfficial: "17376",
     name: "伊藤純奈",
-    nameSpaced: "伊藤 純奈",
     nameEnglish: "Junna Itou",
-    officialBlogMemberID: ""
+    nameSpaced: "伊藤 純奈"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "38",
-    generation: 2,
+    idOfficial: "16454",
     name: "北野日奈子",
-    nameSpaced: "北野 日奈子",
     nameEnglish: "Hinako Kitano",
-    officialBlogMemberID: ""
+    nameSpaced: "北野 日奈子"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "39",
-    generation: 2,
+    idOfficial: "19634",
     name: "相楽伊織",
-    nameSpaced: "相楽 伊織",
     nameEnglish: "Iori Sagara",
-    officialBlogMemberID: ""
+    nameSpaced: "相楽 伊織"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "40",
-    generation: 2,
+    idOfficial: "17377",
     name: "佐々木琴子",
-    nameSpaced: "佐々木 琴子",
     nameEnglish: "Kotoko Sasaki",
-    officialBlogMemberID: ""
+    nameSpaced: "佐々木 琴子"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "41",
-    generation: 2,
+    idOfficial: "17068",
     name: "新内眞衣",
-    nameSpaced: "新内 眞衣",
     nameEnglish: "Mai Shinnuchi",
-    officialBlogMemberID: ""
+    nameSpaced: "新内 眞衣"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "42",
-    generation: 2,
+    idOfficial: "17378",
     name: "鈴木絢音",
-    nameSpaced: "鈴木 絢音",
     nameEnglish: "Ayane Suzuki",
-    officialBlogMemberID: ""
+    nameSpaced: "鈴木 絢音"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "43",
-    generation: 2,
+    idOfficial: "17379",
     name: "寺田蘭世",
-    nameSpaced: "寺田 蘭世",
     nameEnglish: "Ranze Terada",
-    officialBlogMemberID: ""
+    nameSpaced: "寺田 蘭世"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "45",
-    generation: 2,
+    idOfficial: "14470",
     name: "堀未央奈",
-    nameSpaced: "堀 未央奈",
     nameEnglish: "Miona Hori",
-    officialBlogMemberID: ""
+    nameSpaced: "堀 未央奈"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "47",
-    generation: 2,
+    idOfficial: "17381",
     name: "山崎怜奈",
-    nameSpaced: "山崎 怜奈",
     nameEnglish: "Rena Yamazaki",
-    officialBlogMemberID: ""
+    nameSpaced: "山崎 怜奈"
   },
   {
+    generation: 2,
     group: "nogi",
     id: "49",
-    generation: 2,
+    idOfficial: "17383",
     name: "渡辺みり愛",
-    nameSpaced: "渡辺 みり愛",
     nameEnglish: "Miria Watanabe",
-    officialBlogMemberID: ""
+    nameSpaced: "渡辺 みり愛"
   }
 ]
-const NogiThirdGenMembers:Member[] = [
+const NogiThirdGenMembers: Member[] = [
   {
+    generation: 3,
     group: "nogi",
     id: "51",
-    generation: 3,
+    idOfficial: "36749",
     name: "伊藤理々杏",
-    nameSpaced: "伊藤理々杏",
     nameEnglish: "Riria Itou",
-    officialBlogMemberID: "riria.itou"
+    nameSpaced: "伊藤理々杏"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "52",
-    generation: 3,
+    idOfficial: "36750",
     name: "岩本蓮加",
-    nameSpaced: "岩本 蓮加",
     nameEnglish: "Renka Iwamoto",
-    officialBlogMemberID: "renka.iwamoto"
+    nameSpaced: "岩本 蓮加"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "53",
-    generation: 3,
+    idOfficial: "36751",
     name: "梅澤美波",
-    nameSpaced: "梅澤 美波",
     nameEnglish: "Minami Umezawa",
-    officialBlogMemberID: "minami.umezawa"
+    nameSpaced: "梅澤 美波"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "54",
-    generation: 3,
+    idOfficial: "36752",
     name: "大園桃子",
-    nameSpaced: "大園 桃子",
     nameEnglish: "Momoko Oozono",
-    officialBlogMemberID: "momoko.oozono"
+    nameSpaced: "大園 桃子"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "55",
-    generation: 3,
+    idOfficial: "36753",
     name: "久保史緒里",
-    nameSpaced: "久保 史緒里",
     nameEnglish: "Shiori Kubo",
-    officialBlogMemberID: "shiori.kubo"
+    nameSpaced: "久保 史緒里"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "56",
-    generation: 3,
+    idOfficial: "36754",
     name: "阪口珠美",
-    nameSpaced: "阪口 珠美",
     nameEnglish: "Tamami Sakaguchi",
-    officialBlogMemberID: "tamami.sakaguchi"
+    nameSpaced: "阪口 珠美"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "57",
-    generation: 3,
+    idOfficial: "36755",
     name: "佐藤楓",
-    nameSpaced: "佐藤 楓",
     nameEnglish: "Kaede Satou",
-    officialBlogMemberID: "kaede.satou"
+    nameSpaced: "佐藤 楓"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "58",
-    generation: 3,
+    idOfficial: "36756",
     name: "中村麗乃",
-    nameSpaced: "中村 麗乃",
     nameEnglish: "Reno Nakamura",
-    officialBlogMemberID: "reno.nakamura"
+    nameSpaced: "中村 麗乃"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "59",
-    generation: 3,
+    idOfficial: "36757",
     name: "向井葉月",
-    nameSpaced: "向井 葉月",
     nameEnglish: "Hazuki Mukai",
-    officialBlogMemberID: "hazuki.mukai"
+    nameSpaced: "向井 葉月"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "60",
-    generation: 3,
+    idOfficial: "36758",
     name: "山下美月",
-    nameSpaced: "山下 美月",
     nameEnglish: "Mizuki Yamashita",
-    officialBlogMemberID: "mizuki.yamashita"
+    nameSpaced: "山下 美月"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "61",
-    generation: 3,
+    idOfficial: "36759",
     name: "吉田綾乃クリスティー",
-    nameSpaced: "吉田 綾乃クリスティー",
     nameEnglish: "Ayano Christie Yoshida",
-    officialBlogMemberID: "ayanochristie.yoshida"
+    nameSpaced: "吉田 綾乃クリスティー"
   },
   {
+    generation: 3,
     group: "nogi",
     id: "62",
-    generation: 3,
+    idOfficial: "36760",
     name: "与田祐希",
-    nameSpaced: "与田 祐希",
     nameEnglish: "Yuuki Yoda",
-    officialBlogMemberID: "yuuki.yoda"
+    nameSpaced: "与田 祐希"
   }
 ]
-const NogiFourthGenMembers:Member[] = [
+const NogiFourthGenMembers: Member[] = [
   {
+    generation: 4,
     group: "nogi",
     id: "64",
-    generation: 4,
+    idOfficial: "48006",
     name: "遠藤さくら",
-    nameSpaced: "遠藤 さくら",
     nameEnglish: "Sakura Endou",
-    officialBlogMemberID: "sakura.endou"
+    nameSpaced: "遠藤 さくら"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "65",
-    generation: 4,
+    idOfficial: "48008",
     name: "賀喜遥香",
-    nameSpaced: "賀喜 遥香",
     nameEnglish: "Haruka Kaki",
-    officialBlogMemberID: "haruka.kaki"
+    nameSpaced: "賀喜 遥香"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "66",
-    generation: 4,
+    idOfficial: "48009",
     name: "掛橋沙耶香",
-    nameSpaced: "掛橋 沙耶香",
     nameEnglish: "Sayaka Kakehashi",
-    officialBlogMemberID: "sayaka.kakehashi"
+    nameSpaced: "掛橋 沙耶香"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "67",
-    generation: 4,
+    idOfficial: "48010",
     name: "金川紗耶",
-    nameSpaced: "金川 紗耶",
     nameEnglish: "Saya Kanagawa",
-    officialBlogMemberID: "saya.kanagawa"
+    nameSpaced: "金川 紗耶"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "68",
-    generation: 4,
+    idOfficial: "48012",
     name: "北川悠理",
-    nameSpaced: "北川 悠理",
     nameEnglish: "Yuri Kitagawa",
-    officialBlogMemberID: "yuri.kitagawa"
+    nameSpaced: "北川 悠理"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "76",
-    generation: 4,
+    idOfficial: "55383",
     name: "黒見明香",
-    nameSpaced: "黒見 明香",
     nameEnglish: "Haruka Kuromi",
-    officialBlogMemberID: "haruka.kuromi"
+    nameSpaced: "黒見 明香"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "77",
-    generation: 4,
+    idOfficial: "55384",
     name: "佐藤璃果",
-    nameSpaced: "佐藤 璃果",
     nameEnglish: "Rika Satou",
-    officialBlogMemberID: "rika.satou"
+    nameSpaced: "佐藤 璃果"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "69",
-    generation: 4,
+    idOfficial: "48013",
     name: "柴田柚菜",
-    nameSpaced: "柴田 柚菜",
     nameEnglish: "Yuna Shibata",
-    officialBlogMemberID: "yuna.shibata"
+    nameSpaced: "柴田 柚菜"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "70",
-    generation: 4,
+    idOfficial: "48014",
     name: "清宮レイ",
-    nameSpaced: "清宮 レイ",
     nameEnglish: "Rei Seimiya",
-    officialBlogMemberID: "rei.seimiya"
+    nameSpaced: "清宮 レイ"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "71",
-    generation: 4,
+    idOfficial: "48015",
     name: "田村真佑",
-    nameSpaced: "田村 真佑",
     nameEnglish: "Mayu Tamura",
-    officialBlogMemberID: "mayu.tamura"
+    nameSpaced: "田村 真佑"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "72",
-    generation: 4,
+    idOfficial: "48017",
     name: "筒井あやめ",
-    nameSpaced: "筒井 あやめ",
     nameEnglish: "Ayame Tsutsui",
-    officialBlogMemberID: "ayame.tsutsui"
+    nameSpaced: "筒井 あやめ"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "73",
-    generation: 4,
+    idOfficial: "48018",
     name: "早川聖来",
-    nameSpaced: "早川 聖来",
     nameEnglish: "Seira Hayakawa",
-    officialBlogMemberID: "seira.hayakawa"
+    nameSpaced: "早川 聖来"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "78",
-    generation: 4,
+    idOfficial: "55385",
     name: "林瑠奈",
-    nameSpaced: "林 瑠奈",
     nameEnglish: "Runa Hayashi",
-    officialBlogMemberID: "runa.hayashi"
+    nameSpaced: "林 瑠奈"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "79",
-    generation: 4,
+    idOfficial: "55386",
     name: "松尾美佑",
-    nameSpaced: "松尾 美佑",
     nameEnglish: "Miyu Matsuo",
-    officialBlogMemberID: "miyu.matsuo"
+    nameSpaced: "松尾 美佑"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "74",
-    generation: 4,
+    idOfficial: "48019",
     name: "矢久保美緒",
-    nameSpaced: "矢久保 美緒",
     nameEnglish: "Mio Yakubo",
-    officialBlogMemberID: "mio.yakubo"
+    nameSpaced: "矢久保 美緒"
   },
   {
+    generation: 4,
     group: "nogi",
     id: "80",
-    generation: 4,
+    idOfficial: "55387",
     name: "弓木奈於",
-    nameSpaced: "弓木 奈於",
     nameEnglish: "Nao Yumiki",
-    officialBlogMemberID: "nao.yumiki"
+    nameSpaced: "弓木 奈於"
   },
   // {
+  //   generation: 4,
   //   group: "nogi",
   //   id: "",
-  //   generation: 4,
+  //   idOfficial: "",
   //   name: "",
-  //   nameSpaced: "",
   //   nameEnglish: "",
-  //   officialBlogMemberID: ""
+  //   nameSpaced: ""
   // }
 ]
 
-export const NogiMembers:Member[] = [
+export const NogiMembers: Member[] = [
   ...NogiFirstGenMembers,
   ...NogiSecondGenMembers,
   ...NogiThirdGenMembers,

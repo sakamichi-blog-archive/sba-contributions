@@ -4,54 +4,47 @@ import { HinataMembers } from "./hinata"
 import { SakuraMembers } from "./sakura"
 
 export interface Member {
-  group:string,
-  id:string|number
-  generation:number
-  name:string
-  nameSpaced:string
-  nameEnglish:string
-  officialBlogMemberID?:string
+  generation: number
+  group: string
+  id: string | number
+  idOfficial?: string
+  name: string
+  nameEnglish: string
+  nameSpaced: string
 }
 
-const members:Member[] = [
+const members: Member[] = [
   ...NogiMembers,
   ...KeyakiMembers,
   ...HinataMembers,
   ...SakuraMembers
 ]
 
-export function getMember(group:string, memberID:string):Member|undefined {
-  
+export function getMember(group: string, id: string): Member | undefined {
   for (let i = 0; i < members.length; i++) {
-
-    if (members[i].group == group && members[i].id == memberID) {
-      return members[i]
+    const member = members[i]
+    if (member.group == group && member.id == id) {
+      return member
     }
   }
-  return undefined
 }
 
-export function getMembers(group:string):Member[] {
+export function getMembers(group: string): Member[] {
   return members.filter(member => member.group === group)
 }
 
-export function getGenerations(group:string):{ generation:number, members:Member[] }[]|undefined {
-
-  let generations:number[] = []
-  let membersByGeneration:{ generation:number, members:Member[] }[] = []
+export function getGenerations(group: string): { generation: number, members: Member[] }[] | undefined {
+  const generations: number[] = []
+  const membersByGeneration: { generation: number, members: Member[] }[] = []
 
   for (let i = 0; i < members.length; i++) {
-
     const member = members[i]
-
     if (member.group !== group) {
       continue
     }
 
     const generation = member.generation
-
-    if (generations.includes(member.generation) === false) {
-
+    if (!generations.includes(member.generation)) {
       generations.push(member.generation)
       membersByGeneration.push({
         generation,

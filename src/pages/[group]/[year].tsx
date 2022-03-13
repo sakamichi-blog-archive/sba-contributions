@@ -8,14 +8,15 @@ import { getMember, getGenerations } from "../../lib/members"
 import { BLOG_COUNT_STEP } from "../../lib/constants"
 import { ChangeEvent, useState } from "react"
 
-export default function Year({ yearData }: { yearData:YearData }) {
-
+export default function Year({ yearData }: { yearData: YearData }) {
   const router = useRouter()
   const { group, year, id } = router.query
 
   const groupData = getGroup(group as string)
 
-  const memberData = id !== undefined ? getMember(group as string, id as string) : undefined
+  const memberData = id !== undefined
+    ? getMember(group as string, id as string)
+    : undefined
   const memberName = id !== undefined ? memberData.nameEnglish : undefined
 
   let days = yearData.days
@@ -52,63 +53,44 @@ export default function Year({ yearData }: { yearData:YearData }) {
     return yearData.offset + 1
   }
   const [ activeSquare, setActiveSquare ] = useState("")
-  function handleActiveSquare(date:string):void {
+  function handleActiveSquare(date:string): void {
     setActiveSquare(date)
   }
 
-  // const [ activeSquares, setActiveSquares ] = useState([])
-
-  // function handleActiveSquares(date:string) {
-
-  //   let newActiveSquares = [...activeSquares]
-
-  //   if (activeSquares.includes(date)) {
-
-  //     const dateIndex = newActiveSquares.indexOf(date)
-  //     newActiveSquares.splice(dateIndex, 1)
-  //     setActiveSquares(newActiveSquares)
-
-  //   } else {
-
-  //     newActiveSquares.push(date)
-  //     setActiveSquares(newActiveSquares)
-  //   }
-  // }
-
-  function getOfficialLink(day:DayData):string|undefined {
-
-    let link:string|undefined
+  function getOfficialLink(day: DayData): string | undefined {
+    let link: string | undefined
     const dateEightDigit = day.date.replace(/-/g, "")
-    if (group === "nogi") {
-      if (memberName) {
-        link = `http://blog.nogizaka46.com/${ memberData.officialBlogMemberID }/?d=${ dateEightDigit }`
-      } else {
-        link = `http://blog.nogizaka46.com/?d=${ dateEightDigit }`
+    const date = new Date()
+    const ima = String(date.getHours()).padStart(2, "0") + String(date.getMinutes()).padStart(2, "0")
+    switch (group) {
+      case "nogi": {
+        link = `https://www.nogizaka46.com/s/n46/diary/MEMBER/list?ima=${ ima }`
+        break
       }
-    } else if (group === "keyaki") {
-      if (memberName) {
-        link = `https://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=${ memberData.id }&dy=${ dateEightDigit }`
-      } else {
-        link = `https://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&dy=${ dateEightDigit }`
+      case "keyaki": {
+        link = "https://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000"
+        break
       }
-    } else if (group === "hinata") {
-      if (memberName) {
-        link = `https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000&ct=${ memberData.id }&dy=${ dateEightDigit }`
-      } else {
-        link = `https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000&dy=${ dateEightDigit }`
+      case "hinata": {
+        link = "https://www.hinatazaka46.com/s/official/diary/member/list?ima=0000"
+        break
       }
-    } else if (group === "sakura") {
-      const date = new Date()
-      const ima = ("0" + date.getHours()).substr(-2) + ("0" + date.getMinutes()).substr(-2)
-      if (memberName) {
-        link = `https://sakurazaka46.com/s/s46/diary/blog/list?ima=${ ima }&ct=${ memberData.id }&dy=${ dateEightDigit }`
-      } else {
-        link = `https://sakurazaka46.com/s/s46/diary/blog/list?ima=${ ima }&dy=${ dateEightDigit }`
+      case "sakura": {
+        link = `https://sakurazaka46.com/s/s46/diary/blog/list?ima=${ ima }`
+        break
+      }
+      default: {
+        return
       }
     }
-    return link
+    if (memberData?.idOfficial) {
+      link += `&ct=${ memberData.idOfficial }`
+    } else if (memberData?.id) {
+      link += `&ct=${ memberData.id }`
+    }
+    return link + `&dy=${ dateEightDigit }`
   }
-  function getDateFormatted(date:string):string {
+  function getDateFormatted(date: string): string {
     const dateObject = new Date(date)
     return `${ dateObject.getMonth() + 1 }/${ dateObject.getDate() }`
   }
