@@ -128,13 +128,7 @@ $square-colors: (
         bottom: calc(#{$square-size} + 9px);
         transform: translateX(calc(-50% + #{$square-size} / 2));
         pointer-events: none;
-        width: 126px;
-        // @supports (width: max-content) {
-        //   width: max-content;
-        // }
-        // @supports not (width: max-content) {
-        //   width: 126px;
-        // }
+        width: max-content;
 
         &:before {
           content: "";
