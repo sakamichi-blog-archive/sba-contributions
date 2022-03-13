@@ -33,6 +33,7 @@ $square-colors: (
 }
 
 .year__contributions {
+  width: max-content;
 
   &__segment {
     display: grid;
