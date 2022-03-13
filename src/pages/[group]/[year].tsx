@@ -42,8 +42,8 @@ export default function Year({ yearData }: { yearData: YearData }) {
       : `level-${ Math.ceil(count / BLOG_COUNT_STEP) + 1 }`
   }
 
-  const [ activeSquare, setActiveSquare ] = useState("")
-  function handleActiveSquare(date:string): void {
+  const [ activeSquare, setActiveSquare ] = useState<string>()
+  function handleActiveSquare(date: string): void {
     setActiveSquare(date)
   }
 
@@ -89,6 +89,7 @@ export default function Year({ yearData }: { yearData: YearData }) {
   const members = [].concat(...generations.map(generation => generation.members))
 
   function filterByMember(event: ChangeEvent<HTMLSelectElement>): void {
+    setActiveSquare(undefined)
     if (event.target.value == "-1") {
       router.push(
         `/[group]/[year]`,
