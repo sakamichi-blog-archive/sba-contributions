@@ -1,13 +1,13 @@
 # SBA Contributions
 
-Sakamichi blog posts visualized like the GitHub contributions chart.
+Sakamichi blog posts visualized as the GitHub contributions chart.
 
 ## Images
 
-Charts as PNGs can be found in `images/`.
+Chart PNGs can be found in `images/`.
 
-![Nogi 2021](./images/nogi/2021.png)
+![Nogi 2022](./images/nogi/2022.png)
 
-![Hinata 2021](./images/hinata/2021.png)
+![Hinata 2022](./images/hinata/2022.png)
 
-![Sakura 2021](./images/sakura/2021.png)
+![Sakura 2022](./images/sakura/2022.png)
