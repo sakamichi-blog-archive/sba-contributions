@@ -1,6 +1,6 @@
 import { Member } from "./index"
 
-const KeyakiFirstGenMembers:Member[] = [
+const KeyakiFirstGenMembers: Member[] = [
   {
     group: "keyaki",
     id: "01",

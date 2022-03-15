@@ -1,6 +1,6 @@
 import { Member } from "./index"
 
-export const HinataMembers:Member[] = [
+export const HinataMembers: Member[] = [
   {
     group: "hinata",
     id: "1",
