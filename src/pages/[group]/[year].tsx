@@ -2,14 +2,18 @@ import { GetStaticProps, GetStaticPaths } from "next"
 import Head from "next/head"
 import Link from "next/link"
 import { useRouter } from "next/router"
+import { ParsedUrlQuery } from "querystring"
 import { ChangeEvent, useState } from "react"
 
-import { getYearParams, getYearData, YearData, DayData } from "../../lib/years"
+import { BLOG_COUNT_STEP } from "../../lib/constants"
 import { getGroup } from "../../lib/groups"
 import { getMember, getGenerations } from "../../lib/members"
-import { BLOG_COUNT_STEP } from "../../lib/constants"
+import { DayData, getGroupYears, getYearData, YearData } from "../../lib/years"
 
-export default function Year({ yearData }: { yearData: YearData }) {
+interface YearPageProps {
+  yearData: YearData
+}
+export default function Year({ yearData }: YearPageProps) {
   const router = useRouter()
   const { group, year, id } = router.query
 
@@ -230,21 +234,32 @@ export default function Year({ yearData }: { yearData: YearData }) {
   )
 }
 
-export const getStaticPaths:GetStaticPaths = async () => {
-  
-  const paths = getYearParams()
+interface GroupYearParams extends ParsedUrlQuery {
+  group: string
+  year: string
+}
+export const getStaticPaths: GetStaticPaths<GroupYearParams> = function () {
+  const params: { params: GroupYearParams }[] = []
+  getGroupYears().forEach(group => {
+    group.years.forEach(year => {
+      params.push({
+        params: {
+          group: group.key,
+          year: `${ year }`
+        }
+      })
+    })
+  })
   return {
-    paths,
-    fallback: false
+    fallback: false,
+    paths: params
   }
 }
 
-export const getStaticProps:GetStaticProps = async ({ params }) => {
-
-  const yearData = await getYearData(params.group as string, params.year as string)
+export const getStaticProps: GetStaticProps = function ({ params }) {
   return {
     props: {
-      yearData
+      yearData: getYearData(params.group as string, params.year as string)
     }
   }
 }

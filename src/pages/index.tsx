@@ -1,17 +1,14 @@
-import Head from "next/head"
 import { GetStaticProps } from "next"
-import { getYears } from "../lib/years"
-import { getGroup } from "../lib/groups"
+import Head from "next/head"
 import Link from "next/link"
 
-export default function Index({
-  years
-}: {
-  years: {
-    key:string,
-    years:number[]
-  }[]
-}) {
+import { getGroup } from "../lib/groups"
+import { getGroupYears, GroupYears } from "../lib/years"
+
+interface IndexPageProps {
+  groups: GroupYears[]
+}
+export default function Index({ groups }: IndexPageProps) {
   return (
     <>
       <Head>
@@ -19,7 +16,7 @@ export default function Index({
       </Head>
       <div className="index">
         <ul className="index__groups">
-        { years.map(({ key, years }) => (
+        { groups.map(({ key, years }) => (
           <li className="index__groups__group" key={ key }>
             <h2>{ getGroup(key).englishShort }</h2>
             <ul className="index__groups__group__years">
@@ -39,13 +36,10 @@ export default function Index({
   )
 }
 
-export const getStaticProps:GetStaticProps = async () => {
-
-  const data = getYears()
-
+export const getStaticProps: GetStaticProps<IndexPageProps> = function () {
   return {
     props: {
-      years: data
+      groups: getGroupYears()
     }
   }
 }

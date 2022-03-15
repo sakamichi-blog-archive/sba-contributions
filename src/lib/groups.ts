@@ -1,41 +1,40 @@
 interface Group {
-  key:string,
-  name:string,
-  english:string,
-  englishShort:string
+  english: string
+  englishShort: string
+  key: string
+  name: string
 }
-export const groups:Group[] = [
+export const groups: Group[] = [
   {
-    key: "nogi",
-    name: "乃木坂46",
     english: "Nogizaka46",
-    englishShort: "Nogi"
+    englishShort: "Nogi",
+    key: "nogi",
+    name: "乃木坂46"
   },
   {
-    key: "keyaki",
-    name: "日向坂46",
     english: "Keyakizaka46",
-    englishShort: "Keyaki"
+    englishShort: "Keyaki",
+    key: "keyaki",
+    name: "欅坂46"
   },
   {
-    key: "hinata",
-    name: "日向坂46",
     english: "Hinatazaka46",
-    englishShort: "Hinata"
+    englishShort: "Hinata",
+    key: "hinata",
+    name: "日向坂46"
   },
   {
-    key: "sakura",
-    name: "櫻坂46",
     english: "Sakurazaka46",
-    englishShort: "Sakura"
+    englishShort: "Sakura",
+    key: "sakura",
+    name: "櫻坂46"
   }
 ]
 
-export function getGroup(group:string):Group|undefined {
+export function getGroup(group: string): Group | undefined {
   for (let i = 0; i < groups.length; i++) {
-    if (groups[i].key == group) {
+    if (groups[i].key === group) {
       return groups[i]
     }
   }
-  return undefined
 }

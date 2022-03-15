@@ -34,33 +34,29 @@ export interface MonthData {
 
 const dataDirectory = path.join(process.cwd(), "data")
 
-export function getYears() {
+export interface GroupYears {
+  key: string
+  years: number[]
+}
+
+export function getGroupYears(): GroupYears[] {
   return groups.filter(group => {
     const groupDirectory = path.join(dataDirectory, group.key)
     return fs.existsSync(groupDirectory)
   }).map(group => {
     const groupKey = group.key
     const groupDirectory = path.join(dataDirectory, groupKey)
-    const fileNames = fs.readdirSync(groupDirectory)
 
-    const years = fileNames.filter(fileName => {
-
+    const years = fs.readdirSync(groupDirectory)
+    .filter(fileName => {
       if (fileName.match(/^\d+\.json$/i) === null) {
         return false
       }
-
       const absolutePath = path.join(groupDirectory, fileName)
-
-      return (fs.statSync(absolutePath).isDirectory() === false)
+      return !fs.statSync(absolutePath).isDirectory()
     })
-    .map(fileName => {
-
-      return Number(path.basename(fileName, ".json"))
-
-    }).sort((a, b) => {
-      
-      return - (a - b)
-    })
+    .map(fileName => Number(path.basename(fileName, ".json")))
+    .sort((a, b) => - (a - b))
 
     return {
       key: groupKey,
@@ -133,19 +129,4 @@ export function getYearData(group: string, year: number | string): YearData {
     ...json,
     segments
   }
-}
-
-export function getYearParams() {
-  let dynamicParams = []
-  getYears().forEach(group => {
-    group.years.forEach(year => {
-      dynamicParams.push({
-        params: {
-          group: group.key,
-          year: `${ year }`
-        }
-      })
-    })
-  })
-  return dynamicParams
 }
