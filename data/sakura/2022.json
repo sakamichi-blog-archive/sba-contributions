@@ -1,5 +1,5 @@
 {
-  "count": 240,
+  "count": 242,
   "days": [
     {
       "count": 8,
@@ -937,6 +937,14 @@
       "members": [
         "56"
       ]
+    },
+    {
+      "count": 2,
+      "date": "2022-05-01",
+      "members": [
+        "48",
+        "46"
+      ]
     }
   ],
   "months": [
@@ -955,9 +963,13 @@
     {
       "name": "Apr",
       "weekIndex": 13
+    },
+    {
+      "name": "May",
+      "weekIndex": 18
     }
   ],
   "offset": 6,
-  "weekCount": 18,
+  "weekCount": 19,
   "year": 2022
 }
