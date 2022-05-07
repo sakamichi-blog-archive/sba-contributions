@@ -90,7 +90,7 @@ export default function Year({ yearData }: YearPageProps) {
   }
 
   const generations = getGenerations(group as string)
-  const members = [].concat(...generations.map(generation => generation.members))
+  const members = generations.map(generation => generation.members).flat()
 
   function filterByMember(event: ChangeEvent<HTMLSelectElement>): void {
     setActiveSquare(undefined)
