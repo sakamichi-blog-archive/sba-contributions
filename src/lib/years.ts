@@ -13,7 +13,6 @@ export interface YearDataJson {
 }
 export interface YearData {
   count: number
-  days: DayData[]
   segments: {
     days: DayData[]
     months: MonthData[]
@@ -71,14 +70,16 @@ export function getYearData(group: string, year: number | string): YearData {
   const json = JSON.parse(content) as YearDataJson
   if (json.weekCount <= 26) {
     return {
-      ...json,
+      count: json.count,
       segments: [
         {
           days: json.days,
           months: json.months,
           offset: json.offset
         }
-      ]
+      ],
+      weekCount: json.weekCount,
+      year: json.year
     }
   }
 
@@ -125,6 +126,7 @@ export function getYearData(group: string, year: number | string): YearData {
       }
     }
   }
+  delete json.days
   return {
     ...json,
     segments

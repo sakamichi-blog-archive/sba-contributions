@@ -115,9 +115,10 @@ export default function Year({ yearData }: YearPageProps) {
     few: "rd",
     other: "th"
   }
-  function getNumberSuffix(number:number):string {
+  function getNumberSuffix(number: number): string {
     return numberSuffixes[pluralRules.select(number)]
   }
+  const daysCount = yearData.segments.map(segment => segment.days).flat().length
 
   return (
     <>
@@ -128,7 +129,7 @@ export default function Year({ yearData }: YearPageProps) {
         <h1 className="year__title">
           { memberName || groupData.englishShort } { year } <span>{ count } contribution{ count !== 1 ? "s" : "" }{
             count > 1 && (
-              <> ({ Math.round(count * 10 / yearData.days.length) / 10 } per day)</>
+              <> ({ Math.round(count * 10 / daysCount) / 10 } per day)</>
             )
           }</span>
         </h1>
