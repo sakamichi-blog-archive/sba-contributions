@@ -12,20 +12,15 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: macos-12
     if: contains(github.event.head_commit.message, '[skip ci]') == false
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
       with:
-        node-version: 12
-    - uses: actions/cache@v1
-      with:
-        path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
-    - uses: actions/cache@v1
+        cache: npm
+        node-version: 16
+    - uses: actions/cache@v3
       with:
         path: ${{ github.workspace }}/.next/cache
         key: ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}
@@ -34,12 +29,6 @@ jobs:
     - run: npm install
     - run: npm run build
     - run: npm i -g firebase-tools
-    # - run: |
-    #     echo 'COMMIT_MESSAGE_FIRST_LINE<<EOF' >> $GITHUB_ENV
-    #     echo $COMMIT_MESSAGE | head -1 >> $GITHUB_ENV
-    #     echo 'EOF' >> $GITHUB_ENV
-    #   env:
-    #     COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
     - run: firebase deploy -m "$(echo $COMMIT_MESSAGE | head -1)"
       env:
         COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
