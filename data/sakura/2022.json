@@ -1317,6 +1317,11 @@
       "members": [
         "15"
       ]
+    },
+    {
+      "count": 0,
+      "date": "2022-06-19",
+      "members": []
     }
   ],
   "months": [
@@ -1346,6 +1351,6 @@
     }
   ],
   "offset": 6,
-  "weekCount": 25,
+  "weekCount": 26,
   "year": 2022
 }
