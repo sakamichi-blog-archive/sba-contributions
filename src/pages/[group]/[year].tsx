@@ -129,7 +129,7 @@ export default function Year({ yearData }: YearPageProps) {
         <h1 className="year__title">
           { memberName || groupData.englishShort } { year } <span>{ count } contribution{ count !== 1 ? "s" : "" }{
             count > 1 && (
-              <> ({ Math.round(count * 10 / daysCount) / 10 } per day)</>
+              <> ({ (count / daysCount).toFixed(1) } per day)</>
             )
           }</span>
         </h1>
