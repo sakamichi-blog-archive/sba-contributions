@@ -2470,6 +2470,11 @@
       "count": 0,
       "date": "2022-10-31",
       "members": []
+    },
+    {
+      "count": 0,
+      "date": "2022-11-01",
+      "members": []
     }
   ],
   "months": [
@@ -2512,6 +2517,10 @@
     {
       "name": "Oct",
       "weekIndex": 39
+    },
+    {
+      "name": "Nov",
+      "weekIndex": 44
     }
   ],
   "offset": 6,
