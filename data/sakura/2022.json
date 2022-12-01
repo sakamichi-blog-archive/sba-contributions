@@ -2692,6 +2692,11 @@
         "45",
         "58"
       ]
+    },
+    {
+      "count": 0,
+      "date": "2022-12-01",
+      "members": []
     }
   ],
   "months": [
@@ -2738,6 +2743,10 @@
     {
       "name": "Nov",
       "weekIndex": 44
+    },
+    {
+      "name": "Dec",
+      "weekIndex": 48
     }
   ],
   "offset": 6,
