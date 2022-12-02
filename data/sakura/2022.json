@@ -1,5 +1,5 @@
 {
-  "count": 751,
+  "count": 752,
   "days": [
     {
       "count": 8,
@@ -2697,6 +2697,13 @@
       "count": 0,
       "date": "2022-12-01",
       "members": []
+    },
+    {
+      "count": 1,
+      "date": "2022-12-02",
+      "members": [
+        "44"
+      ]
     }
   ],
   "months": [
