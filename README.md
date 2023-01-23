@@ -6,8 +6,8 @@ Sakamichi blog posts visualized as the GitHub contributions chart.
 
 Chart PNGs can be found in `images/`.
 
-![Nogi 2022](./images/nogi/2022.png)
+![Nogi 2023](./images/nogi/2023.png)
 
-![Hinata 2022](./images/hinata/2022.png)
+![Hinata 2023](./images/hinata/2023.png)
 
-![Sakura 2022](./images/sakura/2022.png)
+![Sakura 2023](./images/sakura/2023.png)
