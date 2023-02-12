@@ -374,6 +374,11 @@
         "77",
         "89"
       ]
+    },
+    {
+      "count": 0,
+      "date": "2023-02-12",
+      "members": []
     }
   ],
   "months": [
@@ -387,6 +392,6 @@
     }
   ],
   "offset": 0,
-  "weekCount": 6,
+  "weekCount": 7,
   "year": 2023
 }
