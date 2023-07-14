@@ -1,6 +1,6 @@
 import { Member } from "./index"
 
-const KeyakiFirstGenMembers: Member[] = [
+const KEYAKI_MEMBERS_FIRST_GEN: Member[] = [
   {
     group: "keyaki",
     id: "01",
@@ -171,7 +171,7 @@ const KeyakiFirstGenMembers: Member[] = [
   }
 ]
 
-const KeyakiSecondGenMembers:Member[] = [
+const KEYAKI_MEMBERS_SECOND_GEN:Member[] = [
   {
     group: "keyaki",
     id: "43",
@@ -294,7 +294,7 @@ const KeyakiSecondGenMembers:Member[] = [
   }
 ]
 
-export const KeyakiMembers = [
-  ...KeyakiFirstGenMembers,
-  ...KeyakiSecondGenMembers
+export const KEYAKI_MEMBERS = [
+  ...KEYAKI_MEMBERS_FIRST_GEN,
+  ...KEYAKI_MEMBERS_SECOND_GEN
 ]

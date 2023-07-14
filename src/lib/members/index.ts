@@ -1,7 +1,7 @@
-import { NogiMembers } from "./nogi"
-import { KeyakiMembers } from "./keyaki"
-import { HinataMembers } from "./hinata"
-import { SakuraMembers } from "./sakura"
+import { NOGI_MEMBERS } from "./nogi"
+import { KEYAKI_MEMBERS } from "./keyaki"
+import { HINATA_MEMBERS } from "./hinata"
+import { SAKURA_MEMBERS } from "./sakura"
 
 export interface Member {
   generation: number
@@ -14,10 +14,10 @@ export interface Member {
 }
 
 const members: Member[] = [
-  ...NogiMembers,
-  ...KeyakiMembers,
-  ...HinataMembers,
-  ...SakuraMembers
+  ...NOGI_MEMBERS,
+  ...KEYAKI_MEMBERS,
+  ...HINATA_MEMBERS,
+  ...SAKURA_MEMBERS
 ]
 
 export function getMember(group: string, id: string): Member | undefined {

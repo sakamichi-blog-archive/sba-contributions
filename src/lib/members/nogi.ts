@@ -1,6 +1,6 @@
 import { Member } from "./index"
 
-const NogiFirstGenMembers: Member[] = [
+const NOGI_MEMBERS_FIRST_GEN: Member[] = [
   {
     generation: 1,
     group: "nogi",
@@ -101,7 +101,7 @@ const NogiFirstGenMembers: Member[] = [
     nameSpaced: "和田 まあや"
   }
 ]
-const NogiSecondGenMembers: Member[] = [
+const NOGI_MEMBERS_SECOND_GEN: Member[] = [
   {
     generation: 2,
     group: "nogi",
@@ -202,7 +202,7 @@ const NogiSecondGenMembers: Member[] = [
     nameSpaced: "渡辺 みり愛"
   }
 ]
-const NogiThirdGenMembers: Member[] = [
+const NOGI_MEMBERS_THIRD_GEN: Member[] = [
   {
     generation: 3,
     group: "nogi",
@@ -312,7 +312,7 @@ const NogiThirdGenMembers: Member[] = [
     nameSpaced: "与田 祐希"
   }
 ]
-const NogiFourthGenMembers: Member[] = [
+const NOGI_MEMBERS_FOURTH_GEN: Member[] = [
   {
     generation: 4,
     group: "nogi",
@@ -468,9 +468,9 @@ const NogiFourthGenMembers: Member[] = [
   // }
 ]
 
-export const NogiMembers: Member[] = [
-  ...NogiFirstGenMembers,
-  ...NogiSecondGenMembers,
-  ...NogiThirdGenMembers,
-  ...NogiFourthGenMembers
+export const NOGI_MEMBERS: Member[] = [
+  ...NOGI_MEMBERS_FIRST_GEN,
+  ...NOGI_MEMBERS_SECOND_GEN,
+  ...NOGI_MEMBERS_THIRD_GEN,
+  ...NOGI_MEMBERS_FOURTH_GEN
 ]

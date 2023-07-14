@@ -1,6 +1,6 @@
 import { Member } from "./index"
 
-const SakuraFirstGenMembers:Member[] = [
+const SAKURA_MEMBERS_FIRST_GEN:Member[] = [
   {
     group: "sakura",
     id: "03",
@@ -91,7 +91,7 @@ const SakuraFirstGenMembers:Member[] = [
   }
 ]
 
-const SakuraSecondGenMembers:Member[] = [
+const SAKURA_MEMBERS_SECOND_GEN:Member[] = [
   {
     group: "sakura",
     id: "43",
@@ -222,7 +222,7 @@ const SakuraSecondGenMembers:Member[] = [
 //   },
 ]
 
-export const SakuraMembers = [
-  ...SakuraFirstGenMembers,
-  ...SakuraSecondGenMembers
+export const SAKURA_MEMBERS = [
+  ...SAKURA_MEMBERS_FIRST_GEN,
+  ...SAKURA_MEMBERS_SECOND_GEN
 ]
