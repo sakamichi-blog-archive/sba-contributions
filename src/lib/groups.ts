@@ -32,9 +32,5 @@ export const groups: Group[] = [
 ]
 
 export function getGroup(group: string): Group | undefined {
-  for (let i = 0; i < groups.length; i++) {
-    if (groups[i].key === group) {
-      return groups[i]
-    }
-  }
+  return groups.find(_group => _group.key === group)
 }

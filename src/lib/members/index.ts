@@ -21,12 +21,7 @@ const members: Member[] = [
 ]
 
 export function getMember(group: string, id: string): Member | undefined {
-  for (let i = 0; i < members.length; i++) {
-    const member = members[i]
-    if (member.group == group && member.id == id) {
-      return member
-    }
-  }
+  return members.find(member => member.group === group && member.id == id)
 }
 
 export function getMembers(group: string): Member[] {
