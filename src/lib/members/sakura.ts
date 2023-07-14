@@ -1,6 +1,6 @@
 import { Member } from "./index"
 
-const SAKURA_MEMBERS_FIRST_GEN:Member[] = [
+const SAKURA_MEMBERS_FIRST_GEN: Member[] = [
   {
     group: "sakura",
     id: "03",
@@ -90,8 +90,7 @@ const SAKURA_MEMBERS_FIRST_GEN:Member[] = [
     nameEnglish: "Risa Watanabe"
   }
 ]
-
-const SAKURA_MEMBERS_SECOND_GEN:Member[] = [
+const SAKURA_MEMBERS_SECOND_GEN: Member[] = [
   {
     group: "sakura",
     id: "43",
@@ -221,8 +220,99 @@ const SAKURA_MEMBERS_SECOND_GEN:Member[] = [
 //     nameEnglish: ""
 //   },
 ]
+const SAKURA_MEMBERS_THIRD_GEN: Member[] = [
+  {
+    generation: 3,
+    group: "sakura",
+    id: "59",
+    name: "石森璃花",
+    nameEnglish: "Rika Ishimori",
+    nameSpaced: "石森 璃花"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "60",
+    name: "遠藤理子",
+    nameEnglish: "Riko Endou",
+    nameSpaced: "遠藤 理子"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "61",
+    name: "小田倉麗奈",
+    nameEnglish: "Reina Odakura",
+    nameSpaced: "小田倉 麗奈"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "62",
+    name: "小島凪紗",
+    nameEnglish: "Nagisa Kojima",
+    nameSpaced: "小島 凪紗"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "63",
+    name: "谷口愛季",
+    nameEnglish: "Airi Taniguchi",
+    nameSpaced: "谷口 愛季"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "64",
+    name: "中嶋優月",
+    nameEnglish: "Nakashima Yuzuki",
+    nameSpaced: "中嶋 優月"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "65",
+    name: "的野美青",
+    nameEnglish: "Mio Matono",
+    nameSpaced: "的野 美青"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "66",
+    name: "向井純葉",
+    nameEnglish: "Itoha Mukai",
+    nameSpaced: "向井 純葉"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "67",
+    name: "村井優",
+    nameEnglish: "Yuu Murai",
+    nameSpaced: "村井 優"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "68",
+    name: "村山美羽",
+    nameEnglish: "Miu Murayama",
+    nameSpaced: "村山 美羽"
+  },
+  {
+    generation: 3,
+    group: "sakura",
+    id: "69",
+    name: "山下瞳月",
+    nameEnglish: "Shizuki Yamashita",
+    nameSpaced: "山下 瞳月"
+  }
+]
 
 export const SAKURA_MEMBERS = [
   ...SAKURA_MEMBERS_FIRST_GEN,
-  ...SAKURA_MEMBERS_SECOND_GEN
+  ...SAKURA_MEMBERS_SECOND_GEN,
+  ...SAKURA_MEMBERS_THIRD_GEN
 ]

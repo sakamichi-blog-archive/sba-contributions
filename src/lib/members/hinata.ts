@@ -198,9 +198,108 @@ export const HINATA_MEMBERS_THIRD_GEN: Member[] = [
     nameEnglish: "Haruyo Yamaguchi"
   }
 ]
+const HINATA_MEMBERS_FOURTH_GEN: Member[] = [
+  {
+    generation: 4,
+    group: "hinata",
+    id: "25",
+    name: "石塚瑶季",
+    nameEnglish: "Tamaki Ishizuka",
+    nameSpaced: "石塚 瑶季"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "26",
+    name: "岸帆夏",
+    nameEnglish: "Honoka Kishi",
+    nameSpaced: "岸 帆夏"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "27",
+    name: "小西夏菜実",
+    nameEnglish: "Nanami Konishi",
+    nameSpaced: "小西 夏菜実"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "28",
+    name: "清水理央",
+    nameEnglish: "Rio Shimizu",
+    nameSpaced: "清水 理央"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "29",
+    name: "正源司陽子",
+    nameEnglish: "Youko Shougenji",
+    nameSpaced: "正源司 陽子"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "30",
+    name: "竹内希来里",
+    nameEnglish: "Kirari Takeuchi",
+    nameSpaced: "竹内 希来里"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "31",
+    name: "平尾帆夏",
+    nameEnglish: "Honoka Hirao",
+    nameSpaced: "平尾 帆夏"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "32",
+    name: "平岡海月",
+    nameEnglish: "Mitsuki Hiraoka",
+    nameSpaced: "平岡 海月"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "33",
+    name: "藤嶌果歩",
+    nameEnglish: "Kaho Fujishima",
+    nameSpaced: "藤嶌 果歩"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "34",
+    name: "宮地すみれ",
+    nameEnglish: "Sumire Miyachi",
+    nameSpaced: "宮地 すみれ"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "35",
+    name: "山下葉留花",
+    nameEnglish: "Haruka Yamashita",
+    nameSpaced: "山下 葉留花"
+  },
+  {
+    generation: 4,
+    group: "hinata",
+    id: "36",
+    name: "渡辺莉奈",
+    nameEnglish: "Rina Watanabe",
+    nameSpaced: "渡辺 莉奈"
+  }
+]
 
 export const HINATA_MEMBERS: Member[] = [
   ...HINATA_MEMBERS_FIRST_GEN,
   ...HINATA_MEMBERS_SECOND_GEN,
-  ...HINATA_MEMBERS_THIRD_GEN
+  ...HINATA_MEMBERS_THIRD_GEN,
+  ...HINATA_MEMBERS_FOURTH_GEN
 ]

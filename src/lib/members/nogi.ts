@@ -456,21 +456,114 @@ const NOGI_MEMBERS_FOURTH_GEN: Member[] = [
     name: "弓木奈於",
     nameEnglish: "Nao Yumiki",
     nameSpaced: "弓木 奈於"
+  }
+]
+const NOGI_MEMBERS_FIFTH_GEN: Member[] = [
+  {
+    generation: 5,
+    group: "nogi",
+    id: "82",
+    idOfficial: "55396",
+    name: "五百城茉央",
+    nameEnglish: "Mao Ioki",
+    nameSpaced: "五百城 茉央",
   },
-  // {
-  //   generation: 4,
-  //   group: "nogi",
-  //   id: "",
-  //   idOfficial: "",
-  //   name: "",
-  //   nameEnglish: "",
-  //   nameSpaced: ""
-  // }
+  {
+    generation: 5,
+    group: "nogi",
+    id: "83",
+    idOfficial: "55397",
+    name: "池田瑛紗",
+    nameEnglish: "Teresa Ikeda",
+    nameSpaced: "池田 瑛紗",
+  },
+  {
+    generation: 5,
+    group: "nogi",
+    id: "84",
+    idOfficial: "55390",
+    name: "一ノ瀬美空",
+    nameEnglish: "Miku Ichinose",
+    nameSpaced: "一ノ瀬 美空",
+  },
+  {
+    generation: 5,
+    group: "nogi",
+    id: "85",
+    idOfficial: "55389",
+    name: "井上和",
+    nameEnglish: "Nagi Inoue",
+    nameSpaced: "井上 和",
+  },
+  {
+    generation: 5,
+    group: "nogi",
+    id: "86",
+    idOfficial: "55401",
+    name: "岡本姫奈",
+    nameEnglish: "Hina Okamoto",
+    nameSpaced: "岡本 姫奈",
+  },
+  {
+    generation: 5,
+    group: "nogi",
+    id: "87",
+    idOfficial: "55392",
+    name: "小川彩",
+    nameEnglish: "Aya Ogawa",
+    nameSpaced: "小川 彩",
+  },
+  {
+    generation: 5,
+    group: "nogi",
+    id: "88",
+    idOfficial: "55394",
+    name: "奥田いろは",
+    nameEnglish: "Iroha Okuda",
+    nameSpaced: "奥田 いろは",
+  },
+  {
+    generation: 5,
+    group: "nogi",
+    id: "89",
+    idOfficial: "55400",
+    name: "川﨑桜",
+    nameEnglish: "Sakura Kawasaki",
+    nameSpaced: "川﨑 桜",
+  },
+  {
+    generation: 5,
+    group: "nogi",
+    id: "90",
+    idOfficial: "55391",
+    name: "菅原咲月",
+    nameEnglish: "Satsuki Sugawara",
+    nameSpaced: "菅原 咲月",
+  },
+  {
+    generation: 5,
+    group: "nogi",
+    id: "91",
+    idOfficial: "55393",
+    name: "冨里奈央",
+    nameEnglish: "Nao Tomisato",
+    nameSpaced: "冨里 奈央",
+  },
+  {
+    generation: 5,
+    group: "nogi",
+    id: "92",
+    idOfficial: "55395",
+    name: "中西アルノ",
+    nameEnglish: "Aruno Nakanishi",
+    nameSpaced: "中西 アルノ",
+  }
 ]
 
 export const NOGI_MEMBERS: Member[] = [
   ...NOGI_MEMBERS_FIRST_GEN,
   ...NOGI_MEMBERS_SECOND_GEN,
   ...NOGI_MEMBERS_THIRD_GEN,
-  ...NOGI_MEMBERS_FOURTH_GEN
+  ...NOGI_MEMBERS_FOURTH_GEN,
+  ...NOGI_MEMBERS_FIFTH_GEN
 ]
