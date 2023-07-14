@@ -1,6 +1,6 @@
 import { Member } from "./index"
 
-export const HINATA_MEMBERS: Member[] = [
+export const HINATA_MEMBERS_FIRST_GEN: Member[] = [
   {
     group: "hinata",
     id: "1",
@@ -88,7 +88,9 @@ export const HINATA_MEMBERS: Member[] = [
     name: "東村芽依",
     nameSpaced: "東村 芽依",
     nameEnglish: "Mei Higashimura"
-  },
+  }
+]
+export const HINATA_MEMBERS_SECOND_GEN: Member[] = [
   {
     group: "hinata",
     id: "12",
@@ -160,7 +162,9 @@ export const HINATA_MEMBERS: Member[] = [
     name: "渡邉美穂",
     nameSpaced: "渡邉 美穂",
     nameEnglish: "Miho Watanabe"
-  },
+  }
+]
+export const HINATA_MEMBERS_THIRD_GEN: Member[] = [
   {
     group: "hinata",
     id: "21",
@@ -192,13 +196,11 @@ export const HINATA_MEMBERS: Member[] = [
     name: "山口陽世",
     nameSpaced: "山口 陽世",
     nameEnglish: "Haruyo Yamaguchi"
-  },
-  // {
-  //   group: "hinata",
-  //   id: "24",
-  //   generation: 3,
-  //   name: "",
-  //   nameSpaced: "",
-  //   nameEnglish: ""
-  // }
+  }
+]
+
+export const HINATA_MEMBERS: Member[] = [
+  ...HINATA_MEMBERS_FIRST_GEN,
+  ...HINATA_MEMBERS_SECOND_GEN,
+  ...HINATA_MEMBERS_THIRD_GEN
 ]
