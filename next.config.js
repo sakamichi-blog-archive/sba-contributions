@@ -4,6 +4,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 })
 
 module.exports = withBundleAnalyzer({
+  output: "export",
   sassOptions: {
     includePaths: [
       path.join(__dirname, "src/styles")
