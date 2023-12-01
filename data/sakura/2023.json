@@ -1,5 +1,5 @@
 {
-  "count": 993,
+  "count": 995,
   "days": [
     {
       "count": 3,
@@ -2986,6 +2986,14 @@
         "55",
         "43"
       ]
+    },
+    {
+      "count": 2,
+      "date": "2023-12-01",
+      "members": [
+        "57",
+        "55"
+      ]
     }
   ],
   "months": [
@@ -3032,6 +3040,10 @@
     {
       "name": "Nov",
       "weekIndex": 43
+    },
+    {
+      "name": "Dec",
+      "weekIndex": 47
     }
   ],
   "offset": 0,
