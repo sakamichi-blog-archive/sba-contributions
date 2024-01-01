@@ -1,0 +1,19 @@
+{
+  "count": 0,
+  "days": [
+    {
+      "count": 0,
+      "date": "2024-01-01",
+      "members": []
+    }
+  ],
+  "months": [
+    {
+      "name": "Jan",
+      "weekIndex": 0
+    }
+  ],
+  "offset": 1,
+  "weekCount": 1,
+  "year": 2024
+}
