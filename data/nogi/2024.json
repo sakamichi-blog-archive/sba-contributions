@@ -543,6 +543,11 @@
       "count": 0,
       "date": "2024-03-09",
       "members": []
+    },
+    {
+      "count": 0,
+      "date": "2024-03-10",
+      "members": []
     }
   ],
   "months": [
@@ -560,6 +565,6 @@
     }
   ],
   "offset": 1,
-  "weekCount": 10,
+  "weekCount": 11,
   "year": 2024
 }
