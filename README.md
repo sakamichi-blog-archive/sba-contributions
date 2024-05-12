@@ -4,10 +4,10 @@ Sakamichi blog posts visualized as the GitHub contributions chart.
 
 ## Images
 
-Chart PNGs can be found in `images/`.
+Charts rendered as PNGs can be found in `images/`.
 
-![Nogi 2023](./images/nogi/2023.png)
+![Nogi 2024](./images/nogi/2024.png)
 
-![Hinata 2023](./images/hinata/2023.png)
+![Hinata 2024](./images/hinata/2024.png)
 
-![Sakura 2023](./images/sakura/2023.png)
+![Sakura 2024](./images/sakura/2024.png)
