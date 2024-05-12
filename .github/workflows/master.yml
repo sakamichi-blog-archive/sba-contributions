@@ -28,7 +28,7 @@ jobs:
           key: ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-nextjs-
-      - run: npm install
+      - run: npm ci
       - run: npm run build
       - run: npm i -g firebase-tools
       - run: firebase deploy -m "$(echo $COMMIT_MESSAGE | head -1)"
