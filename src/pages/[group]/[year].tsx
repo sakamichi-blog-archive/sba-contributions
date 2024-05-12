@@ -120,119 +120,117 @@ export default function Year({ yearData }: YearPageProps) {
   }
   const daysCount = yearData.segments.map(segment => segment.days).flat().length
 
-  return (
-    <>
-      <Head>
-        <title>{ `${ memberName || groupData.englishShort } ${ year } Blog Contributions` }</title>
-      </Head>
-      <div className="year">
-        <h1 className="year__title">
-          { memberName || groupData.englishShort } { year } <span>{ count } contribution{ count !== 1 ? "s" : "" }{
-            count > 1 && (
-              <> ({ (count / daysCount).toFixed(1) } per day)</>
-            )
-          }</span>
-        </h1>
-        <div className="year__contributions">
-        { segments.map((segment, segmentIndex) => (
-          <div className="year__contributions__segment" key={ segmentIndex }>
-            <ul className="year__contributions__segment__months">
-            { segment.months.map((month, i) => (
-              <li
-                style={{
-                  gridColumn: `${ month.weekIndex + 1 }`
-                }}
-                key={ i }>
-                { month.name }
-              </li>
-            ))}
-            </ul>
-            <ul className="year__contributions__segment__days">
-              <li>Sun</li>
-              <li>Mon</li>
-              <li>Tue</li>
-              <li>Wed</li>
-              <li>Thu</li>
-              <li>Fri</li>
-              <li>Sat</li>
-            </ul>
-            <ul className="year__contributions__segment__squares">
-            { segment.days.map((day, dayIndex) => (
-              <li
-                className={
-                  getClassName(day.count) + " "
-                  + (activeSquare === day.date ? "focused" : "")
-                }
-                style={{ gridRowStart: dayIndex === 0 ? segment.offset + 1 : 0 }}
-                key={ day.date }
-                onClick={ () => handleActiveSquare(day.date) }
-              >
-                { day.count }
-              { day.count > 0 && (
-                <a className="link" href={ getOfficialLink(day) } target="_blank" rel="noopener noreferrer">
-                  { memberName || groupData.englishShort } { getDateFormatted(day.date) }
-                </a>
-              ) }
-                <span>
-                  { getDateFormatted(day.date) }: { day.count } post{ day.count === 1 ? "" : "s" }
-                </span>
-              </li>
-            ))}
-            </ul>
-          </div>
-        ))}
-          <div className="year__contributions__legend">
-            <ul className="colors">
-            { [1, 2, 3, 4, 5].map(n => (
-              <li key={ n }>
-                <span className={ `square level-${ n }` }></span>
-              {
-                function() {
-                  if (n === 1) {
-                    return (
-                      <span>0</span>
-                    )
-                  } else if (n === 5)  {
-                    return (
-                      <span>10-</span>
-                    )
-                  } else {
-                    return (
-                      <span>{ (n - 2) * BLOG_COUNT_STEP + 1 }-{ (n - 1) * BLOG_COUNT_STEP }</span>
-                    )
-                  }
-                }()
+  return <>
+    <Head>
+      <title>{ `${ memberName || groupData.englishShort } ${ year } Blog Contributions` }</title>
+    </Head>
+    <div className="year">
+      <h1 className="year__title">
+        { memberName || groupData.englishShort } { year } <span>{ count } contribution{ count !== 1 ? "s" : "" }{
+          count > 1 && (
+            <> ({ (count / daysCount).toFixed(1) } per day)</>
+          )
+        }</span>
+      </h1>
+      <div className="year__contributions">
+      { segments.map((segment, segmentIndex) => (
+        <div className="year__contributions__segment" key={ segmentIndex }>
+          <ul className="year__contributions__segment__months">
+          { segment.months.map((month, i) => (
+            <li
+              style={{
+                gridColumn: `${ month.weekIndex + 1 }`
+              }}
+              key={ i }>
+              { month.name }
+            </li>
+          ))}
+          </ul>
+          <ul className="year__contributions__segment__days">
+            <li>Sun</li>
+            <li>Mon</li>
+            <li>Tue</li>
+            <li>Wed</li>
+            <li>Thu</li>
+            <li>Fri</li>
+            <li>Sat</li>
+          </ul>
+          <ul className="year__contributions__segment__squares">
+          { segment.days.map((day, dayIndex) => (
+            <li
+              className={
+                getClassName(day.count) + " "
+                + (activeSquare === day.date ? "focused" : "")
               }
-              </li>
-            ))}
-            </ul>
-          </div>
+              style={{ gridRowStart: dayIndex === 0 ? segment.offset + 1 : 0 }}
+              key={ day.date }
+              onClick={ () => handleActiveSquare(day.date) }
+            >
+              { day.count }
+            { day.count > 0 && (
+              <a className="link" href={ getOfficialLink(day) } target="_blank" rel="noopener noreferrer">
+                { memberName || groupData.englishShort } { getDateFormatted(day.date) }
+              </a>
+            ) }
+              <span>
+                { getDateFormatted(day.date) }: { day.count } post{ day.count === 1 ? "" : "s" }
+              </span>
+            </li>
+          ))}
+          </ul>
+        </div>
+      ))}
+        <div className="year__contributions__legend">
+          <ul className="colors">
+          { [1, 2, 3, 4, 5].map(n => (
+            <li key={ n }>
+              <span className={ `square level-${ n }` }></span>
+            {
+              function() {
+                if (n === 1) {
+                  return (
+                    <span>0</span>
+                  )
+                } else if (n === 5)  {
+                  return (
+                    <span>10-</span>
+                  )
+                } else {
+                  return (
+                    <span>{ (n - 2) * BLOG_COUNT_STEP + 1 }-{ (n - 1) * BLOG_COUNT_STEP }</span>
+                  )
+                }
+              }()
+            }
+            </li>
+          ))}
+          </ul>
         </div>
       </div>
-      <div className="member-filter">
-        <select
-          onChange={ filterByMember }
+    </div>
+    <div className="member-filter">
+      <select
+        onChange={ filterByMember }
+      >
+        <option value="-1">Filter by member</option>
+      { generations.map(generation => (
+        <optgroup
+          label={ `${ generation.generation + getNumberSuffix(generation.generation) } generation` }
+          key={ generation.generation }
         >
-          <option value="-1">Filter by member</option>
-        { generations.map(generation => (
-          <optgroup
-            label={ `${ generation.generation + getNumberSuffix(generation.generation) } generation` }
-            key={ generation.generation }
-          >
-          { generation.members.map(member => (
-            <option key={ member.id } value={ members.indexOf(member) }>
-              { member.nameEnglish }
-            </option>
-          ))}
-          </optgroup>
+        { generation.members.map(member => (
+          <option key={ member.id } value={ members.indexOf(member) }>
+            { member.nameEnglish }
+          </option>
         ))}
-        </select>
-      </div>
-      <Link href="/">
-        <a className="back-home">← Back home</a>
-      </Link>
-    </>
-  )
+        </optgroup>
+      ))}
+      </select>
+    </div>
+    <Link href="/" className="back-home">
+      ← Back home
+    </Link>
+  </>
 }
 
 interface GroupYearParams extends ParsedUrlQuery {
