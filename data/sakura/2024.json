@@ -1328,6 +1328,11 @@
       "count": 0,
       "date": "2024-05-25",
       "members": []
+    },
+    {
+      "count": 0,
+      "date": "2024-05-26",
+      "members": []
     }
   ],
   "months": [
@@ -1353,6 +1358,6 @@
     }
   ],
   "offset": 1,
-  "weekCount": 21,
+  "weekCount": 22,
   "year": 2024
 }
