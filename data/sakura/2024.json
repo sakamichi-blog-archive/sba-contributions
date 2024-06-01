@@ -1379,6 +1379,11 @@
         "65",
         "06"
       ]
+    },
+    {
+      "count": 0,
+      "date": "2024-06-01",
+      "members": []
     }
   ],
   "months": [
@@ -1401,6 +1406,10 @@
     {
       "name": "May",
       "weekIndex": 17
+    },
+    {
+      "name": "Jun",
+      "weekIndex": 21
     }
   ],
   "offset": 1,
