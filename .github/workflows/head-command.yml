@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: echo $COMMIT_MESSAGE | head -1
-        env:
-          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+      - name: Set header of commit message as env variable
+        run: |
+          COMMIT_MESSAGE_HEADER=$(git log -1 --pretty=%B | head -1)
+          echo "COMMIT_MESSAGE_HEADER=${COMMIT_MESSAGE_HEADER}" >> $GITHUB_ENV
