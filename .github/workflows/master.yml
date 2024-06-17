@@ -31,7 +31,10 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: npm i -g firebase-tools
-      - run: firebase deploy -m "$(echo $COMMIT_MESSAGE | head -1)"
+      - name: Set header of commit message as env variable
+        run: |
+          COMMIT_MESSAGE_HEADER=$(git log -1 --pretty=%B | head -1)
+          echo "COMMIT_MESSAGE_HEADER=${COMMIT_MESSAGE_HEADER}" >> $GITHUB_ENV
+      - run: firebase deploy -m $COMMIT_MESSAGE_HEADER
         env:
-          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
