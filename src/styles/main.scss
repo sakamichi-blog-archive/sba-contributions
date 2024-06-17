@@ -1,9 +1,14 @@
-html, body {
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
   font-size: 12px;
   font-family: IBM Plex Mono, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, sans-serif;
   margin: 0;
   padding: 0;
 }
+
 * {
   box-sizing: border-box;
 }
