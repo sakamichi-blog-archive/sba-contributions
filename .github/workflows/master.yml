@@ -35,6 +35,6 @@ jobs:
         run: |
           COMMIT_MESSAGE_HEADER=$(git log -1 --pretty=%B | head -1)
           echo "COMMIT_MESSAGE_HEADER=${COMMIT_MESSAGE_HEADER}" >> $GITHUB_ENV
-      - run: firebase deploy -m $COMMIT_MESSAGE_HEADER
+      - run: firebase deploy -m "$COMMIT_MESSAGE_HEADER"
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
