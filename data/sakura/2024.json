@@ -1,5 +1,5 @@
 {
-  "count": 628,
+  "count": 630,
   "days": [
     {
       "count": 1,
@@ -1885,6 +1885,14 @@
       "count": 0,
       "date": "2024-07-31",
       "members": []
+    },
+    {
+      "count": 2,
+      "date": "2024-08-01",
+      "members": [
+        "46",
+        "58"
+      ]
     }
   ],
   "months": [
@@ -1915,6 +1923,10 @@
     {
       "name": "Jul",
       "weekIndex": 26
+    },
+    {
+      "name": "Aug",
+      "weekIndex": 30
     }
   ],
   "offset": 1,
