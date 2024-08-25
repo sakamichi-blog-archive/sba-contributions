@@ -1847,6 +1847,11 @@
       "count": 0,
       "date": "2024-08-24",
       "members": []
+    },
+    {
+      "count": 0,
+      "date": "2024-08-25",
+      "members": []
     }
   ],
   "months": [
@@ -1884,6 +1889,6 @@
     }
   ],
   "offset": 1,
-  "weekCount": 34,
+  "weekCount": 35,
   "year": 2024
 }
