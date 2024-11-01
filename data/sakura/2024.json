@@ -1,5 +1,5 @@
 {
-  "count": 907,
+  "count": 909,
   "days": [
     {
       "count": 1,
@@ -2712,6 +2712,14 @@
         "63",
         "48"
       ]
+    },
+    {
+      "count": 2,
+      "date": "2024-11-01",
+      "members": [
+        "46",
+        "61"
+      ]
     }
   ],
   "months": [
@@ -2754,6 +2762,10 @@
     {
       "name": "Oct",
       "weekIndex": 39
+    },
+    {
+      "name": "Nov",
+      "weekIndex": 43
     }
   ],
   "offset": 1,
