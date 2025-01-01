@@ -1,0 +1,25 @@
+{
+  "count": 5,
+  "days": [
+    {
+      "count": 5,
+      "date": "2025-01-01",
+      "members": [
+        "85",
+        "72",
+        "84",
+        "83",
+        "89"
+      ]
+    }
+  ],
+  "months": [
+    {
+      "name": "Jan",
+      "weekIndex": 0
+    }
+  ],
+  "offset": 3,
+  "weekCount": 1,
+  "year": 2025
+}
