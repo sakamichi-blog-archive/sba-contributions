@@ -1,5 +1,5 @@
 {
-  "count": 8,
+  "count": 10,
   "days": [
     {
       "count": 3,
@@ -42,6 +42,14 @@
       "count": 0,
       "date": "2025-01-06",
       "members": []
+    },
+    {
+      "count": 2,
+      "date": "2025-01-07",
+      "members": [
+        "53",
+        "62"
+      ]
     }
   ],
   "months": [
