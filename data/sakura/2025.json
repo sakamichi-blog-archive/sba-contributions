@@ -1,5 +1,5 @@
 {
-  "count": 25,
+  "count": 27,
   "days": [
     {
       "count": 3,
@@ -89,6 +89,14 @@
         "69",
         "58"
       ]
+    },
+    {
+      "count": 2,
+      "date": "2025-01-12",
+      "members": [
+        "64",
+        "51"
+      ]
     }
   ],
   "months": [
@@ -98,6 +106,6 @@
     }
   ],
   "offset": 3,
-  "weekCount": 2,
+  "weekCount": 3,
   "year": 2025
 }
