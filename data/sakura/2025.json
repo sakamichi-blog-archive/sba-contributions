@@ -264,6 +264,11 @@
       "count": 0,
       "date": "2025-02-01",
       "members": []
+    },
+    {
+      "count": 0,
+      "date": "2025-02-02",
+      "members": []
     }
   ],
   "months": [
@@ -277,6 +282,6 @@
     }
   ],
   "offset": 3,
-  "weekCount": 5,
+  "weekCount": 6,
   "year": 2025
 }
