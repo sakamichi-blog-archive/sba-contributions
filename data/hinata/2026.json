@@ -1,5 +1,5 @@
 {
-  "count": 106,
+  "count": 107,
   "days": [
     {
       "count": 5,
@@ -208,6 +208,13 @@
         "12",
         "37"
       ]
+    },
+    {
+      "count": 1,
+      "date": "2026-01-18",
+      "members": [
+        "34"
+      ]
     }
   ],
   "months": [
@@ -217,6 +224,6 @@
     }
   ],
   "offset": 4,
-  "weekCount": 3,
+  "weekCount": 4,
   "year": 2026
 }
